@@ -20,7 +20,7 @@ USE_SO  = False
 USE_HUGGINGFACE = True
 
 if USE_HUGGINGFACE:
-    from transformers import BertTokenizer, BertForMaskedLM
+    from transformers import BertTokenizer, BertForMaskedLM, BasicTokenizer
 else:
     from pytorch_pretrained_bert.tokenization import BertTokenizer
     from pytorch_pretrained_bert.modeling import BertForMaskedLM # ADNO: BertModel unused
@@ -52,6 +52,7 @@ class InputFeatures(object):
         self.input_ids = input_ids
         self.input_mask = input_mask
         self.input_type_ids = input_type_ids
+
 
 def convert_sentence_to_token(sentence, seq_length, tokenizer):
 
@@ -106,6 +107,65 @@ def convert_sentence_to_token(sentence, seq_length, tokenizer):
             position2.append(new_pos)
 
     return tokenized_text, nltk_sent, position2
+
+
+def basic_convert_sentence_to_token(sentence, seq_length, tokenizer, basic_tokenizer):
+    '''
+    Safer/better version of convert_sentence for many models.
+    Uses BasicTokenizer, handles [UNK] tokens etc.
+    '''
+    sentence    = sentence.lower()
+    tokenized   = tokenizer.tokenize(sentence)
+    words       = basic_tokenizer.tokenize(sentence)
+    w_lens      = [len(tokenizer.tokenize(w)) for w in words]
+
+    assert len(tokenized) < seq_length-2
+    assert sum(w_lens) == len(tokenized), (sum(w_lens), len(tokenized), sentence)
+
+    pos = len(tokenized)  + (2 if (USE_SEP or USE_SO) else 1)
+    position2 = []
+    for w_len in w_lens:
+        if w_len == 1:
+            position2.append(pos)
+        else:
+            position2.append(list(range(pos, pos+w_len)))
+        pos += w_len
+
+    return tokenized, words, position2
+
+def cat_elem_list(a, b):
+    if not isinstance(a, list):
+        a = [a]
+    if not isinstance(b, list):
+        b = [b]
+    return a + b # create a new list
+
+
+def words_pos_join(words, position, words_to_join):
+    '''
+    >>> words_pos_join(["x", "a", "b", "c"], [0, [1, 1], [2, 2], 3], ["a", "b", "c"])
+    (['x', 'abc'], [0, [1, 1, 2, 2, 3]])
+    '''
+    n = len(words_to_join)
+    m = len(words)
+    wj = []
+    pj = []
+    i = 0
+    while i < m:
+        w = words[i]
+        p = position[i]
+        subw = words[i : i + n]
+        if subw == words_to_join:
+            w = ''.join(subw)
+            for pp in position[i+1 : i+n]:
+                p = cat_elem_list(p, pp)
+            i += n
+        else:
+            i += 1
+        wj.append(w)
+        pj.append(p)
+    return (wj, pj)
+
 
 def convert_whole_word_to_feature(tokens_a, mask_position, seq_length, tokenizer, prob_mask):
     """Loads a data file into a list of `InputFeature`s."""
@@ -830,6 +890,8 @@ def main():
                         action='store_true')
     parser.add_argument('--no-stemming',
                         action='store_true')
+    parser.add_argument('--basic-tokenizer',
+                        action='store_true')
     parser.add_argument(
         '--output', '-o', type=argparse.FileType('w'), default=None,
         help='Output file name (TSAR-like format)'
@@ -919,6 +981,9 @@ def main():
 
         model.eval()
 
+        if args.basic_tokenizer:
+            basic_tokenizer = BasicTokenizer(do_lower_case=False)
+
         for i in tqdm(range(eval_size)):
 
             print('Sentence {} rankings: '.format(i))
@@ -928,7 +993,21 @@ def main():
             print(eval_examples[i])
             print(mask_words[i])
 
-            tokens, words, position = convert_sentence_to_token(eval_examples[i], args.max_seq_length, tokenizer)
+            if args.basic_tokenizer:
+                # ADNO:
+                tokens, words, position = basic_convert_sentence_to_token(
+                    eval_examples[i], args.max_seq_length, tokenizer, basic_tokenizer
+                    )
+                # Handle when dataset tokenization is different from basic_tokenizer,
+                # e.g. "burguesas-conservadoras" is one word in a dataset.
+                mask_w = mask_words[i].lower()
+                if mask_w not in words:
+                    mask_w_tokens = basic_tokenizer.tokenize(mask_w)
+                    assert len(mask_w_tokens) != 1
+                    words, position = words_pos_join(words, position, mask_w_tokens)
+                    assert mask_w in words, (mask_w, mask_w_tokens, words)
+            else:
+                tokens, words, position = convert_sentence_to_token(eval_examples[i], args.max_seq_length, tokenizer)
 
             assert len(words)==len(position)
 

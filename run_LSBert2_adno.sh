@@ -39,7 +39,7 @@ python LSBert2_adno.py \
   --max_seq_length 350 \
   --prob_mask 0.5 \
   --eval_dir datasets/$DATA_TSAR_ES \
-  --bert_model $BERT_ES \
+  --bert_model $BERT_ES --basic-tokenizer \
   --word_embeddings $FTES \
   --word_frequency $WFES \
   --ppdb UNUSED \
