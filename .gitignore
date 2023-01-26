@@ -14,3 +14,7 @@ TODO/
 # models
 fasttext/
 fasttext
+
+# results
+results/
+tsar*

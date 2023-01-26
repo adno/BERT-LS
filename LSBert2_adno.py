@@ -10,6 +10,7 @@ import random
 import math
 import sys
 import re
+from tqdm import tqdm
 
 # MLM input form experiments (True/False for original LSBert):
 USE_SEP = True
@@ -17,15 +18,12 @@ USE_SO  = False
 
 # Use huggingface API instead of local files
 USE_HUGGINGFACE = True
-DEBUG_HF = False
 
 if USE_HUGGINGFACE:
     from transformers import BertTokenizer, BertForMaskedLM
 else:
     from pytorch_pretrained_bert.tokenization import BertTokenizer
     from pytorch_pretrained_bert.modeling import BertForMaskedLM # ADNO: BertModel unused
-    if DEBUG_HF:
-        from transformers import BertTokenizer as HF_BertTokenizer, BertForMaskedLM as HF_BertForMaskedLM
 
 from sklearn.metrics.pairwise import cosine_similarity as cosine
 
@@ -344,18 +342,20 @@ def read_eval_index_dataset(data_path, is_label=True):
 
     return sentences,mask_words,mask_labels
 
-def read_eval_dataset(data_path, is_label=True):
+def read_eval_dataset(data_path, is_label=True, tsar=False):
     sentences=[]
     mask_words = []
     mask_labels = []
     id = 0
 
-    with open(data_path, "r", encoding='ISO-8859-1') as reader:
+    with open(data_path, "r", encoding=(
+        'utf-8' if tsar else 'ISO-8859-1'
+        )) as reader:
         while True:
             line = reader.readline()
             if is_label:
                 id += 1
-                if id==1:
+                if id==1 and not tsar:  # TSAR format has no header
                     continue
                 if not line:
                     break
@@ -407,7 +407,10 @@ def BERT_candidate_generation(source_word, pre_tokens, pre_scores, ps, num_selec
         if(token_stem == source_stem):
             continue
 
-        if (len(token_stem)>=3) and (token_stem[:3]==source_stem[:3]):
+        if (
+            (len(token_stem)>=3) and (token_stem[:3]==source_stem[:3]) and
+            not isinstance(ps, ZeroStemmer) # TODO: no heuristics for the ZeroStemmer
+            ):
             continue
 
         cur_tokens.append(token)
@@ -731,6 +734,12 @@ def preprocess_tag(tag):
     else:
         return 's'
 
+
+class ZeroStemmer:
+    def stem(self, w):
+        return w
+
+
 def main():
     parser = argparse.ArgumentParser()
 
@@ -804,9 +813,10 @@ def main():
                         type=str,
                         required=True,
                         help="The path of word frequency.")
-    parser.add_argument("--no_cuda",
-                        action='store_true',
-                        help="Whether not to use CUDA when available")
+# NO EFFECT
+#     parser.add_argument("--no_cuda",
+#                         action='store_true',
+#                         help="Whether not to use CUDA when available")
     parser.add_argument("--local_rank",
                         type=int,
                         default=-1,
@@ -815,8 +825,15 @@ def main():
                         type=int,
                         default=42,
                         help="random seed for initialization")
+    # ADNO:
     parser.add_argument('--no-ranking',
-                        action='store_true') # TODO ADNO
+                        action='store_true')
+    parser.add_argument('--no-stemming',
+                        action='store_true')
+    parser.add_argument(
+        '--output', '-o', type=argparse.FileType('w'), default=None,
+        help='Output file name (TSAR-like format)'
+        )
     args = parser.parse_args()
 
 
@@ -850,17 +867,9 @@ def main():
 
     model.to(device)
 
-    if DEBUG_HF:
-        hf_model = HF_BertForMaskedLM.from_pretrained(
-                args.bert_model,
-                output_attentions=True # TODO unused
-            )
-
-        hf_model.to(device)
 
     output_sr_file = open(args.output_SR_file,"a+")
 
-# TODO
     if not args.no_ranking:
         print("Loading embeddings ...")
 
@@ -874,9 +883,8 @@ def main():
     #word_count_path = "word_frequency_wiki.txt"
     word_count = getWordCount(word_count_path)
 
-    ps = PorterStemmer()
+    ps = ZeroStemmer() if args.no_stemming else PorterStemmer()
 
-#TODO
     if not args.no_ranking:
         print("loading PPDB ...")
         ppdb_path = args.ppdb
@@ -893,9 +901,13 @@ def main():
     if args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
 
 
-        fileName = args.eval_dir.split('/')[-1][:-4]
-        if fileName=='lex.mturk':
+        fileName = args.eval_dir.split('/')[-1]
+        if fileName=='lex.mturk.txt':
             eval_examples, mask_words, mask_labels = read_eval_dataset(args.eval_dir)
+        elif fileName.startswith('tsar') and fileName.endswith('.tsv'):
+            eval_examples, mask_words, mask_labels = read_eval_dataset(
+                args.eval_dir, tsar=True
+                )
         else:
             eval_examples, mask_words, mask_labels = read_eval_index_dataset(args.eval_dir)
 
@@ -906,11 +918,8 @@ def main():
         #logger.info("  Batch size = %d", args.eval_batch_size)
 
         model.eval()
-        if DEBUG_HF:
-            hf_model.eval()
 
-
-        for i in range(eval_size):
+        for i in tqdm(range(eval_size)):
 
             print('Sentence {} rankings: '.format(i))
             #output_sr_file.write(str(i))
@@ -923,7 +932,7 @@ def main():
 
             assert len(words)==len(position)
 
-            mask_index = words.index(mask_words[i])
+            mask_index = words.index(mask_words[i].lower())  # ADNO BUGFIX: `words` are lower-cased
 
             mask_context = extract_context(words,mask_index,window_context)
 
@@ -950,8 +959,6 @@ def main():
                 # Predict all tokens
             with torch.no_grad():
                 # ADNO
-                if DEBUG_HF:
-                    hf_out_dict = hf_model(input_ids=tokens_tensor, attention_mask=attention_mask, token_type_ids=token_type_ids)
                 # all_attentions      = out_dict['attentions'] UNUSED
                 if USE_HUGGINGFACE:
                     out_dict = model(input_ids=tokens_tensor, attention_mask=attention_mask, token_type_ids=token_type_ids)
@@ -959,9 +966,6 @@ def main():
                 else:
                     out_dict = model(tokens_tensor, token_type_ids,attention_mask)
                     __, prediction_scores = out_dict
-                    if DEBUG_HF:
-                        hf_prediction_scores   = hf_out_dict['logits']
-                        assert (prediction_scores == hf_prediction_scores).all(), ('prediction_scores', prediction_scores, 'hf_prediction_scores', hf_prediction_scores, (tokens_tensor, token_type_ids, attention_mask))
 
             if isinstance(mask_position,list):
                 predicted_top = prediction_scores[0, mask_position[0]].topk(80)
@@ -977,7 +981,7 @@ def main():
 
             words_tag = nltk.pos_tag(words)
 
-            complex_word_index = words.index(mask_words[i])
+            complex_word_index = words.index(mask_words[i].lower())  # ADNO BUGFIX: `words` are lower-cased
 
             complex_word_tag = words_tag[complex_word_index][1]
 
@@ -985,7 +989,6 @@ def main():
 
             complex_word_tag = preprocess_tag(complex_word_tag)
 
-# TODO
             if not args.no_ranking:
                 cgPPDB = ppdb_model.predict(mask_words[i],complex_word_tag)
 
@@ -1000,6 +1003,12 @@ def main():
 
 
                 substitution_words.append(pre_word)
+
+            if args.output is not None:
+                subs_str = '\t'.join(cgBERT)
+                args.output.write(
+                    f'{eval_examples[i]}\t{mask_words[i]}\t{subs_str}\n'
+                    )
 
 
         potential,precision,recall,F_score=evaulation_SS_scores(CGBERT, mask_labels)
