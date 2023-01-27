@@ -366,7 +366,7 @@ def getWordCount(word_count_path):
                 if not line.startswith('#'):
                     break # Skips one more after comments, i.e. header
             for line in f:
-                w, c = line.rstrip().split('\t')
+                w, c, *__ = line.rstrip().split('\t')
                 word2count[w] = int(c)
 
     return word2count
