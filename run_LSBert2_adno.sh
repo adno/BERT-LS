@@ -19,72 +19,20 @@ DATA_TSAR_PT=tsar2022_pt_test_gold.tsv
 
 mkdir -p results
 
-# python LSBert2_adno.py \
-#   --no-ranking \
-#   --do_eval \
-#   --do_lower_case \
-#   --num_selections 20 \
-#   --prob_mask 0.5 \
-#   --eval_dir datasets/$DATA_TSAR_EN \
-#   --bert_model $BERT_EN --basic-tokenizer \
-#   --max_seq_length 350 \
-#   --word_embeddings $FTEN \
-#   --word_frequency $WFEN \
-#   --ppdb UNUSED \
-#   -o results/adno_tsar_en.tsar \
-#   --output_SR_file results/adno_tsar_en.result > results/adno_tsar_en.out
-# 
-# python LSBert2_adno.py \
-#   --no-ranking \
-#   --no-stemming \
-#   --do_eval \
-#   --do_lower_case \
-#   --num_selections 20 \
-#   --max_seq_length 350 \
-#   --prob_mask 0.5 \
-#   --eval_dir datasets/$DATA_TSAR_ES \
-#   --bert_model $BERT_ES --basic-tokenizer \
-#   --word_embeddings $FTES \
-#   --word_frequency $WFES \
-#   --ppdb UNUSED \
-#   -o results/adno_tsar_es.tsar \
-#   --output_SR_file results/adno_tsar_es.result > results/adno_tsar_es.out
-# 
-# 
-# 
-# python LSBert2_adno.py \
-#   --no-ranking \
-#   --no-stemming \
-#   --do_eval \
-#   --num_selections 20 \
-#   --max_seq_length 350 \
-#   --prob_mask 0.5 \
-#   --eval_dir datasets/$DATA_TSAR_PT \
-#   --bert_model $BERT_PT --basic-tokenizer \
-#   --word_embeddings $FTPT \
-#   --word_frequency $WFPT \
-#   --ppdb UNUSED \
-#   -o results/adno_tsar_pt.tsar \
-#   --output_SR_file results/adno_tsar_pt.result > results/adno_tsar_pt.out
-
-DATA_TSAR_TRIAL_EN=tsar2022_en_trial_gold.tsv
-DATA_TSAR_TRIAL_ES=tsar2022_es_trial_gold.tsv
-DATA_TSAR_TRIAL_PT=tsar2022_pt_trial_gold.tsv
-
 python LSBert2_adno.py \
   --no-ranking \
   --do_eval \
   --do_lower_case \
   --num_selections 20 \
   --prob_mask 0.5 \
-  --eval_dir datasets/$DATA_TSAR_TRIAL_EN \
+  --eval_dir datasets/$DATA_TSAR_EN \
   --bert_model $BERT_EN --basic-tokenizer \
   --max_seq_length 350 \
   --word_embeddings $FTEN \
   --word_frequency $WFEN \
   --ppdb UNUSED \
-  -o results/adno_tsar_trial_en.tsar \
-  --output_SR_file results/adno_tsar_trial_en.result > results/adno_tsar_trial_en.out
+  -o results/adno_tsar_en.tsar \
+  --output_SR_file results/adno_tsar_en.result > results/adno_tsar_en.out
 
 python LSBert2_adno.py \
   --no-ranking \
@@ -94,13 +42,15 @@ python LSBert2_adno.py \
   --num_selections 20 \
   --max_seq_length 350 \
   --prob_mask 0.5 \
-  --eval_dir datasets/$DATA_TSAR_TRIAL_ES \
+  --eval_dir datasets/$DATA_TSAR_ES \
   --bert_model $BERT_ES --basic-tokenizer \
   --word_embeddings $FTES \
   --word_frequency $WFES \
   --ppdb UNUSED \
-  -o results/adno_tsar_trial_es.tsar \
-  --output_SR_file results/adno_tsar_trial_es.result > results/adno_tsar_trial_es.out
+  -o results/adno_tsar_es.tsar \
+  --output_SR_file results/adno_tsar_es.result > results/adno_tsar_es.out
+
+
 
 python LSBert2_adno.py \
   --no-ranking \
@@ -109,10 +59,60 @@ python LSBert2_adno.py \
   --num_selections 20 \
   --max_seq_length 350 \
   --prob_mask 0.5 \
-  --eval_dir datasets/$DATA_TSAR_TRIAL_PT \
+  --eval_dir datasets/$DATA_TSAR_PT \
   --bert_model $BERT_PT --basic-tokenizer \
   --word_embeddings $FTPT \
   --word_frequency $WFPT \
   --ppdb UNUSED \
-  -o results/adno_tsar_trial_pt.tsar \
-  --output_SR_file results/adno_tsar_trial_pt.result > results/adno_tsar_trial_pt.out
+  -o results/adno_tsar_pt.tsar \
+  --output_SR_file results/adno_tsar_pt.result > results/adno_tsar_pt.out
+
+# DATA_TSAR_TRIAL_EN=tsar2022_en_trial_gold.tsv
+# DATA_TSAR_TRIAL_ES=tsar2022_es_trial_gold.tsv
+# DATA_TSAR_TRIAL_PT=tsar2022_pt_trial_gold.tsv
+# 
+# python LSBert2_adno.py \
+#   --no-ranking \
+#   --do_eval \
+#   --do_lower_case \
+#   --num_selections 20 \
+#   --prob_mask 0.5 \
+#   --eval_dir datasets/$DATA_TSAR_TRIAL_EN \
+#   --bert_model $BERT_EN --basic-tokenizer \
+#   --max_seq_length 350 \
+#   --word_embeddings $FTEN \
+#   --word_frequency $WFEN \
+#   --ppdb UNUSED \
+#   -o results/adno_tsar_trial_en.tsar \
+#   --output_SR_file results/adno_tsar_trial_en.result > results/adno_tsar_trial_en.out
+# 
+# python LSBert2_adno.py \
+#   --no-ranking \
+#   --no-stemming \
+#   --do_eval \
+#   --do_lower_case \
+#   --num_selections 20 \
+#   --max_seq_length 350 \
+#   --prob_mask 0.5 \
+#   --eval_dir datasets/$DATA_TSAR_TRIAL_ES \
+#   --bert_model $BERT_ES --basic-tokenizer \
+#   --word_embeddings $FTES \
+#   --word_frequency $WFES \
+#   --ppdb UNUSED \
+#   -o results/adno_tsar_trial_es.tsar \
+#   --output_SR_file results/adno_tsar_trial_es.result > results/adno_tsar_trial_es.out
+# 
+# python LSBert2_adno.py \
+#   --no-ranking \
+#   --no-stemming \
+#   --do_eval \
+#   --num_selections 20 \
+#   --max_seq_length 350 \
+#   --prob_mask 0.5 \
+#   --eval_dir datasets/$DATA_TSAR_TRIAL_PT \
+#   --bert_model $BERT_PT --basic-tokenizer \
+#   --word_embeddings $FTPT \
+#   --word_frequency $WFPT \
+#   --ppdb UNUSED \
+#   -o results/adno_tsar_trial_pt.tsar \
+#   --output_SR_file results/adno_tsar_trial_pt.result > results/adno_tsar_trial_pt.out

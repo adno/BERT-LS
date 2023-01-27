@@ -11,11 +11,6 @@ do
 		LANG_TT_OUT="results/adno_tsar${tt}_${lang}.potential"
 		PRED="results/adno_tsar${tt}_${lang}.tsar"
 		echo $PRED
-# 		python marbls_run.py "TSAR${tt}" \
-# 			--language $lang \
-# 			--evaluate $PRED \
-# 			--at-k | \
-# 			sed -n '/poten./{n;p;}' | cut -f 1 >> $LANG_TT_OUT
 		if [ -z "$tt" ]
 		then
 			tt='_test'
