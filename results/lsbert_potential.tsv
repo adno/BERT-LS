@@ -1,0 +1,6 @@
+dataset	en_test	es_test	pt_test
+Potential@1	0.5522	0.2744	0.5133
+Potential@3	0.8203	0.4402	0.6978
+Potential@5	0.9061	0.519	0.7673
+Potential@10	0.949	0.5869	0.8208
+Potential	0.9812	0.6576	0.8689

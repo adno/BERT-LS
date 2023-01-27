@@ -1,0 +1,1500 @@
+***** Running evaluation *****
+  Num examples = %d 374
+Sentence 0 rankings: 
+ao prever a distribuição gratuita de uniforme para alunos da rede pública um projeto em discussão no congresso institui uma controvérsia em escolas prefeituras e secretarias de educação
+controvérsia
+['polêmica', 'discussão', 'disputa', 'confusão', 'controversa', 'tensão', 'rivalidade', 'dúvida', 'debate', 'proibição', 'competição', 'controvérsias', 'questão', 'preocupação', 'disciplina', 'novidade', 'tolerância', 'crise', 'lei', 'repercussão']
+Sentence 1 rankings: 
+a matéria ainda precisa passar pela câmara dos deputados e pela presidência da república antes de entrar em vigor
+matéria
+['lei', 'proposta', 'medida', 'norma', 'legislação', 'MP', 'Lei', 'regra', 'reforma', 'resolução', 'alteração', 'redação', 'decisão', 'mudança', 'mesma', 'prorrogação', 'novidade', 'aprovação', 'comissão', 'iniciativa']
+Sentence 2 rankings: 
+o acessório polêmico entrou no projeto de autoria do senador cícero lucena psdbpb graças a uma emenda aprovada na comissão de educação do senado em outubro
+polêmico
+['polêmica', 'também', 'só', 'polêm', 'não', 'proibido', 'misterioso', 'que', 'estranho', ',', 'escolar', 'religioso', 'tecnológico', 'dourado', 'negro', 'acima', 'jurídico', 'esportivo', 'educacional', 'ainda']
+Sentence 3 rankings: 
+toda a operação teria sido armada para vingar a morte de um companheiro em um atentado a bomba
+armada
+['montada', 'feita', 'planejada', 'realizada', 'executada', 'criada', 'organizada', 'iniciada', 'contratada', 'tomada', 'armado', 'formada', 'empregada', 'instalada', 'lançada', 'escalada', 'promovida', 'usada', 'escolhida', 'comandada']
+Sentence 4 rankings: 
+blitze barreiras e operações em profusão foram insuficientes para conter um crescimento de 1112 em relação a março de 2006
+profusão
+['massa', 'quantidade', 'excesso', 'abundância', 'geral', 'conjunto', 'rede', 'multidão', 'dispersão', 'fluxo', 'volume', 'profundidade', 'bando', 'prof', 'série', 'campo', 'nuvem', 'velocidade', 'escala', 'área']
+Sentence 5 rankings: 
+o subcomandantegeral da bm coronel paulo roberto mendes reconheceu que o incremento nos roubos pode estar ligado a deficiências nas manobras adotadas
+incremento
+['aumento', 'crescimento', 'avanço', 'incre', 'reforço', 'salto', 'excesso', 'aumentou', 'ganho', 'atraso', 'impacto', 'elevação', 'aumenta', 'pico', 'impulso', 'aquecimento', 'crescente', 'aumentado', 'estímulo', 'aumentar']
+Sentence 6 rankings: 
+diferentemente de outros pleitos as legendas este ano são obrigadas a driblar novas regras eleitorais desgaste da imagem da classe política e projetos nacionais envolvendo líderes gaúchos
+desgaste
+['desgas', 'renovação', 'degradação', 'fortalecimento', 'erosão', 'e', 'modernização', 'rebaixamento', 'afastamento', 'rejeição', 'reestruturação', 'alteração', 'reformulação', 'destruição', 'exposição', 'valorização', 'limpeza', 'mudanças', 'mudança', 'reforma']
+Sentence 7 rankings: 
+para os analistas políticos a indecisão eleitoral de 2006 é fruto de uma confluência de fatores
+fruto
+['resultado', 'consequência', 'resultante', 'produto', 'frutos', 'reflexo', 'proveniente', 'derivada', 'filha', 'derivado', 'decorrência', 'típica', 'objeto', 'nascida', 'parte', 'efeito', 'obra', 'vítima', 'característica', 'símbolo']
+Sentence 8 rankings: 
+os partidos estão mais cautelosos
+cautelosos
+['fortes', 'unidos', 'organizados', 'conservadores', 'seguros', 'fechados', 'ativos', 'radicais', 'abertos', 'frios', 'críticos', 'independentes', 'preparados', 'determinados', 'sérios', 'rápidos', 'liberais', 'livres', 'sensíveis', 'próximos']
+Sentence 9 rankings: 
+o relatório produzido pela comissão criada para revisar processos administrativos da assembléia legislativa destaca temas que devem provocar polêmica no parlamento
+revisar
+['revis', 'avaliar', 'analisar', 'rever', 'revisão', 'acompanhar', 'julgar', 'verificar', 'investigar', 'estudar', 'discutir', 'comentar', 'alterar', 'ler', 'os', 'modificar', 'melhorar', 'restaurar', 'concluir', 'retomar']
+Sentence 10 rankings: 
+um deles se refere ao fato de cada deputado ter três carros cadastrados para fins de indenização por uso de carro particular
+cadastrados
+['registrados', 'particulares', 'disponíveis', 'pessoais', 'usados', 'próprios', 'cadas', 'utilizados', 'diferentes', 'registrado', ',', 'funcionais', 'indicados', 'privados', 'públicos', 'individuais', 'identificados', 'adquiridos', 'legais', 'novos']
+Sentence 11 rankings: 
+antunes vai apresentar o conteúdo do relatório hoje à mesa diretora e posteriormente implementar novas medidas de contenção e controle
+contenção
+['prevenção', 'gestão', 'fiscalização', 'planejamento', 'controle', 'segurança', 'intervenção', 'proteção', 'defesa', 'acompanhamento', 'comando', 'regulação', 'coordenação', 'combate', 'vigilância', 'bloqueio', 'reforço', 'redução', 'manutenção', 'supervisão']
+Sentence 12 rankings: 
+viagens de carro ficam mais agradáveis quando os ocupantes podem fazer algo mais do que apreciar a paisagem
+ocupantes
+['passageiros', 'usuários', 'viajantes', 'participantes', 'veículos', 'carros', 'visitantes', 'cidadãos', 'proprietários', 'habitantes', 'indivíduos', 'pilotos', 'espectadores', 'moradores', 'envolvidos', 'turistas', 'automóveis', 'membros', 'pessoas', 'mesmos']
+Sentence 13 rankings: 
+uma arena suspensa com estacionamento subterrâneo e capacidade entre 45 e 50 mil espectadores
+espectadores
+['pessoas', 'torcedores', 'visitantes', 'lugares', 'participantes', 'convidados', 'habitantes', 'passageiros', 'ingressos', 'assentos', 'telespectadores', 'fãs', 'adeptos', 'expecta', 'indivíduos', 'consumidores', 'estudantes', 'presentes', 'cidadãos', '.']
+Sentence 14 rankings: 
+apesar das boas intenções a organização das nações unidas para a educação a ciência e a cultura unesco tratou de se desvincular da escolha
+desvincular
+['afastar', 'separar', 'retirar', 'livrar', 'esquecer', 'libertar', 'aproximar', 'perder', 'esconder', 'desistir', 'mover', 'tirar', 'retratar', 'aproveitar', 'eliminar', 'salvar', 'fugir', 'mudar', 'distinguir', 'convencer']
+Sentence 15 rankings: 
+plácido domingo lembrou o maravilhoso senso de humor do parceiro italiano capaz de proporcionar momentos tão divertidos nos concertos dos três tenores que nós nos esquecíamos de que estávamos cantando para um público que pagará
+proporcionar
+['promover', 'oferecer', 'produzir', 'criar', 'alcançar', 'provocar', 'permitir', 'fornecer', 'assegurar', 'proporcion', 'garantir', 'realizar', 'gerar', 'causar', 'dar', 'conceder', 'tornar', 'conquistar', 'conduzir', 'apresentar']
+Sentence 16 rankings: 
+o regente indiano zubin mehta um dos principais colaboradores do tenor destacou que luciano tinha uma aura especial emanava sensações positivas
+emanava
+['de', 'com', 'e', ',', 'para', 'por', 'das', 'em', 'trazendo', 'gerando', 'ou', 'produzindo', ':', 'atraindo', 'pelas', 'provocando', 'causando', 'contendo', 'dessas', 'como']
+Sentence 17 rankings: 
+ele ressalta que o próximo trânsito ocorrerá somente em 9 de maio de 2016
+ressalta
+['destaca', 'afirma', 'lembra', 'destacou', 'garante', 'diz', 'explica', 'alerta', 'afirmou', 'informa', 'revela', 'acrescenta', 'disse', 'acredita', 'confirma', 'aponta', 'comenta', 'defende', 'anuncia', 'informou']
+Sentence 18 rankings: 
+para evitar um novo desgaste político a administração federal não pretende influir ao menos por enquanto para que os senadores do pmdb contrários à cpmf sejam substituídos na ccj
+desgaste
+['desgas', 'escândalo', 'processo', 'confronto', 'isolamento', 'desastre', 'debate', 'problema', 'afastamento', 'prejuízo', 'gasto', 'golpe', 'conflito', 'dano', 'naufrágio', 'fortalecimento', 'declínio', 'episódio', 'momento', 'movimento']
+Sentence 19 rankings: 
+começamos a encaminhar em novembro de 2005 e só na metade do ano passado acertamos tudo e eles começaram a confeccionar o produto afirma a coordenadora
+confeccionar
+['produzir', 'fazer', 'elaborar', 'entregar', 'confec', 'receber', 'montar', 'vender', 'desenvolver', 'fornecer', 'construir', 'preparar', 'circular', 'mandar', 'realizar', 'fabrica', 'retirar', 'apresentar', 'distribuir', 'formar']
+Sentence 20 rankings: 
+é difícil parar com a depredação
+depredação
+['violência', 'corrupção', 'poluição', 'destruição', 'revolta', 'chuva', 'situação', 'raiva', 'agressão', 'ação', 'inflação', 'guerra', 'dor', 'confusão', 'festa', 'manifestação', 'crise', 'multidão', 'vida', 'corrida']
+Sentence 21 rankings: 
+as bolsas podem cair o que não vai cair é a economia venezuelana que está pujante como nunca disse
+pujante
+['crescendo', 'forte', 'sólida', 'fraca', 'viva', 'firme', 'bem', 'brilhante', 'feliz', 'rica', 'saudável', 'frágil', 'alegre', 'poderosa', 'estável', 'ativa', 'funcionando', 'grande', 'vitoriosa', 'animada']
+Sentence 22 rankings: 
+a principal celebração na comunidade judaica da capital ocorrerá amanhã no clube campestre macabi
+celebração
+['comemoração', 'festa', 'celebrações', 'manifestação', 'homenagem', 'celebra', 'cerimônia', 'celebrar', 'missa', 'reunião', 'celebrada', 'concentração', 'programação', 'tradição', 'comemorações', 'recepção', 'apresentação', 'realização', 'inauguração', 'referência']
+Sentence 23 rankings: 
+os donos argumentam que seus mascotes são limpos e saudáveis
+argumentam
+['afirmam', 'dizem', 'defendem', 'acreditam', 'falam', 'consideram', 'apontam', 'sugerem', 'argumenta', 'afirmaram', 'destacam', 'concordaram', 'exigem', 'decidem', 'disseram', 'indicam', 'argumentos', 'de', 'mantêm', 'mostram']
+Sentence 24 rankings: 
+o próprio ban kimoon que está no timor leste prometeu voltar a bali hoje para acompanhar de perto o diálogo e se necessário intervir para um acerto
+intervir
+['agir', 'inter', 'intervenção', 'entrar', 'atuar', 'participar', 'ajudar', 'colaborar', 'contribuir', 'interferência', 'operar', 'intervenções', 'recorrer', 'aparecer', 'interfer', 'provocar', 'avançar', 'ir', 'influenciar', 'usar']
+Sentence 25 rankings: 
+o anúncio foi feito pelo pontífice durante uma audiência geral na qual o papa informou que vai realizar uma nova assembléia de cardeais chamada de consistório
+pontífice
+['papa', 'Vaticano', 'Papa', 'cardeal', 'padre', 'sacerdote', 'bispo', 'arcebispo', 'presidente', 'religioso', 'papal', 'clero', 'ministro', 'cardeais', 'Francisco', 'pont', 'monarca', 'prefeito', 'líder', 'comunicado']
+Sentence 26 rankings: 
+a musculação do dólar e a expectativa de maior preço dos grãos representam âncoras para enfrentar águas turbulentas
+turbulentas
+['tur', 'difíceis', 'críticas', 'revoltas', 'profundas', '.', 'paradas', 'negras', 'quentes', 'disputadas', 'novas', 'fortes', 'maiores', 'correntes', 'dificuldades', '[UNK]', 'longas', 'desconhecidas', 'vagas', 'climáticas']
+Sentence 27 rankings: 
+depois de perder um quarto da receita nas vendas ao exterior dos últimos dois anos os moveleiros também espreitam chances de recuperar rentabilidade com um dólar entre r 210 e r 215 segundo maristela cusin longhi presidente da associação das indústrias de móveis do estado do rio grande do sul
+espreitam
+['têm', 'tem', 'encontram', 'buscam', 'procuram', 'tentam', 'apresentam', 'descobrem', 'reúnem', 'enfrentam', 'apontam', 'possuem', 'vê', 'teriam', 'terão', 'oferecem', 'contam', 'querem', 'mira', 'viram']
+Sentence 28 rankings: 
+depois de perder um quarto da receita nas vendas ao exterior dos últimos dois anos os moveleiros também espreitam chances de recuperar rentabilidade com um dólar entre r 210 e r 215 segundo maristela cusin longhi presidente da associação das indústrias de móveis do estado do rio grande do sul
+rentabilidade
+['receita', 'lucros', 'lucro', 'receitas', 'ganhos', 'rendimento', 'produtividade', 'retorno', 'renda', 'eficiência', 'desempenho', 'ren', 'valor', 'margem', 'performance', 'resultados', 'vendas', 'negócios', 'valorização', 'mercado']
+Sentence 29 rankings: 
+nas contas de antônio salton presidente da união brasileira de vitivinicultura uvibra a dose de importados no consumo nacional pode reduzir de 70 para 60 caso o dólar se mantenha acima de r 210
+reduzir
+['diminuir', 'aumentar', 'cair', 'passar', 'cortar', 'redução', 'alterar', 'ampliar', 'mudar', 'ser', 'perder', 'variar', 'levar', 'reduz', 'subir', 'deixar', 'afetar', 'crescer', 'rever', 'atingir']
+Sentence 30 rankings: 
+a expectativa está em torno do nome do deputado joão henrique blasi pmdb que foi o postulante mais votado pelo conselho da ordem dos advogados do brasil
+postulante
+['candidato', 'segundo', 'deputado', 'quinto', 'parlamentar', 'terceiro', 'nome', '[UNK]', 'suplente', 'representante', 'sexto', 'sétimo', 'vereador', 'primeiro', 'membro', 'homem', 'brasileiro', 'senador', 'presidente', 'advogado']
+Sentence 31 rankings: 
+o nosso é brasileiro colorido é um menino alegre com pontos de melancolia
+melancolia
+['alegria', 'felicidade', 'humor', 'esperança', 'depressão', 'emoção', 'paixão', 'beleza', 'coração', 'mel', 'cor', 'graça', 'amor', 'vida', 'poesia', 'fantasia', 'paz', 'harmonia', 'rosa', 'dor']
+Sentence 32 rankings: 
+amarrado a uma árvore à mercê de centenas de abelhas o cavalo de um brigadiano tentou se desvencilhar com coices e corcoveadas das ferroadas que o mataram em 40 minutos ontem de manhã na redenção
+ferroadas
+['abelhas', 'batidas', 'correntes', 'espadas', 'pedras', 'cordas', 'chamas', 'cargas', 'ameaças', 'armas', 'chuvas', 'tentativas', 'minas', 'máquinas', 'bombas', 'ferramentas', 'ferro', 'vezes', 'palavras', 'bolas']
+Sentence 33 rankings: 
+o animal deu alguns passos e começou a verter sangue pela boca
+verter
+['sair', 'ver', 'beber', 'correr', 'eliminar', 'perder', 'escapar', 'comer', 'ter', 'cair', 'entrar', 'retirar', 'lançar', 'tirar', 'produzir', 'emitir', 'transmitir', 'levar', 'jogar', 'colocar']
+Sentence 34 rankings: 
+volmar geraldo da silva nunes próreitor em exercício de extensão e cultura da ufpel afirma que a instituição apenas atendeu às reivindicações dos colegas do norte
+reivindicações
+['demandas', 'exigências', 'manifestações', 'necessidades', 'expectativas', 'pedidos', 'conquistas', 'questões', 'contribuições', 'reivindic', 'preocupações', 'representações', 'bandeiras', 'propostas', 'denúncias', 'lutas', 'pressões', 'alegações', 'iniciativas', 'protestos']
+Sentence 35 rankings: 
+o banco central chinês aumentou recentemente o depósito compulsório à vista dos bancos retirando dinheiro de circulação para evitar especulação com ações uma das principais formas de investimento no país
+compulsório
+['compu', 'obrigatório', 'pessoal', 'público', 'diário', 'adicional', 'exclusivo', 'mínimo', 'total', 'básico', 'periódico', 'financeiro', 'direto', 'extraordinário', 'soberano', 'efetivo', 'especial', 'integral', 'eletrônico', 'judicial']
+Sentence 36 rankings: 
+o recuo generalizado dos mercados foi utilizado pelo presidente do banco central henrique meirelles em defesa de uma atitude de prudência na condução da política econômica
+prudência
+['equilíbrio', 'tolerância', 'sabedoria', 'rigor', 'cuidado', 'maturidade', 'realismo', 'vigilância', 'coragem', 'sensibilidade', 'justiça', 'estabilidade', 'eficiência', 'disciplina', 'independência', 'precisão', 'controle', 'cuidados', 'inteligência', 'simplicidade']
+Sentence 37 rankings: 
+ao prever a distribuição gratuita de uniforme para alunos da rede pública um projeto em discussão no congresso institui uma controvérsia em escolas prefeituras e secretarias de educação
+institui
+['cria', 'criou', 'instituiu', 'estabelece', 'gera', 'institu', 'provoca', 'introduz', 'promove', 'instala', 'resolve', 'abre', 'causa', 'estabeleceu', 'coloca', 'traz', 'criar', 'criando', 'constitui', 'torna']
+Sentence 38 rankings: 
+além de ressuscitar o debate sobre a obrigatoriedade de um traje padrão entre os alunos e reacender a preocupação com a escassez de recursos públicos a proposta cria uma discussão sobre a incorporação do boné no kit obrigatório
+ressuscitar
+['resgatar', 'retomar', 'levantar', 'ressusci', 'lançar', 'recuperar', 'voltar', 'restaurar', 'manter', 'fortalecer', 'trazer', 'alimentar', 'repor', 'retornar', 'reforçar', 'estimular', 'provocar', 'promover', 'gerar', 'lembrar']
+Sentence 39 rankings: 
+a divergência ocorre porque educadores como helvécio aguiar da faculdade de educação da universidade federal do rio grande do sul ufrgs afirmam que a peça é desnecessária no uniforme obrigatório
+divergência
+['confusão', 'diferença', 'polêmica', 'discussão', 'divisão', 'dúvida', 'controvérsia', 'questão', 'disputa', 'diverg', 'briga', 'situação', 'mudança', 'divergências', 'distinção', 'razão', 'dificuldade', 'separação', 'diferenciação', 'oposição']
+Sentence 40 rankings: 
+professores ainda temem que a distribuição do acessório dificulte a imposição nas classes de uma regra da boa conduta
+conduta
+['educação', 'moral', 'vida', 'vizinhança', 'postura', 'prática', 'ação', 'ética', 'comportamento', '.', 'maneira', 'ordem', 'comporta', 'disciplina', 'formação', 'orientação', 'forma', 'punição', 'resolução', 'reputação']
+Sentence 41 rankings: 
+eles se inquietam com a fonte para custear os gastos milionários com a medida
+inquietam
+['preocupa', 'dividem', 'contam', 'alimentam', 'ajudam', 'reúnem', 'envolvem', 'ocupam', 'viram', 'encontram', 'procuram', 'dizem', 'revolta', 'desespera', 'contem', 'voltam', 'inqu', 'afirmam', 'enfrentam', 'parecem']
+Sentence 42 rankings: 
+não fosse o aspecto financeiro o projeto teria o apoio incondicional de balzano e do presidente da famurs flávio luiz lammel
+incondicional
+['total', 'integral', 'declarado', 'direto', 'absoluto', 'unânime', 'firme', 'decisivo', 'oficial', 'efetivo', 'também', 'fiel', 'exclusivo', 'imediato', 'pessoal', 'pleno', 'financeiro', 'completo', 'institucional', 'fundamental']
+Sentence 43 rankings: 
+o premier classificou o episódio de crime horrível
+premier
+['presidente', 'juiz', 'papa', 'rei', 'tribunal', 'governador', 'júri', 'povo', 'governo', 'ministro', 'público', 'jornalista', 'prefeito', 'general', 'promotor', 'senado', 'parlamento', 'imperador', 'FBI', 'embaixador']
+Sentence 44 rankings: 
+considerado culpado de ameaçar com um cachorro sem focinheira um dos detentos e de negligência no cumprimento do dever ele foi rebaixado e condenado ontem por um tribunal militar a 90 dias de trabalho forçado sem confinamento
+confinamento
+['salário', 'alimentação', 'descanso', 'supervisão', 'julgamento', 'pagamento', 'salários', 'punição', 'condições', '[UNK]', 'autorização', 'proteção', 'liberdade', 'retorno', 'registro', 'tratamento', 'trabalho', 'vigilância', 'fiscalização', 'controle']
+Sentence 45 rankings: 
+blitze barreiras e operações em profusão foram insuficientes para conter um crescimento de 1112 em relação a março de 2006
+blitze
+['barreiras', 'as', 'barreira', 'As', 'radar', 'de', '[UNK]', 'e', '-', 'novas', 'policiais', 'mega', 'bl', ',', '*', 'operações', 'bloqueio', 'fiscalização', 'outras', 'sem']
+Sentence 46 rankings: 
+o secretário da segurança pública enio bacci disse que o aumento está ligado à legislação branda contra desmanches ao aumento da frota e ao chamado golpe do seguro quando o dono vende o carro a bandidos e recebe um novo da seguradora mas reconheceu que precisa ajustar a repressão
+branda
+['severa', 'dura', 'forte', 'pesada', 'leve', 'clara', 'bra', 'suave', 'grave', 'avançada', 'justa', 'curta', 'violenta', 'simples', 'comum', 'fraca', 'eficiente', 'firme', 'leves', 'correta']
+Sentence 47 rankings: 
+em março o comando de policiamento da capital cpc atingiu 40 do número previsto para fiscalização de veículos enquanto outros comandos regionais como metropolitano sul missões e vale do taquari superaram as metas estipuladas
+fiscalização
+['fiscal', 'operação', 'controle', 'multa', 'abordagem', 'vigilância', 'proibição', 'repressão', 'segurança', 'restrição', 'acompanhamento', 'fiscais', 'orientação', 'observação', 'circulação', 'abordagens', 'cumprimento', 'arrecadação', 'trânsito', 'liberação']
+Sentence 48 rankings: 
+diferentemente de outros pleitos as legendas este ano são obrigadas a driblar novas regras eleitorais desgaste da imagem da classe política e projetos nacionais envolvendo líderes gaúchos
+pleitos
+['anos', 'pleito', 'períodos', 'mandatos', 'tempos', ',', 'momentos', 'eleições', 'municípios', 'processos', 'candidatos', 'casos', 'partidos', 'estados', 'meses', 'eventos', 'governos', 'países', 'dias', 'segmentos']
+Sentence 49 rankings: 
+a comissão entende que para que seja preservado o caráter de indenização cada parlamentar deve ter apenas um carro registrado
+parlamentar
+['deputado', 'vereador', 'político', 'Deputado', 'policial', 'senador', 'partido', 'parlamentares', 'cidadão', 'pessoa', 'veículo', 'suplente', 'autor', 'bancada', 'Parla', 'um', 'candidato', 'motorista', 'deputados', 'congress']
+Sentence 50 rankings: 
+outra questão destacada no relatório se refere à qualificação dos servidores
+questão
+['pergunta', 'matéria', 'informação', 'temática', 'preocupação', 'dúvida', 'área', 'discussão', 'situação', 'coisa', 'medida', 'falha', 'alteração', 'análise', 'crítica', 'parte', 'mudança', 'variável', 'dificuldade', 'restrição']
+Sentence 51 rankings: 
+duas situações foram detectadas pelo grupo
+grupo
+['Grupo', 'grupos', 'estudo', 'indivíduo', 'corpo', 'coletivo', 'sistema', 'conjunto', '.', 'bloco', 'professor', 'time', 'usuário', 'campo', 'organismo', 'projeto', 'movimento', 'mesmo', 'líder', 'pesquisador']
+Sentence 52 rankings: 
+há setores com carência de pessoal ou naqueles em que não faltam funcionários há pessoas atuando em uma função para a qual não têm qualificação
+funcionários
+['trabalhadores', 'pessoas', 'profissionais', 'empregados', 'colaboradores', 'salários', 'servidores', 'candidatos', 'recursos', 'operários', 'equipamentos', 'qualificação', 'técnicos', 'funcionário', 'humanos', 'condições', 'contratados', 'pessoal', 'informações', 'engenheiros']
+Sentence 53 rankings: 
+ontem antunes disse que a quantidade de contratos sob gerenciamento de um mesmo departamento como o caso do dsa pode ser revista
+revista
+['alterada', 'aumentada', 'modificada', 'reduzida', 'revistas', 'mantida', 'considerada', 'observada', 'Revista', '.', 'revisão', 'revis', '[UNK]', 'alterado', 'outra', 'rever', 'publicada', 'elevada', 'restaurada', 'aumentado']
+Sentence 54 rankings: 
+o começo deste verão é o mais abrasador dos últimos 11 anos no rio grande do sul
+abrasador
+['quente', 'seco', 'intenso', 'úmido', 'frio', 'violento', 'forte', 'calor', 'duro', 'longo', 'fraco', 'curto', 'extremo', 'rápido', 'perigoso', 'agradável', 'brilhante', 'carregado', 'cinza', 'tropical']
+Sentence 55 rankings: 
+as médias de temperatura máxima oscilam entre 28° c e 34° c nas diferentes regiões do estado chegando a alcançar três graus acima dos padrões históricos
+oscilam
+['variam', 'ficam', 'estão', 'ocorrem', 'varia', 'oscil', 'são', 'aumentam', 'permanecem', 'atingem', 'vão', 'acontecem', 'passam', 'chegam', 'variando', 'vivem', 'atuam', 'trabalham', 'aparecem', 'fica']
+Sentence 56 rankings: 
+a inconsistência climática abre espaço para conjecturas sobre o papel do aquecimento global na atmosfera gaúcha
+conjecturas
+['interpretações', 'discussões', 'hipóteses', 'análises', 'debates', 'teorias', 'pesquisas', 'dúvidas', 'investigações', 'especulação', 'conclusões', 'explicações', 'estudos', 'debate', 'discussão', 'perguntas', 'questões', 'ideias', 'controvérsias', 'observações']
+Sentence 57 rankings: 
+a mudança progressiva pode influenciar indiretamente uma maior incidência de fenômenos como ondas de calor tempestades e secas
+progressiva
+['gradual', 'dinâmica', 'contínua', 'lenta', 'temporal', 'permanente', 'linear', 'rápida', 'temporária', 'horizontal', 'crescente', 'progress', 'definitiva', 'radical', 'histórica', 'constante', 'automática', 'térmica', 'continua', 'gradualmente']
+Sentence 58 rankings: 
+os recursos tecnológicos devem ser revezados com leituras na viagem
+revezados
+['utilizados', 'usados', 'cruzados', 'associados', 'ocupados', 'acompanhados', 'mantidos', 'divididos', 'gastos', 'seguidos', 'integrados', 'empregados', 'relacionados', 'tratados', 'substituídos', 'adquiridos', 'envolvidos', 'incluídos', 'pagos', 'distribuídos']
+Sentence 59 rankings: 
+o próprio carro de simões tem o aparelho
+aparelho
+['dispositivo', 'telefone', 'celular', 'produto', 'equipamento', 'sistema', 'aparelhos', 'veículo', 'modelo', 'aplicativo', 'problema', 'mesmo', 'carro', 'número', 'circuito', 'objeto', 'programa', '.', 'receptor', 'relógio']
+Sentence 60 rankings: 
+até mesmo os dvds portáteis ou os consoles de mão como o nintendo ds e o playstation portable podem deixar as viagens menos maçantes para as crianças
+maçantes
+['longas', 'interessantes', 'difíceis', 'pesadas', 'significativas', 'legais', 'complexas', 'frequentes', 'importantes', 'curtas', 'interessante', 'simples', 'radicais', 'leves', 'comuns', 'agradável', 'marcantes', 'reais', 'convencionais', 'funcionais']
+Sentence 61 rankings: 
+o nevoeiro não se restringiu à capital
+restringiu
+['limita', 'estendeu', 'dirigiu', 'reduziu', 'estende', 'restring', 'referiu', 'chegou', 'limitado', 'limite', 'expandiu', 'aplicou', 'fechou', 'ampliou', 'dedicou', 'reduz', 'refere', 'negou', 'afastou', 'encerrou']
+Sentence 62 rankings: 
+quem trocou de sigla antes da data porém foi poupado
+sigla
+['partido', 'nome', 'legenda', 'camisa', 'cor', 'cidade', 'marca', 'assinatura', 'agremiação', 'letra', 'endereço', 'denominação', 'sobrenome', 'bandeira', 'coligação', 'política', 'idéia', 'identidade', 'número', 'posição']
+Sentence 63 rankings: 
+apenas um dos parlamentares a deputada jusmari de oliveira que deixou o dem e ingressou no pr trocou de legenda após 27 de março
+legenda
+['partido', 'sigla', 'agremiação', 'partidos', 'camisa', 'Partido', 'partid', 'cor', 'ideologia', 'pasta', 'bancada', 'PSD', 'candidatura', 'PT', 'aliança', 'mandato', 'filiado', 'cargo', 'PP', 'bandeira']
+Sentence 64 rankings: 
+amanhã pela manhã eles se encontrarão com o prefeito josé fogaça que prometeu apoio para a realização de obras de infraestrutura na área em que a arena será erguida
+erguida
+['construída', 'instalada', 'inaugurada', 'feita', 'lançada', 'reconstruída', '.', 'colocada', 'realizada', 'construídas', 'aberta', 'erguido', 'montada', 'conquistada', 'fundada', 'construção', 'construído', 'organizada', 'concluída', 'ergue']
+Sentence 65 rankings: 
+o objetivo é constatar as condições das edificações e a higiene e segurança dos alunos para envio de laudo técnico aos órgãos oficiais recomendando providências se necessárias
+constatar
+['verificar', 'observar', 'detectar', 'avaliar', 'analisar', 'identificar', 'demonstrar', 'confirmar', 'registrar', 'assegurar', 'levantar', 'acompanhar', 'testar', 'determinar', 'reconhecer', 'descobrir', 'perceber', 'investigar', 'apresentar', 'manter']
+Sentence 66 rankings: 
+desde o dia 24 de outubro a escola foi interditada pelo corpo de bombeiros e pela defesa civil
+interditada
+['isolada', 'fechada', 'cercada', 'ocupada', 'chamada', 'controlada', 'localizada', 'isolado', 'atingida', 'coberta', 'retomada', 'destruída', 'administrada', 'acompanhada', 'encontrada', 'parada', 'atacada', 'interrompida', 'abandonada', 'seguida']
+Sentence 67 rankings: 
+a órbita do planeta ficará alinhada com a da terra e a do sol mas não causará diminuição de luminosidade pois mercúrio tem apenas 38 do diâmetro terrestre
+luminosidade
+['luz', 'brilho', 'visibilidade', 'luminos', 'velocidade', 'temperatura', 'energia', 'intensidade', 'altura', 'iluminação', 'gravidade', 'densidade', 'radiação', 'raios', 'tamanho', 'atividade', 'luzes', 'emissão', 'magnitude', 'área']
+Sentence 68 rankings: 
+a prefeitura espera a resolução de problemas burocráticos para que o material para a reconstrução do monumento histórico chegue da europa
+resolução
+['solução', 'Resolução', 'resposta', 'resolver', 'resolvido', 'conclusão', 'saída', 'definição', 'resolve', 'remoção', 'solu', 'extinção', 'resol', 'eliminação', 'soluções', 'realização', 'satisfação', 'decisão', 'orientação', 'mudança']
+Sentence 69 rankings: 
+chávez citou um artigo da constituição venezuelana que assegura o controle estatal da atividade petrolífera mas não da extração de gás e acrescentou que ele deveria ser modificado para incluir todos os hidrocarbonetos sólidos líquidos ou gasosos
+assegura
+['garante', 'estabelece', 'garantia', 'assegu', 'prevê', 'garantiu', 'permite', 'confere', 'determina', 'protege', 'assegurar', 'define', 'afirma', 'reconhece', 'sustenta', 'dá', 'mantém', 'confirma', 'exige', 'garantir']
+Sentence 70 rankings: 
+duas famílias limitouse a dizer sussurrando para as monjas do outro lado da parede
+sussurrando
+['não', 'sim', 'palavras', 'algo', 'isso', 'coisas', 'nada', 'apenas', 'nomes', 'obrigado', 'diretamente', 'isto', 'palavra', 'silêncio', 'somente', 'frases', 'só', 'tudo', 'doces', ':']
+Sentence 71 rankings: 
+gaúcha de porto alegre tereza pinheiro 63 anos vende há 10 anos suvenires de frei galvão na porta do mosteiro
+suvenires
+['objetos', 'peças', 'presentes', 'roupas', 'relíquias', 'livros', 'doces', 'artigos', 'produtos', 'brinquedos', 'terços', 'obras', 'acessórios', 'artesanato', 'flores', 'quadros', 'vestidos', 'coisas', 'estátuas', 'anel']
+Sentence 72 rankings: 
+de olhos vendados três integrantes tiveram de percorrer em pedalinhos individuais um trecho do lago sob a orientação do apresentador e da matriarca da família
+matriarca
+['avó', 'mãe', 'chefe', 'tia', 'esposa', 'empregada', 'líder', 'dama', 'irmã', 'secretária', 'mulher', 'dona', 'noiva', 'representante', 'rainha', 'amiga', 'proprietária', 'companheira', 'professora', 'patriarca']
+Sentence 73 rankings: 
+o bolo tinha os ingredientes que compõem a dieta dos animais para deixar claro que o cardápio animal não se compõe de guloseimas apetitosas para os humanos como doces pipocas e outros quitutes
+apetitosas
+['doces', 'interessantes', 'úteis', 'importantes', 'boas', 'comuns', 'especiais', 'difíceis', 'típicas', 'possíveis', 'próprias', 'necessárias', 'pesadas', 'significativas', 'essenciais', 'populares', 'marcantes', 'alimentares', 'complexas', 'legais']
+Sentence 74 rankings: 
+o bolo tinha os ingredientes que compõem a dieta dos animais para deixar claro que o cardápio animal não se compõe de guloseimas apetitosas para os humanos como doces pipocas e outros quitutes
+quitutes
+['.', 'qu', '[UNK]', 'alimentos', ',', 'itens', 'brinquedos', '!', ';', 'doces', 'mais', 'tipos', 'assuntos', 'outros', '?', ':', 'produtos', 'que', 'ingredientes', 'objetos']
+Sentence 75 rankings: 
+alimentos inapropriados jogados em jaulas provocam problemas gastrointestinais e adoecem os bichos
+gastrointestinais
+['alimentares', 'internos', 'mentais', 'orgânicos', 'graves', 'sérios', 'médicos', 'físicos', 'diversos', 'ambientais', 'visuais', 'domésticos', 'alimentar', 'funcionais', 'maiores', ',', 'gastro', 'gerais', 'celulares', 'menores']
+Sentence 76 rankings: 
+os dez dias entre o anonovo e o yom kipur são de arrependimento e reflexão
+reflexão
+['conversão', 'oração', 'julgamento', 'prece', 'libertação', 'pensamento', 'perdão', 'refletir', 'compreensão', 'transformação', 'esperança', 'sabedoria', 'reflex', 'depressão', 'sofrimento', 'inspiração', 'orientação', 'renovação', 'celebração', 'renúncia']
+Sentence 77 rankings: 
+outros cinco continuavam desaparecidos
+desaparecidos
+['vivos', 'desaparecido', 'presos', 'mortos', 'desconhecidos', 'feridos', 'vivendo', 'procurando', 'ativos', 'trabalhando', 'identificados', 'isolados', 'fora', '.', 'desapare', 'livres', 'presentes', 'perdidos', 'tentando', 'distantes']
+Sentence 78 rankings: 
+o delegado seguiu entendimento de tribunais de justiça como o de são paulo de que a pichação deve ser enquadrada como dano ao patrimônio público previsto no código penal veja box
+enquadrada
+['considerada', 'tratada', 'caracterizada', 'classificada', 'definida', 'registrada', 'prevista', 'interpretada', 'reconhecida', 'vista', 'incluída', 'enquad', 'descrita', 'identificada', 'marcada', 'declarada', 'aplicada', 'classificado', 'considerado', 'protegida']
+Sentence 79 rankings: 
+puniram com um rigor que não se vê em outros casos acredita
+rigor
+['crime', 'terror', 'vigor', 'horror', 'peso', 'poder', 'valor', 'excesso', 'preconceito', 'critério', 'olhar', 'silêncio', 'procedimento', 'brilho', 'efeito', 'medo', 'risco', 'abuso', 'sofrimento', 'respeito']
+Sentence 80 rankings: 
+a providência chegou um pouco tarde e a cidade continuou em ritmo letárgico por todo o dia
+letárgico
+['lento', 'normal', 'intenso', 'morto', 'parado', 'constante', 'carregado', 'rápido', 'pesado', 'animado', 'violento', 'triste', 'leve', 'baixo', 'fraco', 'irregular', 'instável', 'alegre', 'contínuo', 'nervoso']
+Sentence 81 rankings: 
+por trás da mortandade de jovens no trânsito como as seis vítimas registradas no estado ao longo do final de semana há um desafio para as campanhas de conscientização
+mortandade
+['morte', 'mortalidade', 'mortes', 'morta', 'mata', 'tragédia', 'Morte', 'execução', 'perda', 'vida', 'queda', 'eliminação', 'destruição', 'violência', 'morre', 'assassinatos', 'extinção', 'mortos', 'redução', 'sobrevivência']
+Sentence 82 rankings: 
+uma pesquisa feita pelo ibope mês passado revela que nessa faixa etária os condutores reconhecem ser imprudentes
+etária
+['et', 'idade', ',', 'também', 'escolar', 'infantil', 'faixa', 'final', 'específica', 'sempre', 'não', 'populacional', 'penal', 'eleitoral', 'inicial', 'educacional', 'já', 'acima', 'de', 'I']
+Sentence 83 rankings: 
+estratégias envolvem todos os escalões do governo
+escalões
+['níveis', 'setores', 'cargos', 'segmentos', 'postos', 'membros', 'órgãos', 'poderes', 'grupos', 'andares', 'escal', 'funcionários', 'integrantes', 'graus', 'ramos', 'ministros', 'comandos', 'quadros', 'governos', 'componentes']
+Sentence 84 rankings: 
+a casa branca teria dado instruções à delegação americana em bali para evitar que o país seja responsabilizado pelo fracasso das negociações
+delegação
+['equipe', 'embaixada', 'comissão', 'representação', 'autoridade', 'missão', 'imprensa', 'liderança', 'bancada', 'diplomata', 'guarnição', 'seleção', 'parte', 'administração', 'esquadra', 'nação', 'tripulação', 'cúpula', 'representante', 'presença']
+Sentence 85 rankings: 
+as estratégias já começaram a envolver os altos escalões dos governos
+escalões
+['níveis', 'cargos', 'funcionários', 'executivos', 'quadros', 'postos', 'dirigentes', 'comandos', 'graus', 'servidores', 'serviços', 'escal', 'círculos', 'bastidores', 'setores', 'andares', 'salários', 'chefes', 'conselhos', 'poderes']
+Sentence 86 rankings: 
+o expresidente chileno ricardo lagos circula nos corredores da conferência como emissário do secretáriogeral da onu ban kimoon tentando viabilizar um acordo
+emissário
+['representante', 'embaixador', 'enviado', 'agente', 'em', 'receptor', 'assessor', 'intermediário', 'convidado', 'secretário', 'colaborador', 'diplomata', 'funcionário', 'intérprete', 'observador', 'auxiliar', 'assistente', 'condutor', 'ministro', 'empregado']
+Sentence 87 rankings: 
+ao final da noite o secretário da conferência yvo de boer dando mostras de cansaço afirmou que nenhum país quer sair de bali com a marca indelével de ser o vilão da conferência
+indelével
+['registrada', 'definitiva', 'negra', 'visível', 'permanente', 'impressa', 'maior', 'pessoal', 'negativa', 'histórica', 'eterna', 'terrível', 'forte', 'mortal', 'fatal', 'gráfica', 'evidente', 'viva', 'marcada', 'certa']
+Sentence 88 rankings: 
+a principal iniciativa restringe o acesso da população aos debates parlamentares
+restringe
+['limita', 'restring', 'reduz', 'limite', 'restrição', 'impede', 'permite', 'restri', 'amplia', 'diminui', 'é', 'priva', 'restrita', 'controla', 'retira', 'afeta', 'censura', 'limitada', 'limitação', 'disciplina']
+Sentence 89 rankings: 
+o público comum ficará restrito à galeria superior com capacidade para 160 pessoas
+restrito
+['limitado', 'restrita', 'reduzido', 'reservado', 'limitada', 'destinado', 'próximo', 'aberto', 'subordinado', 'associado', 'preso', 'sujeito', 'exclusivo', 'junto', 'fechado', 'anexo', 'acesso', 'relacionado', 'dedicado', 'exposto']
+Sentence 90 rankings: 
+para o líder da bancada do pt raul pont a decisão da mesa é precipitada
+precipitada
+['precip', 'necessária', 'justa', 'correta', 'perigosa', 'tomada', 'certa', '.', 'definitiva', 'precipitação', 'excessiva', 'surpreendente', 'rápida', 'normal', 'difícil', 'consciente', 'ilegal', 'polêmica', 'fatal', 'política']
+Sentence 91 rankings: 
+só espero que essa decisão de restrição parcial ao plenário seja provisória defendeu o líder da bancada do pc do b raul carrion
+restrição
+['limitação', 'restrições', 'proibição', 'bloqueio', 'censura', 'acesso', 'liberação', 'oposição', 'rejeição', 'limite', 'abertura', 'restring', 'invasão', 'prejuízo', 'limita', 'obstru', 'resistência', 'dependência', 'barreira', 'redução']
+Sentence 92 rankings: 
+a atitude dos professores também foi rechaçada do outro lado da praça da matriz
+rechaçada
+['criticada', 'aceita', 'recebida', 'aprovada', 'vista', 'apoiada', 'proibida', 'tomada', 'atacada', 'abandonada', 'hostil', 'pacífica', 'considerada', 'contra', 'mantida', 'defendida', 'criticado', 'crítica', 'diferente', 'acompanhada']
+Sentence 93 rankings: 
+um acidente insólito matou o gaúcho augusto machado da câmara lima 26 anos quando ele desfrutava do feriadão nas praias catarinenses
+insólito
+['fatal', 'grave', 'terrível', 'mortal', 'misterioso', 'que', 'violento', 'estranho', 'brutal', 'aéreo', 'acidente', 'surpreendente', 'impressionante', 'incrível', 'incomum', 'desconhecido', 'rodoviário', 'perigoso', 'sério', 'extraordinário']
+Sentence 94 rankings: 
+o país que fermentou a crise ainda é o maior comprador de produtos gaúchos veja quadro embora alguns segmentos tenham aprendido a reduzir a dependência
+fermentou
+['sofreu', 'sentiu', 'conheceu', 'viveu', 'enfrentou', 'gerou', 'começou', 'criou', 'iniciou', 'superou', 'originou', 'causou', 'provocou', 'fez', 'produziu', 'lavou', 'vive', 'preparou', 'passou', 'nasceu']
+Sentence 95 rankings: 
+a transferência da feira infantil e juvenil para o cais do porto a instalação da área internacional na avenida sepúlveda entre a siqueira campos e a mauá e o local para autógrafos no largo entre o margs e o memorial não no centro da praça como em anos anteriores
+transferência
+['mudança', 'remoção', 'migração', 'transmissão', 'transferida', 'transferir', 'passagem', 'alteração', 'ida', 'transformação', 'volta', 'transição', 'transfer', 'retirada', 'saída', 'movimentação', 'expansão', 'implantação', 'troca', 'realização']
+Sentence 96 rankings: 
+o zoneamento representa o primeiro passo na formatação de uma política florestal no rio grande do sul
+formatação
+['definição', 'constituição', 'forma', 'formação', 'construção', 'consolidação', 'configuração', 'criação', 'elaboração', 'estrutura', 'montagem', 'implementação', 'implantação', 'organização', 'formulação', 'direção', 'composição', 'concepção', 'execução', 'adoção']
+Sentence 97 rankings: 
+o zoneamento mostrará que procedimentos devem ser tomados em cada área explica
+procedimentos
+['cuidados', 'passos', 'caminhos', 'medidas', 'processos', 'procedimento', 'comportamentos', 'atos', 'critérios', 'ações', 'padrões', 'métodos', 'controles', 'parâmetros', 'serviços', 'documentos', 'tratamentos', 'atitudes', 'planos', 'recursos']
+Sentence 98 rankings: 
+tinha cerca de um metro e meio de altura a pedra que levou o presidente luiz inácio lula da silva ontem a um terreno terraplenado às margens da br285 em passo fundo
+terraplenado
+['abandonado', 'cercado', 'localizado', 'vazio', 'situado', 'plano', 'descoberto', 'novo', 'particular', 'aberto', 'rural', 'construído', 'preparado', 'terreno', 'terra', 'irregular', 'próprio', 'adquirido', 'público', 'povoado']
+Sentence 99 rankings: 
+para tornar a visita mais atraente para fotógrafos e cinegrafistas lula e o governador germano rigotto usando capacetes foram convidados a colocar pás de concreto da primeira fundação da indústria
+fundação
+['Fundação', 'funda', 'construção', 'instituição', 'sede', 'campanha', 'criação', 'estação', 'base', 'origem', 'Foundation', 'casa', 'inauguração', 'comunidade', 'prefeitura', 'doação', 'associação', 'rede', 'fazenda', 'estrutura']
+Sentence 100 rankings: 
+simpatizantes foram arregimentados
+arregimentados
+['.', 'presos', 'levados', 'convidados', 'organizados', 'expulsos', 'ouvidos', 'contratados', ':', 'conquistados', 'armados', 'identificados', 'eleitos', 'chamados', 'escolhidos', 'recebidos', 'instalados', 'formados', 'derrotados', 'registrados']
+Sentence 101 rankings: 
+o presidente foi recebido por uma platéia arregimentada por pt pc do b e psb partidos da base do governo
+arregimentada
+['formada', 'composta', 'constituída', 'liderada', 'integrada', 'organizada', 'dominada', 'comandada', 'representada', 'dirigida', 'apoiada', 'animada', 'controlada', 'montada', 'formado', 'bancada', 'criada', 'caracterizada', 'fundada', 'cercada']
+Sentence 102 rankings: 
+a líder comunitária neli vidal birk 50 anos organizou um grupo de 36 pessoas beneficiadas pelo programa fome zero
+beneficiadas
+['beneficia', 'responsáveis', 'distribuídas', 'envolvidas', 'apoiada', 'cobertas', 'identificadas', 'atingida', 'entregues', 'pobres', 'mantidas', 'formadas', 'ocupadas', 'utilizadas', 'reconhecidas', 'obtidas', 'ajudando', 'produzidas', 'enviadas', ',']
+Sentence 103 rankings: 
+o pequeno príncipe original era melancólico com pontos de alegria
+melancólico
+['triste', 'alegre', 'feliz', 'divertido', 'animado', 'doce', 'suave', 'vermelho', 'romântico', 'mágico', 'leve', 'bonito', 'brilhante', 'sério', 'negro', 'azul', 'infantil', 'belo', 'amarelo', 'sofrido']
+Sentence 104 rankings: 
+o sol se põe no mar à esquerda ensombrecendo as montanhas do norte de israel à direita
+ensombrecendo
+['cobrindo', 'destacando', 'mostrando', 'revelando', 'e', 'envolvendo', 'abrindo', 'sobre', 'formando', 'trazendo', 'tomando', 'deixando', 'transformando', 'destruindo', 'tocando', 'surgindo', 'com', 'fazendo', 'marcando', 'tornando']
+Sentence 105 rankings: 
+a iniciativa nasceu na frança em 1998 em virtude da preocupação com a degradação do ambiente na área urbana
+degradação
+['poluição', 'preservação', 'melhoria', 'conservação', 'qualidade', 'destruição', 'alteração', 'recuperação', 'modificação', 'manutenção', 'diminuição', 'transformação', 'redução', 'restauração', 'erosão', 'valorização', 'proteção', 'questão', 'reabilitação', 'integridade']
+Sentence 106 rankings: 
+no brasil a primeira adesão ocorreu em 2001 com 11 cidades
+adesão
+['incorporação', 'integração', 'associação', 'ader', 'união', 'implantação', 'adoção', 'implementação', 'participação', 'migração', 'resolução', 'constituição', 'contribuição', 'reunião', 'consolidação', 'inserção', 'formação', 'experiência', 'adaptação', 'anexação']
+Sentence 107 rankings: 
+durante uma patrulha de rotina os soldados vilson soares urias e luis felipe milbrandt dutra identificaram um carro polo aberto e abandonado dentro do parque
+patrulha
+['abordagem', 'fiscalização', 'operação', 'revista', 'barreira', 'perseguição', 'ação', 'busca', 'ocorrência', 'investigação', 'visita', 'guarnição', 'abordagens', 'avaliação', 'parada', 'observação', 'atuação', 'atividade', 'rotina', 'manutenção']
+Sentence 108 rankings: 
+sem perceber o enxame apearam de seus cavalos para checar o veículo
+apearam
+['parou', 'saíram', 'afastou', 'desistiu', 'saiu', 'fugiram', 'fugiu', 'retirou', 'chegaram', 'partiram', 'aproximou', 'escapou', 'retornou', 'voltaram', 'tirou', 'passaram', 'retornaram', 'voltou', 'foram', 'chegou']
+Sentence 109 rankings: 
+denin foi amarrado numa árvore próxima à da colméia e em menos de um minuto estava coberto por abelhas de uma espécie miscigenada
+miscigenada
+['mista', 'mis', 'mistura', 'diferente', '.', 'híbr', 'africana', 'distinta', 'semelhante', 'pura', 'parecida', 'típica', 'genética', '[UNK]', 'racial', 'resistente', 'nativa', 'descendente', 'comum', 'adaptada']
+Sentence 110 rankings: 
+segundo nosso técnico os eqüinos ficaram na linha de vôo das abelhas de entrada e saída da colméia
+eqüinos
+['animais', 'machos', 'cães', 'cavalos', 'filhotes', 'ratos', 'pássaros', 'peixes', 'gatos', 'mesmos', 'insetos', 'ovos', 'soldados', 'humanos', 'adultos', 'mamíferos', 'dois', 'abelhas', 'casais', 'homens']
+Sentence 111 rankings: 
+segundo a campanha porém os reis magos são os legítimos representantes da magia do natal e não faltam críticas ao velho barrigudo
+legítimos
+['legítimo', 'verdadeiros', 'únicos', 'reais', 'melhores', 'fiéis', 'nobres', 'maiores', 'principais', 'eleitos', 'legitim', 'novos', 'bons', 'próprios', 'grandes', 'oficiais', 'reis', 'legais', 'santos', 'primeiros']
+Sentence 112 rankings: 
+o homem bonachão dizem seus opositores segue o odor do dinheiro e explora seus duendes e os submete a situações de trabalho subumanas
+subumanas
+['escravo', 'forçado', '.', 'cruel', 'inferior', 'forçados', 'escravidão', 'escravos', 'difíceis', 'piores', 'infantil', 'inferiores', 'escrava', 'sub', 'brutal', 'ilegais', 'pesado', 'selvagem', 'exploração', 'forçada']
+Sentence 113 rankings: 
+ao todo 140 mil itens foram inutilizados entre as 9h15 min e as 11h na travessa do carmo no pátio do depósito da smic
+itens
+['produtos', 'objetos', 'pneus', 'materiais', 'brinquedos', 'artigos', 'equipamentos', 'pacotes', 'alimentos', 'peças', 'litros', 'ingressos', 'bens', 'volumes', 'item', 'documentos', '[UNK]', 'presentes', 'caixas', 'acessórios']
+Sentence 114 rankings: 
+a b2w será capaz de competir com as principais empresas de varejo brasileiras em um mercado estimado em r 200 bilhões assinala o comunicado conjunto divulgado ontem pelas duas companhias
+estimado
+['estimada', 'previsto', 'definido', 'projetado', 'esperado', 'limitado', 'determinado', 'baseado', 'estabelecido', 'divulgado', 'planejado', 'potencial', 'próximo', 'reduzido', 'disputado', 'considerado', 'marcado', 'apontado', 'estim', 'atribuído']
+Sentence 115 rankings: 
+uma eventual resolução no conselho de segurança impondo sanções ao irã esbarra na oposição da rússia e da china dois membros permanentes do órgão e com direito a veto
+sanções
+['restrições', 'penas', 'limites', 'limitações', 'medidas', 'regras', 'obrigações', 'punição', 'condições', 'exigências', 'normas', 'barreiras', 'restrição', 'proibição', 'leis', 'metas', 'censura', 'consequências', 'dificuldades', 'san']
+Sentence 116 rankings: 
+ontem depois de participar de um encontro de governadores em fortaleza o ministro da fazenda guido mantega disse que até o início do próximo semestre o projeto de reforma tributária será encaminhado ao congresso nacional
+encaminhado
+['enviado', 'submetido', 'apresentado', 'levado', 'entregue', 'conduzido', 'encaminh', 'destinado', 'distribuído', 'enviada', 'votado', 'proposto', 'dirigido', 'mandado', 'disponibilizado', 'aprovado', 'enviados', 'incorporado', 'levada', 'apresentada']
+Sentence 117 rankings: 
+eles reclamavam que não tinham a oportunidade de vir para o sul fazer o mesmo trabalho que já realizavam nas próprias cidades argumenta nunes
+argumenta
+['defende', 'afirma', 'explica', 'argumento', 'argumentou', 'argumentam', 'argumentos', 'sustenta', 'justifica', 'critica', 'diz', 'questiona', 'alega', 'entende', 'fala', 'sugere', 'responde', '.', 'defendeu', 'de']
+Sentence 118 rankings: 
+neste ano ocorrerão quatro ações simultâneas
+simultâneas
+['simultaneamente', 'simult', '.', ':', 'paralelas', 'consecutivas', 'distintas', 'coordenadas', 'juntas', 'independentes', 'isoladas', ',', ';', 'diferentes', 'semelhantes', 'diárias', 'separadas', '!', 'realizadas', 'complementares']
+Sentence 119 rankings: 
+uma decisão da justiça federal do distrito federal devolveu as mordomias ao expresidente suspensas até o primeiro semestre deste ano por uma liminar
+mordomias
+['vantagens', 'diárias', 'despesas', 'férias', 'viagens', 'visitas', 'benefícios', 'festas', 'reformas', 'funções', 'concessões', 'privilégios', 'salários', 'honras', 'doações', 'bolsas', 'atribuições', 'atividades', 'ordens', 'pagamentos']
+Sentence 120 rankings: 
+collor havia perdido os direitos a essas mordomias em razão de uma ação popular impetrada na justiça de brasília em 1993 sete meses depois do processo de impeachment que resultou na cassação dos direitos políticos do expresidente por oito anos
+mordomias
+['vantagens', 'despesas', 'diárias', 'coisas', 'bolsas', 'viagens', 'benefícios', 'melhorias', 'propriedades', 'reformas', 'conquistas', 'festas', 'casas', 'funções', 'condições', 'concessões', 'atividades', 'residências', 'dependências', 'passagens']
+Sentence 121 rankings: 
+o advogado de collor fernando neves da silva disse que o expresidente requereu que funcionários veículos e motoristas custeados com dotações da presidência sejam colocados a sua disposição
+requereu
+['requer', 'solicitou', 'pediu', 'quer', 'pede', 'pretende', 'determinou', 'exige', 'deseja', 'defende', 'espera', 'sugere', 'necessita', 'demanda', 'exigiu', 'determina', 'pedia', 'gostaria', 'precisa', 'sugeriu']
+Sentence 122 rankings: 
+a ação foi impetrada pelo exdeputado federal gaúcho waldomiro fioravante pt
+impetrada
+['proposta', 'promovida', 'apresentada', 'iniciada', 'assinada', 'tomada', 'feita', 'oferecida', 'distribuída', 'representada', 'aberta', 'realizada', 'impe', 'dirigida', 'comandada', 'determinada', 'criada', 'oposta', 'indicada', 'defendida']
+Sentence 123 rankings: 
+meirelles pede prudência e mantega vê só uma correção
+correção
+['solução', 'melhora', 'mudança', 'melhoria', 'revisão', 'reforma', 'verdade', 'coisa', 'explicação', 'diferença', 'falha', 'alteração', 'conclusão', 'evolução', 'atualização', 'substituição', 'resposta', 'compensação', 'resolução', 'crítica']
+Sentence 124 rankings: 
+é uma turbulência
+turbulência
+['ameaça', 'guerra', 'paixão', 'necessidade', 'tragédia', 'realidade', 'revolução', 'crise', 'beleza', 'explosão', 'tempestade', 'festa', 'vez', 'doença', 'aventura', 'vitória', 'mudança', 'viagem', 'esperança', 'surpresa']
+Sentence 125 rankings: 
+é normal que o mercado tenha correções reagiu
+correções
+['mudanças', 'alterações', 'não', 'perdas', 'erros', 'avaliações', 'algumas', 'melhorias', 'corrig', 'se', 'soluções', 'corre', 'modificações', '[UNK]', 'ações', 'críticas', 'respostas', 'reformas', 'que', 'já']
+Sentence 126 rankings: 
+desconhecemos essa orientação acredito que houve um malentendido disse ontem o vicepresidente executivo do sindicom alísio vaz
+malentendido
+['mal', 'acordo', 'erro', 'crime', 'bem', 'roubo', 'mau', 'atraso', 'desvio', 'golpe', 'assalto', 'problema', 'alerta', 'sim', 'encontro', 'atentado', 'entendimento', 'dano', 'abuso', 'avanço']
+Sentence 127 rankings: 
+rapidamente controlado pela brigada militar o conflito envolvendo quatro apenados tornouse mais um na lista de incidentes do local construído em 1977
+apenados
+['presos', 'prisioneiros', 'internos', 'facções', 'adolescentes', 'jovens', 'pessoas', 'homens', 'condenados', 'criminosos', 'mulheres', 'policiais', 'guardas', 'menores', 'prisões', 'soldados', 'grupos', 'indivíduos', 'estudantes', 'crianças']
+Sentence 128 rankings: 
+entre as 69 propostas de mudanças na constituição chávez vai da reeleição sem limites ao fim da autonomia do banco central do direito a expropriar propriedades privadas à subordinação de governantes a militares nomeados por ele
+subordinação
+['subord', 'dependência', 'sucessão', 'delegação', 'substituição', 'autonomia', 'escravidão', 'fidelidade', 'oposição', 'eleição', 'transferência', 'redução', 'dedicação', 'tutela', 'devoção', 'entrega', 'integração', 'adesão', 'ascendência', 'rendição']
+Sentence 129 rankings: 
+liberadas pelo tribunal britânico que analisa o caso as fotos mostram a princesa dentro do mercedesbenz em que morreu momentos antes da colisão no túnel dalma em paris
+colisão
+['batida', 'explosão', 'acidente', 'tragédia', 'confusão', 'queda', 'ocorrência', 'perseguição', 'morte', 'passagem', 'entrada', 'discussão', 'tempestade', 'choque', 'destruição', 'chuva', 'acidentes', 'manifestação', 'exposição', 'publicação']
+Sentence 130 rankings: 
+nos últimos dias a notificação de casos de psitacose doença provocada por vírus transmitido pelas caturritas colocou as autoridades em alerta no estado
+notificação
+['confirmação', 'divulgação', 'ocorrência', 'identificação', 'detecção', 'incidência', 'descoberta', 'notícia', 'denúncia', 'revelação', 'informação', 'publicação', 'circulação', 'epidemia', 'comunicação', 'atualização', 'manifestação', 'suspeita', 'quantidade', 'visibilidade']
+Sentence 131 rankings: 
+e basta uma pequena assimetria entre eles para que o sistema automático se desarme e o avião volte para o modo manual
+assimetria
+['diferença', 'distância', 'simetria', 'variação', 'semelhança', 'falha', 'distancia', 'desigualdade', 'diferenciação', 'interferência', 'diferencial', 'confusão', 'depressão', 'curva', 'quebra', 'falta', 'distinção', 'harmonia', 'separação', 'tensão']
+Sentence 132 rankings: 
+fundado em 1977 o parque na rs020 em gravataí é a concretização de um sonho do empresário lauro febernati morto em 2005 que quando criança planejava um dia morar na áfrica
+concretização
+['realização', 'consolidação', 'satisfação', 'realidade', 'confirmação', 'conclusão', 'execução', 'finalização', 'comemoração', 'realiza', 'continuidade', 'conquista', 'coroação', 'celebração', 'implementação', 'expressão', 'manifestação', 'continuação', 'atualização', 'resolução']
+Sentence 133 rankings: 
+no entanto há restrições
+restrições
+['limitações', 'limites', 'restrição', 'regras', 'direitos', 'liberdade', 'opções', 'alternativas', 'exceções', 'exigências', 'possibilidades', 'reservas', 'condições', '.', 'concessões', 'riscos', 'dificuldades', 'necessidades', 'problemas', 'vantagens']
+Sentence 134 rankings: 
+diante do fracasso de projetos como o da elétrica jacuí eleja envolvida no escândalo das usinas que redundou até em prisões as dúvidas sobre o potencial da geração térmica a carvão no estado persistem
+persistem
+['continuam', '.', 'ainda', 'permanecem', 'pers', 'continua', ',', 'de', 'mineiro', 'continuaram', 'permaneceram', 'permanece', 'seguem', 'do', 'paulista', 'catarinense', 'e', 'são', '[UNK]', 'da']
+Sentence 135 rankings: 
+os nascimentos de bebês despencaram a partir da década de 70 imobilizando a taxa de fecundidade no velho continente hoje em 152 filho por família
+despencaram
+['caíram', 'aumentaram', 'diminuiu', 'caiu', 'morreram', 'ocorreram', 'aumentou', 'perderam', 'apareceram', 'passaram', 'começaram', ',', 'menores', 'foram', 'sofreram', 'vieram', 'continuaram', 'cresceu', 'baixos', 'avançaram']
+Sentence 136 rankings: 
+governos se afligem com o silêncio nos berçários
+afligem
+['preocupa', 'dividem', 'envolvem', 'enfrentam', 'encontram', 'reúnem', 'ocupam', 'dizem', 'sofrem', 'atingem', 'alimentam', 'incluem', 'revolta', 'defendem', 'debate', 'acabam', 'preocupado', 'desespera', 'formam', 'querem']
+Sentence 137 rankings: 
+somadas as indústrias do rio grande do sul teriam capacidade para atender a quase metade do abastecimento nacional previsto para 2008 de 840 milhões de litros
+abastecimento
+['consumo', 'fornecimento', 'mercado', 'atendimento', 'volume', 'conteúdo', 'demanda', 'armazenamento', 'total', 'crescimento', 'produto', 'sistema', 'supri', 'consumidor', 'cenário', 'nível', 'programa', 'gasto', 'processamento', 'pedido']
+Sentence 138 rankings: 
+considerada um dos grandes testes para a adoção do biodiesel no brasil a transformação de capacidade instalada em produção efetiva deve ditar a rapidez da evolução da mistura dos 2 iniciais para uma proporção maior
+efetiva
+['real', 'ativa', 'eficiente', 'potencial', 'efetivamente', 'eficaz', 'diária', 'imediata', 'efetivo', 'prática', 'plena', ',', 'intensa', 'viável', 'sustentável', 'nova', 'aplicada', 'significativa', 'contínua', 'total']
+Sentence 139 rankings: 
+esse acréscimo já tem a chancela da associação nacional dos fabricantes de veículos automotores
+chancela
+['aprovação', 'certificação', 'assinatura', 'autorização', 'confirmação', 'garantia', 'permissão', 'aval', 'marca', 'chance', 'aceitação', 'participação', 'liberação', 'licença', 'cara', 'indicação', 'patente', 'proteção', 'avaliação', 'fiscalização']
+Sentence 140 rankings: 
+a medida está em análise porque existe capacidade para 25 bilhões de litros três vezes mais do que o necessário para atender ao abastecimento da nova mistura do combustível chamado de b2
+abastecimento
+['fornecimento', 'consumo', 'atendimento', 'funcionamento', 'uso', 'crescimento', 'acesso', 'armazenamento', 'combustível', 'desenvolvimento', 'aquecimento', 'transporte', 'abaste', 'aumento', 'mercado', 'tráfego', 'escoamento', 'lançamento', 'desempenho', 'pagamento']
+Sentence 141 rankings: 
+ontem ainda havia controvérsias sobre o tipo de exigência que seria feita no varejo
+controvérsias
+['dúvidas', 'controvérsia', 'discussões', 'dúvida', 'divergências', 'polêmica', 'debates', 'confusão', 'discussão', 'debate', 'disputas', 'comentários', 'perguntas', 'críticas', 'rumores', 'informações', 'consenso', 'opiniões', 'suspeitas', 'mistério']
+Sentence 142 rankings: 
+quem não conseguir esgotar o armazenamento de diesel puro não pode misturar com o b2 porque o produto ficaria fora de especificação
+armazenamento
+['depósito', 'tanque', 'abastecimento', 'volume', 'armazen', 'consumo', 'esto', 'banco', 'uso', 'lote', 'registro', 'tempo', 'combustível', 'excesso', 'arquivo', 'processamento', 'fornecimento', 'transporte', 'sistema', 'reserva']
+Sentence 143 rankings: 
+aos poucos no entanto a determinação foi sendo flexibilizada no diaadia o que ocasionou o agravamento da situação
+determinação
+['decisão', 'regra', 'medida', 'ordem', 'orientação', 'disposição', 'restrição', 'exigência', 'resolução', 'legislação', 'situação', 'mesma', 'autorização', 'previsão', 'expressão', 'alteração', 'limitação', 'determinada', 'determina', 'solução']
+Sentence 144 rankings: 
+alarmado o diretor do fórum e juiz da 3ª vara criminal de passo fundo giuliano viero giuliato ordenou há cerca de duas semanas que presos com condenação definitiva sejam levados para outras instituições penais do estado
+alarmado
+['alerta', 'informado', 'preocupado', 'Segundo', 'animado', 'informou', '.', 'divulgado', 'segundo', 'alar', 'anunciado', 'Conforme', '"', 'nervoso', 'comunicado', 'triste', 'definido', 'conforme', 'afirmou', 'misterioso']
+Sentence 145 rankings: 
+580 quando o número de presos no local atingir esses três dígitos será totalmente proibido o ingresso de novos apenados
+apenados
+['presos', '.', 'condenados', 'internos', 'servidores', 'prisioneiros', 'visitantes', 'funcionários', 'agentes', 'indivíduos', 'participantes', 'usuários', 'moradores', 'alunos', 'colaboradores', 'cidadãos', 'habitantes', 'clientes', 'advogados', 'policiais']
+Sentence 146 rankings: 
+havia um fiat doblò estacionado em frente a uma panificadora
+panificadora
+['loja', 'igreja', 'escola', '[UNK]', 'empresa', 'oficina', '.', 'fábrica', 'gráfica', 'residência', 'casa', 'faculdade', 'feira', 'fabrica', 'agência', 'universidade', 'pad', 'prefeitura', 'academia', 'restaurante']
+Sentence 147 rankings: 
+ele afirmou ainda que o carro trafegava dentro da velocidade máxima permitida 60 km h
+trafegava
+['estava', 'seguia', 'estaria', 'vinha', 'está', 'passava', 'ficou', 'passou', 'estivesse', 'ia', 'trabalhava', 'ficava', 'esta', 'era', 'chegava', 'saiu', 'entrou', 'chegou', 'parou', 'fugiu']
+Sentence 148 rankings: 
+testemunhas contrariam esta versão
+contrariam
+['contra', 'afirmam', 'defendem', 'mantêm', 'com', 'apoiaram', 'seguem', 'recusaram', 'mudaram', 'dizem', 'sugerem', 'a', 'de', 'favoráveis', 'mantiveram', 'afirmaram', 'segundo', 'confirma', 'fazem', 'atacaram']
+Sentence 149 rankings: 
+eliane beatriz guth que trabalha na panificadora disse que não havia nenhum veículo estacionado em frente ao estabelecimento
+panificadora
+['empresa', 'loja', 'fábrica', 'casa', 'indústria', 'cozinha', 'fabrica', 'escola', 'oficina', 'feira', 'unidade', 'rede', 'cerâmica', 'gráfica', 'firma', 'prefeitura', 'fabricante', 'franquia', 'academia', 'matriz']
+Sentence 150 rankings: 
+mas sim o embrião de um movimento de perpetuação no poder que ameaça se alastrar pela américa latina
+alastrar
+['estender', 'alas', 'expandir', 'espalha', 'espalhou', 'instalar', 'reproduzir', 'distribuir', 'espalh', 'impor', 'ampliar', 'propaga', 'desenvolver', 'passar', 'transmitir', 'dissemin', 'vingar', 'propagação', 'avançar', 'repetir']
+Sentence 151 rankings: 
+há quem continue inabalável na defesa do presidente
+inabalável
+['firme', 'fiel', 'forte', 'imóvel', 'frágil', 'sempre', 'vivo', 'humilde', 'sólido', 'duro', 'fraco', 'resistente', 'morto', 'seguro', 'lutando', 'neutro', 'estável', 'só', 'sozinho', 'consistente']
+Sentence 152 rankings: 
+a novidade é a crescente parcela da população que tem questionado se vale a pena dar mais esse crédito ao tenentecoronel um rebelde cujo golpe fracassado em 1992 lhe rendeu dois anos de cadeia e notoriedade suficiente para vencer três eleições presidenciais
+fracassado
+['fracass', 'fracasso', 'derrotado', 'ocorrido', 'sofrido', 'vitorioso', 'realizado', 'sucedido', 'dado', 'rejeitado', 'falhou', 'abandonado', 'feito', 'caído', 'executado', 'surgido', 'acontecido', ',', 'tentado', 'liderado']
+Sentence 153 rankings: 
+a maioria dos descontentes são antigos adesistas mas que agora não compram mais no escuro a versão de chávez de que os problemas nacionais da falta de comida à insegurança decorrem de um boicote de empresários e da elite local a oligarquia sempre demonizada por chávez
+decorrem
+['decorre', 'partem', 'surgem', 'dependem', 'resulta', 'decorrentes', 'deriva', 'vêm', 'resultaram', 'provém', 'decorrer', 'resultantes', 'são', 'ocorrem', 'consistem', 'participam', 'passam', 'vão', 'consequência', 'derivadas']
+Sentence 154 rankings: 
+no dia seguinte chávez reuniu uma multidão ainda maior e em um discurso inflamado ameaçou a oposição a imprensa estrangeira a colômbia os estados unidos a espanha e os bancos espanhóis sediados no país
+inflamado
+['agressivo', 'forte', 'violento', 'poderoso', 'duro', 'apaixonado', 'crítico', 'ácido', 'nervoso', ',', 'intenso', 'também', 'firme', 'alto', 'aberto', 'longo', 'público', 'fraco', 'que', 'potente']
+Sentence 155 rankings: 
+entre as 69 propostas de mudanças na constituição chávez vai da reeleição sem limites ao fim da autonomia do banco central do direito a expropriar propriedades privadas à subordinação de governantes a militares nomeados por ele
+expropriar
+['explorar', 'vender', 'administrar', 'comprar', 'recuperar', 'controlar', 'adquirir', 'restaurar', 'salvar', 'invadir', 'financiar', 'incorporar', 'destruir', 'transferir', 'negociar', 'resgatar', 'atingir', 'abandonar', 'proteger', 'possuir']
+Sentence 156 rankings: 
+há também medidas populares como a redução da jornada de trabalho para 36 horas semanais e uma ampliação da cobertura previdenciária
+ampliação
+['expansão', 'extensão', 'amplia', 'elevação', 'ampliar', 'renovação', 'melhoria', 'aumento', 'prorrogação', 'reestruturação', 'revisão', 'redução', 'ampliou', 'melhora', 'aceleração', 'alteração', 'diminuição', 'continuação', 'ampla', 'abertura']
+Sentence 157 rankings: 
+o referendo ocorre em meio a uma grande descrença da população da venezuela nas instituições e nos partidos políticos
+descrença
+['confiança', 'crença', 'esperança', 'descre', 'fé', 'revolta', 'queda', 'desconfia', 'expectativa', 'crise', 'aposta', 'mudança', 'rejeição', 'ansiedade', 'corrupção', 'resistência', 'derrota', 'confusão', 'divisão', 'dúvida']
+Sentence 158 rankings: 
+chávez quer expandir sua revolução bolivariana que hoje já tem como adeptos o equador e a bolívia esta última mergulhada em uma crise semelhante à venezuelana
+expandir
+['ampliar', 'estender', 'aumentar', 'expansão', 'divulgar', 'fortalecer', 'desenvolver', 'consolidar', 'crescer', 'avançar', 'expandiu', 'promover', 'reforçar', 'continuar', 'defender', 'retomar', 'explorar', 'manter', 'fazer', 'melhorar']
+Sentence 159 rankings: 
+em uma das fotos mostradas no julgamento diana está no banco traseiro do veículo e olha para trás aparentemente para ver se o motorista havia despistado os paparazzi
+aparentemente
+['supostamente', 'novamente', 'possivelmente', 'justamente', 'apenas', 'claramente', 'aparente', 'provavelmente', 'agora', 'talvez', 'ainda', 'inicialmente', 'esperando', 'frequentemente', 'parece', 'realmente', ',', 'até', 'também', 'recentemente']
+Sentence 160 rankings: 
+em uma das fotos mostradas no julgamento diana está no banco traseiro do veículo e olha para trás aparentemente para ver se o motorista havia despistado os paparazzi
+despistado
+['provocado', 'impedido', 'parado', 'chamado', 'cercado', 'capturado', 'visto', 'seguido', 'deixado', 'detido', 'convencido', 'conquistado', 'afastado', 'alcançado', 'atacado', 'vencido', 'descoberto', 'acompanhado', 'roubado', 'reconhecido']
+Sentence 161 rankings: 
+duas investigações anteriores uma da polícia francesa e outra da britânica atribuíram o acidente ao fato de o motorista henri paul estar alcoolizado e dirigindo em alta velocidade
+alcoolizado
+['armado', 'alterado', 'dirigindo', 'nervoso', 'embri', 'sozinho', 'envolvido', 'consciente', 'inconsciente', 'errado', 'ferido', 'acompanhado', 'álcool', 'agressivo', 'beber', 'violento', 'casado', 'sentado', 'alco', 'detido']
+Sentence 162 rankings: 
+não são de ontem esses problemas temos de monitorar constantemente observa gilmara
+constantemente
+['diariamente', 'continuamente', 'permanentemente', 'sempre', 'frequentemente', 'constante', 'regularmente', ',', 'também', '.', 'anualmente', 'muito', '!', 'constantes', 'novamente', 'atualmente', 'ocasionalmente', 'freqüentemente', 'principalmente', 'rapidamente']
+Sentence 163 rankings: 
+proprietária quer se desfazer dos bichos
+proprietária
+['dona', 'proprietário', 'Dona', 'ela', 'Ela', 'senhora', 'proprietários', 'dono', 'herdeira', 'esposa', 'autora', 'Senhora', 'Presidente', 'cliente', 'viúva', 'e', 'comerciante', 'donos', 'loja', 'presidente']
+Sentence 164 rankings: 
+no uruguai não é proibido comercializar nem comprar as aves
+comercializar
+['vender', 'e', 'matar', 'comer', 'expor', 'comercial', 'comprar', 'criar', 'negociar', 'produzir', ',', 'dar', 'oferecer', 'fornecer', 'ter', 'entregar', 'transportar', 'vende', 'venda', 'divulgar']
+Sentence 165 rankings: 
+uma expedição que começa na próxima sextafeira pretende romper pela primeira vez a crosta terrestre
+expedição
+['expedições', 'viagem', 'aventura', 'missão', 'iniciativa', 'jornada', 'equipe', 'operação', 'nave', 'Exped', 'campanha', 'peregrinação', 'volta', 'edição', 'esquadra', 'embarcação', 'reunião', 'tarefa', 'erupção', 'ação']
+Sentence 166 rankings: 
+no trabalho será utilizado o mais sofisticado navio científico da atualidade
+sofisticado
+['moderno', 'elegante', 'avançado', 'belo', 'poderoso', 'caro', 'novo', 'completo', 'potente', 'tecnológico', 'nobre', 'complexo', 'elaborado', 'rico', 'famoso', 'revolucionário', 'eficiente', 'extraordinário', 'equipado', 'simples']
+Sentence 167 rankings: 
+o sistema é protegido por um segundo tubo cheio de lama que envolve a perfuratriz reduzindo atritos e removendo os detritos
+detritos
+['detri', 'resíduos', 'restos', 'fragmentos', 'materiais', 'danos', 'obstáculos', 'depósitos', 'gases', 'vestígios', '.', 'sólidos', 'mesmos', '[UNK]', 'objetos', 'produtos', 'líquidos', 'pedaços', 'rejei', 'riscos']
+Sentence 168 rankings: 
+assim a semana mais turbulenta do ano fechou em recuperação para os investidores
+turbulenta
+['difícil', 'importante', 'curta', 'quente', 'longa', 'fria', 'decisiva', 'dura', 'crítica', 'intensa', 'instável', 'forte', 'negativa', 'fraca', 'dramática', 'positiva', 'negra', 'conservadora', 'rápida', 'cara']
+Sentence 169 rankings: 
+preocupados com a repercussão da crise itaú bradesco e unibanco divulgaram nota afirmando que não trabalham com esse segmento de crédito norteamericano
+segmento
+['ramo', 'segmentos', 'tipo', 'setor', 'formato', 'mercado', 'modalidade', 'modelo', 'grupo', 'gênero', 'modo', 'produto', 'perfil', 'meio', 'movimento', 'categoria', 'aspecto', 'sistema', 'canal', 'porte']
+Sentence 170 rankings: 
+instituições financeiras nacionais notaram que há precaução dos investidores contra possíveis surpresas no final de semana
+precaução
+['preocupação', 'atenção', 'cuidado', 'proteção', 'alerta', 'expectativa', 'preocupações', 'cuidados', 'resistência', 'consciência', 'prevenção', 'percepção', 'segurança', 'vigilância', 'sensibilidade', 'reação', 'tolerância', 'confiança', 'medo', 'ansiedade']
+Sentence 171 rankings: 
+essa decisão não altera a taxa básica de juro de curto prazo que tem impacto mais direto sobre os juros que as instituições financeiras cobram de seus clientes
+impacto
+['efeito', 'impactos', 'reflexo', 'efeitos', 'peso', 'controle', 'retorno', 'influência', 'repercussão', 'alcance', 'resultado', 'papel', 'envolvimento', 'incidência', 'interferência', 'componente', 'significado', 'influencia', 'benefício', 'aumento']
+Sentence 172 rankings: 
+passou a não se preocupar apenas em frear a inflação mas também em manter o ritmo de crescimento econômico
+frear
+['controlar', 'conter', 'combater', 'reduzir', 'parar', 'diminuir', 'deter', 'impedir', 'evitar', 'cortar', 'fre', 'derrubar', 'enfrentar', 'afastar', 'cessar', 'eliminar', 'regular', 'manter', 'financiar', 'contra']
+Sentence 173 rankings: 
+as condições dos mercados financeiros pioraram e as condições mais restritas do crédito e a maior incerteza poderiam impedir a continuidade do crescimento econômico informou o comunicado do comitê de mercado aberto
+restritas
+['restrita', 'difíceis', 'fracas', 'favoráveis', 'baixas', 'restrições', 'específicas', 'recentes', 'fechadas', 'negativas', 'limitada', 'vagas', 'restrito', 'abertas', 'curtas', 'determinadas', 'críticas', 'sensíveis', 'restri', 'elevadas']
+Sentence 174 rankings: 
+percurso previsto vai do bairro barreiros em são josé à ufsc
+percurso
+['trajeto', 'Caminho', 'Circuito', 'traçado', 'caminho', 'Plano', 'Eixo', 'trecho', 'roteiro', 'O', 'Ciclo', 'circuito', 'Acesso', 'deslocamento', 'Tempo', 'Movimento', 'o', '[UNK]', 'Tra', 'desvio']
+Sentence 175 rankings: 
+o edital de licitação do metrô de superfície a ser aberto sextafeira é integrado pelo projeto da obra o estudo de viabilidade econômica e avaliações de impacto ambiental
+integrado
+['formado', 'integrada', 'integrados', 'incorporado', 'composto', 'constituído', 'substituído', 'acompanhado', 'responsável', 'controlado', 'integra', 'liderado', 'iniciado', 'informado', 'integração', 'desenvolvido', 'integrar', 'apoiado', 'dominado', 'caracterizado']
+Sentence 176 rankings: 
+em 13 anos esse número pode chegar a 230 mil e tornará a circulação na cidade inviável acredita o presidente do conselho regional de engenharia e arquitetura em santa catarina raul zucatto
+inviável
+[',', 'difícil', 'viável', 'impossível', '-', '.', 'como', 'assim', 'sustentável', '–', 'fácil', 'possível', '"', 'melhor', 'irregular', 'perigosa', 'não', 'lenta', 'segura', ';']
+Sentence 177 rankings: 
+sem iniciativas conjuntas porém garante ser impossível que o metrô de superfície solucione o problema
+solucione
+['resolve', 'resolver', 'solução', 'resolveu', 'solu', 'seja', 'resol', 'resolução', 'tenha', 'supra', 'resolvido', 'controle', 'faça', 'grave', 'ame', 'gere', 'suporte', 'passe', 'suma', 'cometa']
+Sentence 178 rankings: 
+em alguns casos as pastorais e dioceses coordenam o rodízio das imagens enquanto em outros as comunidades se organizam
+coordenam
+['fazem', 'realizam', 'mantêm', 'decidem', 'produzem', 'coorden', 'desenvolvem', 'ajudam', 'coordenação', 'dão', 'permitem', 'mantém', 'compõem', 'têm', 'trabalham', 'formam', 'alimentam', 'continuam', 'participam', 'começam']
+Sentence 179 rankings: 
+em alguns casos as pastorais e dioceses coordenam o rodízio das imagens enquanto em outros as comunidades se organizam
+rodízio
+['envio', 'transporte', 'uso', 'sorteio', 'deslocamento', 'trânsito', 'acompanhamento', 'abastecimento', 'ciclo', 'corte', 'fluxo', 'percurso', 'retorno', 'desfile', 'rito', 'leilão', 'atendimento', 'caminho', 'trajeto', 'encontro']
+Sentence 180 rankings: 
+a devoção também encontra adeptos nos centros urbanos
+adeptos
+['seguidores', 'praticantes', 'fiéis', 'fãs', 'discípulos', 'templos', 'amigos', 'pessoas', 'defensores', 'muitos', 'membros', 'torcedores', 'comunidades', 'devoção', 'clientes', 'interessados', 'turistas', 'católicos', 'consumidores', 'moradores']
+Sentence 181 rankings: 
+foi um padre de casca que introduziu o rodízio da santinha para aumentar a fé e fazer com que nós conhecêssemos e freqüentássemos mais as casas dos outros lembra a agricultora que mora na localidade de montes cárpatos
+rodízio
+['terço', 'jogo', 'dia', 'rodo', 'costume', 'roda', 'ciclo', 'culto', 'carro', 'santo', 'ritual', 'festival', 'uso', 'passeio', 'grupo', 'nome', 'hábito', 'serviço', 'programa', 'movimento']
+Sentence 182 rankings: 
+aos poucos recupera a forma depois de mais de um mês e meio fora do futebol por causa de contusão muscular na coxa direita
+contusão
+['lesão', 'problema', 'dor', 'ruptura', 'dores', 'trauma', 'lesões', 'cirurgia', 'problemas', 'uma', 'tensão', 'recuperação', 'crise', 'um', 'acidente', 'perda', 'infecção', 'quebra', 'tratamento', 'jogada']
+Sentence 183 rankings: 
+isso porque a boeing utiliza um conceito que torna a operação de um avião mais simples e menos propícia a erros do piloto ou a mau funcionamento da aeronave
+propícia
+['sujeita', 'exposta', 'sujeito', 'favorável', 'sensível', 'associada', 'resistente', 'provável', 'candidata', 'prop', 'crítica', 'relacionada', 'destinada', 'aberta', 'sujeitos', 'hostil', 'próxima', 'exposto', 'acessível', 'indicada']
+Sentence 184 rankings: 
+mas criouse um paradoxo
+paradoxo
+['problema', 'parado', 'conflito', 'mistério', 'caos', 'desafio', 'drama', 'mito', 'vazio', 'perigo', 'fato', 'escândalo', 'jogo', 'sonho', 'paradigma', 'caso', 'monstro', 'paralelo', 'contraste', 'mundo']
+Sentence 185 rankings: 
+o melhor exemplo são os manetes de controle dos motores e de acionamento do reverso o dispositivo que inverte o fluxo de ar nas turbinas e ajuda o avião a parar
+dispositivo
+['mecanismo', 'sistema', 'instrumento', 'dispositivos', 'elemento', 'aparelho', 'equipamento', 'recurso', 'item', 'componente', 'objeto', 'procedimento', 'mesmo', 'veículo', 'braço', 'método', 'botão', 'órgão', 'único', 'tipo']
+Sentence 186 rankings: 
+segundo gravações da caixapreta do a320 da tam um dos manetes correspondente ao motor direito que estava com o reverso travado teria ficado na posição de aceleração
+travado
+['parado', 'preso', 'ligado', 'quebrado', 'aberto', 'fechado', 'suspenso', 'travada', 'cortado', 'interrompido', 'curto', 'errado', 'marcado', 'instalado', 'esquerdo', 'oposto', 'não', ',', 'vazio', 'livre']
+Sentence 187 rankings: 
+inácio publicou em 2001 deca e zé perri livro em edição bilíngüe portuguêsfrancês no qual ele registra os relatos do pai sobre as andanças do escritor pela ilha de santa catarina
+andanças
+['viagens', 'aventuras', 'passagens', 'incursões', 'voltas', 'expedições', 'experiências', 'visitas', 'trilhas', 'corridas', 'férias', 'histórias', 'atividades', 'pesquisas', 'viagem', 'conquistas', 'descobertas', 'ações', 'paisagens', 'rotas']
+Sentence 188 rankings: 
+em reunião da mesa diretora ontem senadores argumentaram que o ideal seria acabar com a verba indenizatória de r 15 mil mensais que todos os parlamentares recebem e equiparar os salários fixados atualmente em r 166 mil aos r 245 mil dos ministros do supremo tribunal federal stf que é o teto do funcionalismo público
+parlamentares
+['deputados', 'senadores', 'políticos', 'vereadores', 'parlamentar', 'Deputados', 'partidos', 'congress', 'policiais', 'jornalistas', 'servidores', 'pares', 'artistas', 'colegas', 'presidentes', 'militares', 'profissionais', 'cidadãos', 'brasileiros', 'líderes']
+Sentence 189 rankings: 
+em reunião da mesa diretora ontem senadores argumentaram que o ideal seria acabar com a verba indenizatória de r 15 mil mensais que todos os parlamentares recebem e equiparar os salários fixados atualmente em r 166 mil aos r 245 mil dos ministros do supremo tribunal federal stf que é o teto do funcionalismo público
+equiparar
+['subir', 'integrar', 'melhorar', 'reduzir', 'tornar', 'considerar', 'completar', 'aumentar', 'retornar', 'ampliar', 'estender', 'voltar', 'permitir', 'aproximar', 'diminuir', 'incorporar', 'unir', 'proporcionar', 'alcançar', 'adaptar']
+Sentence 190 rankings: 
+a verba indenizatória foi criada para custear despesas dos parlamentares com seus mandatos nos estados
+custear
+['cobrir', 'pagar', 'financiar', 'atender', 'garantir', 'reduzir', 'complementar', 'suportar', 'evitar', 'as', 'conter', 'assegurar', 'diminuir', 'auxiliar', 'cortar', 'ajudar', 'controlar', 'dividir', 'assumir', 'apoiar']
+Sentence 191 rankings: 
+a verba indenizatória foi criada para custear despesas dos parlamentares com seus mandatos nos estados
+parlamentares
+['deputados', 'políticos', 'senadores', 'Deputados', 'vereadores', 'parlamentar', 'partidos', 'congress', 'governantes', 'eleitos', 'militares', 'policiais', 'representantes', 'governadores', 'candidatos', 'mandatos', 'líderes', 'servidores', 'eleitores', 'cidadãos']
+Sentence 192 rankings: 
+para viana este é um passo importante para dar mais transparência ao legislativo
+transparência
+['visibilidade', 'eficiência', 'legitimidade', 'democracia', 'independência', 'autonomia', 'controle', 'segurança', 'publicidade', 'qualidade', 'fiscalização', 'confiança', 'eficácia', 'harmonia', 'participação', 'poder', 'liberdade', 'vida', 'moral', 'cidadania']
+Sentence 193 rankings: 
+a mesa também discutiu a possibilidade de criar uma sala reservada dentro do cafezinho do senado porque os parlamentares têm reclamado da falta de privacidade no seu tradicional ponto de encontro que agora está restrito aos senadores
+restrito
+['restrita', 'limitado', 'reservado', 'destinado', 'aberto', 'reduzido', 'exclusivo', 'fechado', 'próximo', 'acessível', 'proibido', 'dirigido', 'disponibilizado', 'dedicado', 'adaptado', 'ligado', 'associado', 'relacionado', 'liberado', 'subordinado']
+Sentence 194 rankings: 
+após vários adiamentos o julgamento do mérito da questão foi postergado novamente agora para fevereiro
+postergado
+['adiado', 'marcado', 'suspenso', 'transferido', 'convocado', 'interrompido', 'previsto', 'confirmado', 'marcada', 'alterado', 'realizado', 'mudado', 'anunciado', 'feito', 'votado', 'programado', 'designado', 'iniciado', 'esperado', 'cancelado']
+Sentence 195 rankings: 
+veste terno azul e gravata corderosa impecáveis mas chega com um andar desengonçado
+impecáveis
+[',', 'perfeita', 'elegante', 'demais', '.', 'perfeito', 'simples', 'brilhante', 'bonita', 'excelente', 'clássica', 'também', 'brilhantes', 'excelentes', ';', 'bela', 'branca', 'completa', 'dourada', 'básica']
+Sentence 196 rankings: 
+veste terno azul e gravata corderosa impecáveis mas chega com um andar desengonçado
+desengonçado
+['errado', '[UNK]', 'diferente', 'desen', 'ruim', 'irregular', 'perdido', 'baixo', 'reto', 'estranho', 'triste', 'divertido', '.', 'abaixo', 'mal', 'pior', 'lento', 'caído', 'mau', 'nervoso']
+Sentence 197 rankings: 
+mas são celebridades como kerry que protagonizam as mais concorridas coletivas de imprensa
+protagonizam
+['fazem', 'realizam', 'dão', 'participam', 'são', 'protagon', 'compõem', 'ocupam', 'têm', 'formam', 'ocorrem', 'produzem', 'causam', 'aparecem', 'acontecem', 'apresentam', 'representam', 'recebem', 'oferecem', 'conseguem']
+Sentence 198 rankings: 
+quando havia o bar as bobagens eram sempre mais atrativas conta a mãe a dona de casa eliane gonçalves
+bobagens
+['coisas', 'bebidas', 'pessoas', 'piadas', 'conversas', 'mulheres', 'músicas', 'festas', 'roupas', 'palavras', 'garotas', 'opções', 'atrações', 'compras', 'meninas', 'coisa', 'idéias', 'cerveja', 'fotos', 'comida']
+Sentence 199 rankings: 
+os brasileiros marcaram 370 pontos em matemática 14 a mais do que na sondagem de 2003
+sondagem
+['pesquisa', 'edição', 'amostra', 'eleição', 'sonda', 'avaliação', 'votação', 'medição', 'campanha', 'consulta', 'prova', 'estimativa', 'análise', 'rodada', 'Pesquisa', 'medida', 'estatística', 'média', 'pergunta', 'previsão']
+Sentence 200 rankings: 
+o avanço em matemática teve como contrapartida um forte declínio no desempenho em leitura
+declínio
+['prejuízo', 'atraso', 'queda', 'desaparecimento', 'fracasso', 'colapso', 'crescimento', 'desempenho', 'rebaixamento', 'diminuição', 'abandono', 'progresso', 'menor', 'decadência', 'comportamento', 'negativo', 'aparecimento', 'baixo', 'fim', 'desvio']
+Sentence 201 rankings: 
+isso serviu de estopim para a concorrência de preços
+concorrência
+['competição', 'disputa', 'guerra', 'comparação', 'inflação', 'briga', 'discussão', 'fiscalização', 'oferta', 'corrida', 'formação', 'abertura', 'seleção', 'queda', 'administração', 'explosão', 'corrupção', 'rivalidade', 'promoção', 'política']
+Sentence 202 rankings: 
+aos sete meses o macacoaranha não é o único que precisa de atenção redobrada durante o inverno
+redobrada
+['especial', 'maior', 'extra', 'constante', 'total', 'máxima', 'permanente', 'imediata', 'também', 'exclusiva', 'contínua', 'intensa', 'particular', 'específica', 'diária', 'ainda', 'extrema', 'integral', 'adicional', 'absoluta']
+Sentence 203 rankings: 
+por volta das 16h30 min a calefação volta a ser ligada
+calefação
+['luz', 'TV', 'máquina', 'energia', 'iluminação', 'bomba', 'televisão', 'água', 'rede', 'central', 'cozinha', 'tomada', 'casa', 'bateria', 'fonte', 'chave', 'piscina', 'mesma', 'câmera', 'manutenção']
+Sentence 204 rankings: 
+o lar do pontífice em são paulo consiste de três salas contíguas no primeiro andar do mosteiro cada uma com uma janela dando para os jardins do claustro
+contíguas
+['adjacentes', 'separadas', 'situadas', 'paralelas', 'localizadas', 'distintas', 'independentes', 'vizinhas', 'distribuídas', 'diferentes', 'internas', 'próximas', 'pequenas', ',', 'também', 'iguais', 'divididas', 'individuais', 'isoladas', 'comuns']
+Sentence 205 rankings: 
+a sala contém ainda uma poltrona com uma luminária de leitura ao lado escrivaninha uma cadeira e arcondicionado
+escrivaninha
+['de', 'e', 'dela', ',', 'mesa', 'parede', 'com', 'dele', 'escri', 'da', 'sala', 'livro', 'porta', 'biblioteca', 'cadeira', 'janela', 'escritório', 'quadro', 'computador', 'mais']
+Sentence 206 rankings: 
+o toque de requinte a esses aposentos austeros é conferido por flores
+requinte
+['luxo', 'classe', 'nobreza', 'beleza', 'riqueza', 'estilo', 'simplicidade', 'graça', 'conforto', 'brilho', 'cor', 'distinção', 'elegante', 'arte', 'mistério', 'harmonia', 'decoração', 'antiguidade', 'gosto', 'detalhes']
+Sentence 207 rankings: 
+o toque de requinte a esses aposentos austeros é conferido por flores
+conferido
+['dado', 'trazido', 'concedido', 'oferecido', 'representado', 'transmitido', 'completado', 'feito', 'imposto', 'atribuído', 'adicionado', 'produzido', 'introduzido', 'obtido', 'confirmado', 'permitido', 'marcado', 'servido', 'ajudado', 'promovido']
+Sentence 208 rankings: 
+a menos de 24 horas da chegada de bento xvi militares fardados subiam e desciam escadas de mármore e agentes federais faziam as últimas revistas nos aposentos que abrigarão o visitante ilustre
+ilustre
+['ilust', '.', 'especial', 'homenageado', 'importante', 'notável', 'falecido', 'histórico', 'visitante', 'feliz', 'famoso', 'nobre', 'esperado', 'oficial', ':', 'condecorado', 'comum', 'solene', 'presidencial', 'exemplar']
+Sentence 209 rankings: 
+no momento crucial da história da varig os desentendimentos internos que se tornaram marca registrada da empresa viraram passado pelo menos por um momento
+crucial
+['decisivo', 'crítico', 'extremo', 'fundamental', 'final', 'chave', 'estratégico', 'primordial', 'terminal', 'central', 'essencial', 'específico', 'decisiva', 'histórico', 'marcante', 'vital', 'importante', 'definitivo', 'cardeal', 'difícil']
+Sentence 210 rankings: 
+a expectativa é de que a nova companhia adote uma gestão moderna com folha de salários mais enxuta para vencer a crise em que se envolveu com dívidas beirando r 9 bilhões
+gestão
+['administração', 'Gestão', 'gerencia', 'diretoria', 'estratégia', 'estrutura', 'postura', 'ger', 'equipe', 'gerenciamento', 'organização', 'direção', 'concepção', 'logística', 'geração', 'atitude', 'reestruturação', 'administra', 'gesto', 'abordagem']
+Sentence 211 rankings: 
+diversidade e clima descontraído foram as marcas do primeiro dia do 8º fórum internacional software livre fisl que prossegue até amanhã no centro de exposições da federação das indústrias do estado
+diversidade
+['Divers', 'Música', 'variedade', 'Tecnologia', 'Diversos', 'Educação', 'Espaço', 'Informação', 'Paz', 'Cultura', 'Organização', 'Segurança', 'Natureza', 'Ambiente', 'Desenvolvimento', 'Show', 'Família', 'Saúde', 'História', 'Ciência']
+Sentence 212 rankings: 
+diversidade e clima descontraído foram as marcas do primeiro dia do 8º fórum internacional software livre fisl que prossegue até amanhã no centro de exposições da federação das indústrias do estado
+descontraído
+['agradável', 'informal', 'divertido', 'alegre', 'quente', 'frio', 'amistoso', 'brasileiro', 'favorável', 'tropical', 'diferente', 'leve', 'saudável', 'esportivo', 'bom', 'democrático', 'animado', 'familiar', 'criativo', ',']
+Sentence 213 rankings: 
+mais de 200 palestras integram a programação muitas destinadas a usuários leigos em informática
+leigos
+['técnicos', 'interessados', 'especialistas', 'avançados', 'especializados', 'profissionais', 'ligados', 'formados', 'ativos', 'especialista', 'comuns', 'cultos', 'digitais', 'gerais', 'externos', 'específicos', 'lei', 'críticos', 'amadores', 'básicos']
+Sentence 214 rankings: 
+além de encontrar o pessoal do software livre com quem a gente está sempre em contato vim para ver algumas palestras e me atualizar em novas tendências debatidas aqui
+debatidas
+['apresentadas', 'propostas', 'debates', 'lançadas', 'expostas', 'discussões', 'debat', 'definidas', 'colocadas', 'debate', 'publicadas', 'por', 'desenvolvidas', 'criadas', 'produzidas', 'dadas', 'tomadas', 'disputadas', 'mundiais', 'atuais']
+Sentence 215 rankings: 
+o fórum retrata a diversidade da comunidade de software livre onde todos os grupos projetos e iniciativas têm espaço
+diversidade
+['variedade', 'complexidade', 'biodiversidade', 'realidade', 'maioria', 'riqueza', 'dinâmica', 'variação', 'comunidade', 'integridade', 'gama', 'totalidade', 'divers', 'qualidade', 'plural', 'multi', 'identidade', 'natureza', 'beleza', 'unidade']
+Sentence 216 rankings: 
+acessório símbolo do aviador foi furtado há cerca de um ano
+acessório
+['O', 'o', 'Novo', 'novo', 'principal', 'relógio', 'Um', 'um', 'chapéu', 'antigo', 'com', 'anel', 'primeiro', '[UNK]', 'maior', 'e', 'Outro', 'Primeiro', '-', 'escudo']
+Sentence 217 rankings: 
+calma freqüentador do parque da redenção o busto de santosdumont não foi furtado
+busto
+['bus', 'monumento', 'corpo', 'estátua', 'anel', 'túmulo', 'relógio', 'retrato', 'trono', 'quadro', 'rosto', 'peito', 'chapéu', 'ícone', 'colar', 'símbolo', 'tronco', 'crânio', 'braço', 'escultura']
+Sentence 218 rankings: 
+calma freqüentador do parque da redenção o busto de santosdumont não foi furtado
+furtado
+['roubado', 'levado', 'recuperado', 'encontrado', 'localizado', 'fur', 'comprado', 'retirado', 'destruído', 'vendido', '.', 'tomado', 'feito', 'usado', 'deixado', 'quebrado', 'perdido', 'embora', 'removido', 'colocado']
+Sentence 219 rankings: 
+funcionários da secretaria municipal do meio ambiente smam levaram cerca de uma hora para tirar a estátua de seu pedestal na manhã de ontem
+pedestal
+['altar', 'monumento', 'trono', 'templo', 'lugar', 'posto', 'local', 'palco', 'espaço', 'ícone', 'prédio', 'pede', 'cargo', 'santuário', 'símbolo', 'topo', 'assento', 'gabinete', 'piso', 'pódio']
+Sentence 220 rankings: 
+foram utilizados marreta martelo e talhadeira para levantar os quatro pinos que prendiam o busto à base de cimento
+busto
+['corpo', 'peito', 'tronco', 'seio', 'vestido', 'braço', 'tecido', 'pescoço', 'rosto', 'cabelo', 'modelo', 'assento', 'crânio', 'monumento', 'teto', 'colar', 'material', 'banco', 'concreto', 'conjunto']
+Sentence 221 rankings: 
+seis parlamentares brasileiros irão ao evento
+parlamentares
+['deputados', 'políticos', 'senadores', 'vereadores', 'Deputados', 'representantes', 'congress', 'artistas', 'parlamentar', 'policiais', 'militares', 'jornalistas', 'atletas', 'estudantes', 'líderes', 'Parla', 'outros', 'federais', 'empresários', 'cidadãos']
+Sentence 222 rankings: 
+o deputado federal tarcísio zimmermann pt presidente no brasil da rede parlamentar mundial é um dos seis parlamentares brasileiros e único gaúcho com presença confirmada no evento
+parlamentares
+['deputados', 'políticos', 'Deputados', 'parlamentar', 'representantes', 'congress', 'senadores', 'federais', 'Parla', 'deputado', 'policiais', 'artistas', 'vereadores', 'parlamento', 'atletas', 'executivos', 'cidadãos', 'pares', 'militares', 'líderes']
+Sentence 223 rankings: 
+a capital vivencia um fenômeno contraditório
+contraditório
+['oposto', 'contrário', 'diferente', 'complexo', 'novo', 'inverso', 'semelhante', 'estranho', 'político', 'histórico', 'similar', 'social', 'singular', 'revolucionário', 'plural', 'único', 'interessante', 'surpreendente', 'contra', 'inédito']
+Sentence 224 rankings: 
+os resultados são percebidos em redutos tradicionais da classe média como cidade baixa e menino deus
+redutos
+['bairros', 'locais', 'lugares', 'pontos', 'áreas', 'ambientes', 'espaços', 'grupos', 'localidades', 'comunidades', 'territórios', 'cenários', 'regiões', 'destinos', 'setores', 'distritos', 'povoados', 'alvos', 'zonas', 'vilas']
+Sentence 225 rankings: 
+sem espaço sob pontes e viadutos moradores de rua transformam calçadas em dormitórios e latrinas
+latrinas
+['depósitos', 'casas', 'apartamentos', 'residências', 'prisões', 'quartos', 'similares', 'depósito', 'lojas', 'fábricas', '[UNK]', 'bares', 'hotéis', 'salas', 'colônias', 'escritórios', 'tanques', 'bancos', 'caixas', 'oficinas']
+Sentence 226 rankings: 
+é por isso que em quase todo prédio de vias como josé do patrocínio lima e silva venâncio aires e getúlio vargas grades separam passeios de espaços condominiais criando uma estética antimendigo na cidade
+vias
+['ruas', 'avenidas', 'obras', 'rua', 'empresas', 'via', 'redes', 'canais', 'avenida', 'escolas', 'linhas', 'praças', 'prédios', 'casas', 'galerias', 'construções', 'edifícios', 'leis', 'bairros', 'estradas']
+Sentence 227 rankings: 
+guelion da silva machado 22 anos há um ano e meio vivendo sob a ponte da ipiranga com a azenha compreende a indignação de quem acorda com fezes humanas na porta de casa
+indignação
+['revolta', 'preocupação', 'dor', 'raiva', 'solidariedade', 'situação', 'realidade', 'reação', 'Revolta', 'cara', 'alegria', 'surpresa', 'ind', 'manifestação', 'ira', 'felicidade', 'esperança', 'sensibilidade', 'dignidade', 'tragédia']
+Sentence 228 rankings: 
+segundo ele a segunda forma de escrita se trata de uma deformação popular que torna a sonoridade da palavra mais agradável e familiar
+sonoridade
+['melodia', 'forma', 'textura', 'linguagem', 'estrutura', 'interpretação', 'leitura', 'composição', 'som', 'escrita', 'qualidade', 'aparência', 'audição', 'estética', 'voz', 'letra', 'execução', 'percepção', 'música', 'compreensão']
+Sentence 229 rankings: 
+a área de lazer está montada para não decepcionar as crianças
+montada
+['montado', 'armada', 'instalada', 'pronta', 'organizada', 'planejada', 'monta', 'montagem', 'cercada', 'adaptada', 'coberta', 'separada', 'feita', 'perfeita', 'disponível', 'localizada', 'criada', 'desenhada', 'cheia', 'fechada']
+Sentence 230 rankings: 
+júpiter e suas luas saturno e seus famosos anéis orion e sua constelação e até uma efêmera estrela cadente passaram em revista pelo olhar do grupo
+efêmera
+['bela', 'rara', 'misteriosa', 'pequena', 'brilhante', 'única', 'eterna', 'nova', 'distante', 'antiga', 'desconhecida', 'inédita', 'jovem', 'improvável', 'enorme', 'extinta', 'estranha', 'outra', 'breve', 'grande']
+Sentence 231 rankings: 
+algumas particularidades dessa última ocorrência porém fizeram com que a direção ficasse ainda mais pesarosa
+particularidades
+['características', 'circunstâncias', 'variantes', 'consequências', 'particular', 'situações', 'diferenças', 'vantagens', 'complicações', 'peculiar', 'característica', 'dificuldades', 'coisas', 'informações', 'condições', 'particulares', 'detalhes', 'aspectos', 'específicas', 'semelhanças']
+Sentence 232 rankings: 
+algumas particularidades dessa última ocorrência porém fizeram com que a direção ficasse ainda mais pesarosa
+pesarosa
+['pesada', 'triste', 'pesa', 'fria', 'séria', 'dura', 'preocupa', '.', 'perdida', 'dividida', 'perigosa', 'leve', 'difícil', 'sensível', 'dramática', 'revolta', 'nerv', 'pesado', 'fraca', 'forte']
+Sentence 233 rankings: 
+emília quer acreditar que seus discursos tenham transmitido indignação aos alunos e o deles aos pais vizinhos à escola
+indignação
+['revolta', 'raiva', 'ódio', 'solidariedade', 'medo', 'ira', 'protestos', 'protesto', 'esperança', 'pânico', 'preocupação', 'alegria', 'preconceito', 'simpatia', 'surpresa', 'satisfação', 'emoção', 'dor', 'vingança', 'violência']
+Sentence 234 rankings: 
+apesar do esforço da família em se manter unida a mudança para viamão deixou uma seqüela
+seqüela
+['marca', 'lesão', 'sequ', 'herança', 'cic', 'deficiência', 'infecção', 'perda', 'doença', 'consequência', 'cura', 'dor', 'morte', 'falha', 'destruição', '[UNK]', 'tragédia', 'assinatura', 'descendência', 'depressão']
+Sentence 235 rankings: 
+em 2007 25 milhões foram infectadas
+infectadas
+['mortas', 'identificadas', 'feridas', 'descobertas', 'infec', 'doentes', 'expostas', 'vendidas', 'cobertas', 'registradas', 'mortos', 'vítimas', '.', 'protegidas', 'destruídas', 'utilizadas', 'aplicadas', 'produzidas', 'isoladas', 'usadas']
+Sentence 236 rankings: 
+o número de mortes em decorrência da aids neste ano foi de 21 milhões
+decorrência
+['consequência', 'virtude', 'razão', 'função', 'face', 'resultado', 'sequência', 'torno', 'prol', 'detrimento', 'causa', 'consequências', 'continuação', 'benefício', 'conse', 'seguida', 'nome', 'complicações', 'decorrentes', 'suspensão']
+Sentence 237 rankings: 
+ainda estamos muito distantes do patamar que consideramos adequado do ponto de vista ético e do compromisso assumido na assembléia geral da onu em 2001 diz chequer exdiretor do programa nacional de dst e aids
+patamar
+['nível', 'modelo', 'padrão', 'pata', 'estágio', 'valor', 'cenário', 'grau', 'ideal', 'mínimo', 'perfil', 'ponto', 'paradigma', 'caminho', 'quadro', 'estado', 'ambiente', 'piso', 'montante', 'lugar']
+Sentence 238 rankings: 
+os relatórios indicam aumento de 150 no número de infectados na europa oriental e na ásia central
+infectados
+['casos', 'mortos', 'mortes', 'doentes', 'vítimas', 'infecção', 'pacientes', 'pessoas', 'infec', 'novos', 'registros', 'feridos', 'habitantes', 'morte', 'doenças', 'vírus', 'refugiados', 'sobreviventes', 'HIV', 'portadores']
+Sentence 239 rankings: 
+o grupo rbs celebra hoje os seus primeiros 50 anos de existência com as mãos no trabalho os olhos no futuro e o coração tomado pela mesma paixão de comunicar que motivou maurício sirotsky sobrinho ao associarse à rádio gaúcha em 1957
+motivou
+['levou', 'inspirou', 'move', 'atraiu', 'motivo', 'provocou', 'motiva', 'motivação', 'chamou', 'matou', 'uniu', 'convidou', 'convocou', 'anima', 'acompanhou', 'motiv', 'iniciou', 'determinou', 'condenou', 'trouxe']
+Sentence 240 rankings: 
+é para satisfazer plenamente ouvintes leitores telespectadores e usuários dos seus vários serviços que a rbs produz e entrega informação entretenimento e conteúdos diversos
+entretenimento
+['informação', 'programação', 'mídia', 'conteúdo', 'lazer', 'diversão', 'esportiva', 'televisão', 'cultural', 'esporte', 'artística', 'televisiva', 'educacional', 'publicidade', 'gratuita', 'produto', 'TV', 'eletrônica', 'Entertainment', 'cultura']
+Sentence 241 rankings: 
+é em respeito a esse público que a rbs aperfeiçoou ao longo dessas cinco décadas uma linha editorial centrada na verdade na independência na democracia na liberdade de expressão no pluralismo de opiniões no localismo e na responsabilidade social
+aperfeiçoou
+['desenvolveu', 'consolidou', 'manteve', 'construiu', 'elaborou', 'evoluiu', 'adotou', 'criou', 'transformou', 'adquiriu', 'estabeleceu', 'aperfeiço', 'avançou', 'definiu', 'formou', 'lançou', 'mudou', 'alterou', 'mantém', 'ampliou']
+Sentence 242 rankings: 
+é em respeito a esse público que a rbs aperfeiçoou ao longo dessas cinco décadas uma linha editorial centrada na verdade na independência na democracia na liberdade de expressão no pluralismo de opiniões no localismo e na responsabilidade social
+localismo
+['local', 'localmente', 'regional', 'nacional', 'respeito', 'nacionalismo', 'lugar', 'municipal', 'ambiente', 'plural', 'ambiental', 'município', 'territorial', 'global', 'individual', 'cidadão', 'entorno', 'indivíduo', 'trabalho', 'social']
+Sentence 243 rankings: 
+o diretor também acredita que o tema do desfile educação trabalho e dignidade já é propício a manifestações
+propício
+['favorável', 'adequado', 'apropriado', 'destinado', 'prop', 'próprio', 'pronto', 'anterior', 'candidato', 'favoráveis', 'ideal', 'associado', 'consagrado', 'aberto', 'hostil', 'agradável', 'convite', 'comum', 'proposto', 'suficiente']
+Sentence 244 rankings: 
+a informação foi dada na conferência da origem do universo aos grandes telescópios ministrada ontem por joão steiner astrofísico da usp durante a 52ª reunião anual da sociedade brasileira para o progresso da ciência
+conferência
+['palestra', 'apresentação', 'demonstração', 'explicação', 'Conferência', 'exposição', 'declaração', 'transmissão', 'revelação', 'mensagem', 'pergunta', 'resposta', 'introdução', 'exibição', 'entrevista', 'discussão', 'informação', 'comunicação', 'fala', 'ciência']
+Sentence 245 rankings: 
+essa pessoa não perceberia a terra que seria ofuscada pela luminosidade solar explicou steiner
+luminosidade
+['luz', 'radiação', 'energia', 'iluminação', 'atividade', 'explosão', 'Luz', 'intensidade', 'incidência', 'reflexão', 'sombra', 'poluição', 'eletricidade', 'presença', 'exposição', 'tempestade', 'linha', 'visão', 'gravidade', 'velocidade']
+Sentence 246 rankings: 
+adalberto veríssimo da ong imazon apresentou estudo segundo o qual as cidades em regiões amazônicas ocupadas de forma predatória duram por volta de 23 anos
+predatória
+['ilegal', 'irregular', 'pred', 'violenta', 'sustentável', 'planejada', 'contínua', 'controlada', 'agropecuária', 'sistemática', 'selvagem', 'permanente', 'abandonada', 'regular', 'agrícola', 'hostil', 'comercial', 'urbana', 'econômica', 'turística']
+Sentence 247 rankings: 
+depois disso entram em colapso total por falta de uma política de desenvolvimento sustentável
+colapso
+['falência', 'caos', 'decadência', 'crise', 'desastre', 'declínio', 'fracasso', 'pânico', 'isolamento', 'extinção', 'suicídio', 'abandono', 'depressão', 'naufrágio', 'conflito', 'destruição', 'choque', 'desaparecimento', 'esgoto', 'silêncio']
+Sentence 248 rankings: 
+para os paleontólogos achar esse tipo de evidência equivale a acertar na loteria
+evidência
+['evidencia', 'evidências', 'prova', 'material', 'coisa', 'rocha', 'sinal', 'amostra', 'descoberta', 'informação', 'testemunho', 'ocorrência', 'afirmação', 'dado', 'mostra', 'evidente', 'fato', 'confirmação', 'demonstração', 'novidade']
+Sentence 249 rankings: 
+é como se o dinossauro tivesse sido enterrado ontem disse alexander kellner geólogo do setor de paleovertebrados do museu nacional e coordenador da expedição que encontrou o fóssil na região da chapada do araripe ceará veja mapa
+expedição
+['expedições', 'equipe', 'aventura', 'viagem', 'missão', 'comissão', 'pesquisa', 'iniciativa', 'jornada', 'investigação', 'operação', 'ciência', 'caminhada', 'Exped', 'etapa', 'ação', 'campanha', 'delegação', 'volta', 'tarefa']
+Sentence 250 rankings: 
+a proposta já faz parte de outras declarações como a declaração de consenso de atlanta de 99 assinadas por menos cientistas e sem endosso da oms
+endosso
+['aprovação', 'assinatura', 'apoio', 'aval', 'consentimento', 'autorização', 'endo', 'acordo', 'confirmação', 'selo', 'adesão', 'participação', 'certificação', 'consenso', 'reconhecimento', 'envolvimento', 'suporte', 'acompanhamento', 'revisão', 'aceitação']
+Sentence 251 rankings: 
+mas zonas de intensa urbanização recente como o sul dos eua e o norte do méxico também foram incluídas no novo mapa da escassez
+escassez
+['abundância', 'pobreza', 'falta', 'oferta', 'crise', 'seca', 'fome', 'disponibilidade', 'desigualdade', 'extinção', 'degradação', 'produção', 'perda', 'exclusão', 'economia', 'deficiência', 'distribuição', 'erosão', 'necessidade', 'ausência']
+Sentence 252 rankings: 
+a equipe liderada por yoshihiro kawaoka analisou amostras do h5 n1 o vírus influenza que em 1997 matou 6 das 18 pessoas infectadas em hong kong
+infectadas
+['mortas', 'feridas', 'doentes', 'infec', 'expostas', 'vivas', 'morreram', 'registradas', 'identificadas', 'presas', 'encontradas', ',', 'morrendo', 'suspeitas', 'residentes', 'vítimas', 'envolvidas', 'mortais', 'sobreviventes', 'classificadas']
+Sentence 253 rankings: 
+cientistas do centro de estudos de saclay na frança parecem ter encontrado o primeiro indício de que a via láctea esteja cercada por um verdadeiro campo minado de buracos negros cerca de 1 milhão ao todo eles estimam
+estimam
+['estima', '.', 'dizem', 'consideram', 'acreditam', 'estimativa', '[UNK]', 'calcul', 'estim', 'estimativas', 'afirmam', 'sugerem', ',', 'devem', 'fazem', 'estimado', 'são', 'Estima', 'referem', 'prev']
+Sentence 254 rankings: 
+a pesquisa que sai publicada hoje na revista britânica nature wwwnaturecom é a primeira a constatar que um buraco negro está orbitando o centro da via láctea fora do plano do disco galáctico
+constatar
+['descobrir', 'demonstrar', 'confirmar', 'detectar', 'afirmar', 'provar', 'verificar', 'mostrar', 'concluir', 'revelar', 'perceber', 'reconhecer', 'determinar', 'dizer', 'notar', 'registrar', 'estabelecer', 'identificar', 'saber', 'observar']
+Sentence 255 rankings: 
+um buraco negro é o resultado do colapso de uma estrela muito maciça
+maciça
+['grande', 'pequena', 'quente', 'fraca', 'brilhante', 'gigante', 'densa', 'distante', 'antiga', 'poderosa', 'próxima', 'jovem', 'maior', 'forte', 'fria', 'pesada', 'extensa', 'enorme', 'potente', 'ativa']
+Sentence 256 rankings: 
+atualmente o único meio seguro de aferir sua presença é observar astros próximos que estejam sob influência de sua gravidade
+aferir
+['medir', 'determinar', 'verificar', 'avaliar', 'detectar', 'confirmar', 'indicar', 'provar', 'demonstrar', 'saber', 'identificar', 'testar', 'calcular', 'conhecer', 'perceber', 'estabelecer', 'assegurar', 'observar', 'descobrir', 'prever']
+Sentence 257 rankings: 
+a riqueza de artefatos de várias origens ali depositados pelas sucessivas levas de ocupantes do território português
+artefatos
+['objetos', 'materiais', 'vestígios', 'produtos', 'artigos', 'bens', 'monumentos', 'minerais', 'metais', 'instrumentos', 'documentos', 'pedras', 'itens', 'peças', 'cristais', 'sítios', 'fósseis', 'elementos', 'equipamentos', 'símbolos']
+Sentence 258 rankings: 
+o livro é o primeiro no país a descrever esse aspecto da arqueologia em geral associado negativamente com a caça a tesouros
+associado
+['relacionado', 'associada', 'ligado', 'associados', 'identificado', 'combinado', 'associação', 'relacionada', 'associa', 'aliado', 'atribuído', 'associadas', 'visto', 'relacionados', 'considerado', 'apontado', ',', 'associ', 'junto', 'relaciona']
+Sentence 259 rankings: 
+agora ele informa que um deles está atravessando a vastidão da galáxia a uma velocidade exorbitante vindo direto para cá
+exorbitante
+['impressionante', 'incrível', 'surpreendente', 'enorme', 'extraordinária', 'alta', 'imensa', 'máxima', 'média', 'extrema', 'considerável', 'gigante', 'grande', 'brutal', 'desconhecida', 'elevada', 'estranha', 'incomum', 'baixa', 'maior']
+Sentence 260 rankings: 
+apesar disso esse objeto viajando pelo espaço a 400 mil quilômetros por hora 12703 da velocidade da luz é um lembrete incômodo de que buracos negros não têm as trajetórias comportadas e previsíveis que todos gostariam que eles tivessem
+previsíveis
+['previs', 'normais', 'possíveis', 'naturais', 'regulares', 'constantes', 'curtas', 'definidas', 'reais', 'determinadas', 'conhecidas', 'comuns', 'rápidas', 'certas', 'variáveis', 'convencionais', 'clássicas', 'necessárias', 'coordenadas', 'visíveis']
+Sentence 261 rankings: 
+em volta do buraco negro está orbitando uma estrela subgigante bastante comum
+orbitando
+['orbita', 'localizada', 'passando', 'distante', 'surgindo', 'observando', 'aparecendo', 'situada', 'ocorrendo', 'localizado', 'também', 'apenas', 'em', 'vivendo', 'sobre', 'a', 'encontrando', 'havendo', 'visível', 'tendo']
+Sentence 262 rankings: 
+estimativas anteriores sugeriam que um evento desses ocorresse em média a cada 200 ou 300 anos
+estimativas
+['Pesquisas', 'Estudos', 'Dados', 'as', 'cálculos', 'avaliações', 'Contas', 'Estima', 'expectativas', 'análises', 'estimativa', 'estatísticas', 'tendências', 'pesquisas', 'dados', 'As', 'estudos', 'medidas', 'hipóteses', 'perspectivas']
+Sentence 263 rankings: 
+as medidas de estresse eram o ritmo de batimento cardíaco e a pressão sanguínea
+cardíaco
+['cardíaca', 'coração', 'celular', 'muscular', 'card', 'cerebral', 'físico', 'elétrico', 'nervoso', 'médio', 'aéreo', 'motor', 'biológico', ',', 'renal', 'magnético', 'mecânico', 'corporal', 'oxigênio', 'mental']
+Sentence 264 rankings: 
+depois de ter sido acusada pela organização mundial da saúde de ter mais casos de pneumonia asiática do que relatava publicamente a china prometeu mais transparência na notificação de casos da doença
+transparência
+['publicidade', 'rigor', 'qualidade', 'eficácia', 'visibilidade', 'informação', 'eficiência', 'divulgação', 'controle', 'trans', 'transpare', 'fiscalização', 'precisão', 'organização', 'abertura', 'segurança', 'vigilância', 'participação', 'democracia', 'controles']
+Sentence 265 rankings: 
+depois de ter sido acusada pela organização mundial da saúde de ter mais casos de pneumonia asiática do que relatava publicamente a china prometeu mais transparência na notificação de casos da doença
+notificação
+['divulgação', 'investigação', 'confirmação', 'comunicação', 'detecção', 'contagem', 'lista', 'identificação', 'classificação', 'vigilância', 'informação', 'atualização', 'declaração', 'publicação', 'gestão', 'avaliação', 'regulação', 'distribuição', 'cobertura', 'estatística']
+Sentence 266 rankings: 
+o encontro do partido ocorreu um dia depois de a oms ter dito que pequim tem 200 casos de sars em vez dos 37 notificados
+notificados
+['.', 'registrados', 'apresentados', 'existentes', 'listados', 'citados', 'encontrados', 'necessários', 'enviados', 'disponíveis', 'publicados', 'descritos', 'mencionados', 'oferecidos', 'identificados', 'pedidos', 'considerados', 'restantes', ',', 'referidos']
+Sentence 267 rankings: 
+segundo informou a asi agência espacial italiana no fim da noite de ontem por telefone o impacto dos destroços teria ocorrido às 18h06 horário de brasília numa área remota do oceano
+destroços
+['fragmentos', 'corpos', 'restos', 'impactos', 'objetos', 'ossos', 'pedaços', 'mesmos', 'resíduos', 'artefatos', 'aviões', 'destro', 'foguetes', 'veículos', 'tiros', 'materiais', 'gases', 'motores', 'dados', 'blocos']
+Sentence 268 rankings: 
+os resultados do trabalho que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro irapuan rodrigues haviam sido noticiados pela folha em março antes de o estudo ser selecionado para publicação
+selecionado
+['escolhido', 'aprovado', 'selecionados', 'enviado', 'classificado', 'apresentado', 'submetido', 'convocado', 'adequado', 'aceito', 'chamado', 'organizado', 'convidado', 'destacado', 'colocado', 'publicado', 'orientado', 'preparado', 'indicado', 'programado']
+Sentence 269 rankings: 
+a idéia iniciada em 1976 era coletar e preservar criogenicamente em baixas temperaturas amostras celulares de animais ameaçados de extinção com a esperança de estudálos e quem sabe ressuscitálos quando a tecnologia assim o permitisse
+amostras
+['amostra', 'espécimes', 'pedaços', 'partes', 'fragmentos', 'células', 'componentes', 'peças', 'coleções', 'cópias', 'fotos', 'unidades', 'vestígios', 'lotes', 'espécies', 'as', 'resíduos', 'provas', 'tipos', 'camadas']
+Sentence 270 rankings: 
+primeiro pede que a comissão técnica nacional de biossegurança ctnbio seja a única instância a regulamentar tanto a pesquisa como a comercialização de transgênicos no âmbito do mérito científico
+regulamentar
+['regular', 'controlar', 'definir', 'julgar', 'decidir', 'analisar', 'avaliar', 'acompanhar', 'regula', 'discutir', 'garantir', 'estabelecer', 'exercer', 'proteger', 'promover', 'defender', 'organizar', 'permitir', 'determinar', 'registrar']
+Sentence 271 rankings: 
+os resultados fornecem novos lampejos sobre a estrutura da comunidade e revelam as estratégias que marcam a atividade microbiana nesse ambiente dizem
+lampejos
+['dados', 'detalhes', 'indícios', 'conhecimentos', 'elementos', 'aspectos', 'pistas', 'traços', 'estudos', 'modelos', 'conceitos', 'luzes', 'pensamentos', 'relatos', 'cenários', 'comentários', 'indicadores', 'registros', 'parâmetros', 'quadros']
+Sentence 272 rankings: 
+por enquanto as implicações estão mais ligadas à prevenção do mal de alzheimer do que a uma possível melhora do prognóstico dos pacientes afirmou mattson que participou da conferência apresentando os seus dados da pesquisa por telefone por estar gripado
+implicações
+['consequências', 'conclusões', 'implica', 'preocupações', 'questões', 'evidências', 'discussões', 'intervenções', 'aplicações', 'perspectivas', 'ações', 'propostas', 'contribuições', 'complicações', 'vantagens', 'medidas', 'pesquisas', 'coisas', 'mudanças', 'ideias']
+Sentence 273 rankings: 
+colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+evidências
+['provas', 'evidência', 'indicações', 'descobertas', 'pesquisas', 'pistas', 'hipóteses', 'conclusões', 'alegações', 'informações', 'indícios', 'perspectivas', 'possibilidades', 'experiências', 'formas', 'observações', 'evidencia', 'suspeitas', 'diretrizes', 'tecnologias']
+Sentence 274 rankings: 
+colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+aparecimento
+['surgimento', 'desenvolvimento', 'início', 'desaparecimento', 'advento', 'nascimento', 'aparição', 'começo', 'tratamento', 'surgir', 'avanço', 'apare', 'inicio', 'crescimento', 'fim', 'fenômeno', 'estabelecimento', 'progresso', 'princípio', 'futuro']
+Sentence 275 rankings: 
+num trabalho aprovado para publicação na revista científica pnas wwwpnasorg a equipe mostrou que o aparecimento da betaamilóide induz um acúmulo anormal de colesterol e ceramida
+aparecimento
+['surgimento', 'desenvolvimento', 'desaparecimento', 'crescimento', 'início', 'nascimento', 'aumento', 'tratamento', 'advento', 'aparição', 'estímulo', 'uso', 'ataque', 'comportamento', 'declínio', 'efeito', 'encontro', 'começo', 'fenômeno', 'episódio']
+Sentence 276 rankings: 
+mas ninguém conseguira detectar flutuações até o cobe
+flutuações
+['mudanças', 'tempestades', 'variações', 'diferenças', 'ondas', 'alterações', 'movimentos', 'correntes', 'nada', 'flutua', 'transformações', 'falhas', 'cristais', 'impactos', '[UNK]', 'pressões', 'partículas', 'estrelas', 'perdas', 'estruturas']
+Sentence 277 rankings: 
+a partir das flutuações é possível estimar a quantidade de matéria e energia existente no universo e a idade do cosmos entre outras descobertas importantes
+estimar
+['calcular', 'determinar', 'medir', 'prever', 'definir', 'estima', 'descobrir', 'conhecer', 'avaliar', 'saber', 'encontrar', 'estabelecer', 'obter', 'verificar', 'dizer', 'considerar', 'contar', 'afirmar', 'detectar', 'identificar']
+Sentence 278 rankings: 
+como a correnteza na planície é muito fraca há acúmulo no fundo do taquari
+acúmulo
+['erosão', 'água', 'depósitos', 'precipitação', 'deposição', 'chuva', 'areia', 'depósito', 'chuvas', 'pedras', 'poluição', 'algas', 'formação', 'petróleo', 'pedra', 'lixo', 'buraco', 'movimentação', 'elevação', 'umidade']
+Sentence 279 rankings: 
+estudos baseados em modelos de computador publicados nos dois principais periódicos científicos do planeta indicam que diagnóstico rápido quarentena de doentes e tratamento em massa com antivirais seriam capazes de impedir algo semelhante ao que aconteceu com a chamada gripe espanhola logo depois da primeira guerra mundial
+diagnóstico
+['diagnostic', 'o', 'um', 'tratamento', 'atendimento', 'acompanhamento', 'médico', 'exame', 'diagn', 'diagnos', 'mais', 'resultado', 'detecção', 'a', 'protocolo', 'apenas', 'no', 'reconhecimento', 'teste', 'histórico']
+Sentence 280 rankings: 
+estudos baseados em modelos de computador publicados nos dois principais periódicos científicos do planeta indicam que diagnóstico rápido quarentena de doentes e tratamento em massa com antivirais seriam capazes de impedir algo semelhante ao que aconteceu com a chamada gripe espanhola logo depois da primeira guerra mundial
+antivirais
+['medicamentos', 'drogas', 'vírus', 'prevenção', 'médicos', 'tratamentos', 'HIV', 'tratamento', 'agentes', 'bactérias', 'radiação', 'terapia', 'doenças', 'isolamento', 'alternativas', 'febre', 'biológicos', 'especialistas', 'sintomas', 'eficácia']
+Sentence 281 rankings: 
+as vítimas se infectam por inalação ou ingestão do vírus nas fezes e nas secreções das aves cujo organismo foi invadido
+infectam
+['contam', 'alimentam', 'encontram', 'desenvolvem', 'infec', 'formam', 'apresentam', 'dão', 'mantêm', 'fazem', 'passam', 'causam', 'tornam', 'defendem', 'são', 'transmite', 'forma', 'atingem', 'constituem', 'infecção']
+Sentence 282 rankings: 
+as novas câmeras instaladas para monitorar a subida do ônibus ao espaço revelaram que pedaços de espuma sólida relativamente grandes continuavam a se desprender do tanque externo do veículo
+monitorar
+['acompanhar', 'filmar', 'registrar', 'observar', 'controlar', 'gravar', 'monitora', 'verificar', 'assistir', 'medir', 'analisar', 'detectar', 'evitar', 'capturar', 'mostrar', 'seguir', 'ver', 'impedir', 'identificar', 'apoiar']
+Sentence 283 rankings: 
+o discovery precisa de reparos antes de voltar para casa
+reparos
+['manutenção', 'cuidados', 'limpeza', 'revisão', 'reformas', 'reforma', 'ajuda', 'atenção', 'restauração', 'melhorias', 'peças', 'serviços', 'reforços', 'tratamento', 'pintura', 'restauro', 'recuperação', 'concerto', 'assistência', 'cuidado']
+Sentence 284 rankings: 
+graças ao novo sistema de inspeção da nave foi possível detectar o fenômeno no espaço
+inspeção
+['controle', 'observação', 'detecção', 'comunicação', 'avaliação', 'medição', 'segurança', 'vigilância', 'visão', 'posicionamento', 'acompanhamento', 'supervisão', 'alimentação', 'navegação', 'fiscalização', 'radar', 'orientação', 'controlo', 'sonda', 'identificação']
+Sentence 285 rankings: 
+a principal tarefa agendada será instalar uma plataforma de armazenamento do lado de fora da estação
+armazenamento
+['memória', 'armazen', 'processamento', 'carga', 'segurança', 'computação', 'arquivo', 'depósito', 'alimentação', 'guarda', 'registro', 'arquivos', 'proteção', 'conexão', 'hardware', 'gravação', 'gerenciamento', 'banco', 'escritório', 'manutenção']
+Sentence 286 rankings: 
+enquanto a nasa trabalha furiosamente para manter suas naves em operação a despeito dos problemas com a espuma os parceiros internacionais no projeto da construção da iss estão preocupados
+parceiros
+['aliados', 'investidores', 'rivais', 'agentes', 'representantes', 'envolvidos', 'atores', 'participantes', 'colegas', 'amigos', 'líderes', 'sócios', 'especialistas', 'pares', 'concorrentes', 'parceiro', 'interessados', 'interesses', 'clientes', 'empresários']
+Sentence 287 rankings: 
+as criaturas antes desconhecidas no brasil podem ajudar a elucidar o mecanismo bioquímico que leva à produção de luz em fungos
+elucidar
+['entender', 'explicar', 'compreender', 'descobrir', 'revelar', 'conhecer', 'estudar', 'determinar', 'identificar', 'investigar', 'descrever', 'encontrar', 'mostrar', 'definir', 'estabelecer', 'aprender', 'explorar', 'resolver', 'perceber', 'demonstrar']
+Sentence 288 rankings: 
+além disso com um pouco mais de estudo poderiam servir como sensores vivos de poluição ou mesmo fontes de moléculas úteis para a biotecnologia
+sensores
+['indicadores', 'receptores', 'sinais', 'alvos', 'agentes', 'sistemas', 'dispositivos', 'aparelhos', 'produtores', 'processadores', 'motores', 'equipamentos', 'produtos', 'consumidores', 'fontes', 'pontos', 'senso', 'inimigos', 'corpos', 'mecanismos']
+Sentence 289 rankings: 
+segundo cassius vinicius stevani químico da usp que coordena os estudos é possível que o material recolhido abranja pelo menos dez espécies novas
+abranja
+['alcance', 'abran', 'tenha', 'conte', 'abrange', 'supra', 'seja', 'suporte', 'leve', 'engloba', 'abra', 'limite', 'haja', 'cale', 'anime', 'cobre', 'tema', 'possa', 'compreende', 'contem']
+Sentence 290 rankings: 
+com base em relatos de moradores e muita paciência na coleta a equipe chegou aos cogumelos em dois locais
+relatos
+['relato', 'comentários', 'relatórios', 'registros', 'histórias', 'narrativas', 'informações', 'depoimento', 'dados', 'descrições', 'declarações', 'denúncias', 'experiências', 'observações', 'opiniões', 'casos', 'pedidos', 'testemunho', 'contos', 'argumentos']
+Sentence 291 rankings: 
+a boa notícia é que pesquisadores argentinos acharam o mais antigo mamífero com traços modernos da américa do sul capaz de preencher uma lacuna de milhões de anos na história desses animais
+lacuna
+['lac', 'vaga', 'vazio', 'ausência', 'vácuo', 'falta', 'falha', 'deficiência', 'buraco', 'perda', 'rom', 'diferença', 'espaço', 'barreira', 'distância', 'janela', 'lista', 'história', 'hiato', 'necessidade']
+Sentence 292 rankings: 
+pouco abaixo dele nas camadas de rocha estão mariscos fósseis que se extinguiram no fim do cretáceo enquanto lhe faziam companhia moluscos típicos do paleoceno
+mariscos
+['os', 'alguns', 'muitos', 'fósseis', 'animais', 'outros', 'também', 'vários', 'peixes', 'pequenos', 'apenas', 'organismos', 'poucos', 'diversos', 'inúmeros', 'grandes', 'ainda', 'ossos', 'restos', 'dinossauros']
+Sentence 293 rankings: 
+a linhagem dos marsupiais e placentários que são conhecidos pelo apelido comum de térios se distingue justamente pelas cavidades especiais dos molares que ajudam a triturar a comida com mais eficiência e estão presentes no espécime
+triturar
+['quebrar', 'cortar', 'separar', 'comer', 'dividir', 'preparar', 'pegar', 'juntar', 'fazer', 'eliminar', 'remover', 'virar', 'destruir', 'organizar', 'retirar', 'recolher', 'distribuir', 'mover', 'capturar', 'colocar']
+Sentence 294 rankings: 
+por décadas os cientistas tiveram de quebrar a cabeça para criar antídotos contra o veneno das cobras
+antídotos
+['medicamentos', 'produtos', 'drogas', 'tratamentos', 'alternativas', 'compostos', 'soluções', 'defesas', 'proteção', 'fórmulas', 'mecanismos', 'armas', 'tratamento', 'substâncias', 'estratégias', 'resistência', 'agentes', 'opções', 'propriedades', 'plantas']
+Sentence 295 rankings: 
+ao vasculhar o sangue dos animais em busca das moléculas responsáveis pela resistência perales e seus colegas chegaram a duas substâncias conhecidas como dm43 e dm64
+vasculhar
+['analisar', 'investigar', 'explorar', 'estudar', 'verificar', 'procurar', 'buscar', 'ler', 'observar', 'abrir', 'recolher', 'visitar', 'testar', 'olhar', 'invadir', 'circular', 'correr', 'avaliar', 'seguir', 'beber']
+Sentence 296 rankings: 
+um dos protótipos iniciais continha uma rede de 16 sensores de pressão por centímetros quadrado
+sensores
+['pontos', 'dispositivos', 'sistemas', 'unidades', 'indicadores', 'receptores', 'equipamentos', 'controles', 'aparelhos', 'instrumentos', 'câmeras', 'senso', 'tipos', 'medidas', 'bombas', 'metros', 'fontes', 'níveis', 'barras', 'canais']
+Sentence 297 rankings: 
+segundo eles a pele humana ainda é bem mais complexa do que as imitações desenvolvidas até agora
+imitações
+['similares', 'versões', 'técnicas', 'formas', 'outras', 'variações', 'variedades', 'modificações', 'variantes', 'demais', 'alternativas', 'mais', 'cópias', 'tecnologias', 'inovações', 'alterações', 'já', 'marcas', 'soluções', 'adaptações']
+Sentence 298 rankings: 
+um ser que invade corpos e domina a mente alheia forçando suas vítimas a fazer o que ele ordena não é mero personagem de ficção
+alheia
+['humana', ',', 'coletiva', 'deles', 'al', 'delas', 'daqueles', 'individual', 'destes', 'dos', 'humanas', 'própria', 'pública', 'dela', 'dele', 'outros', 'masculina', 'feminina', 'outra', 'comum']
+Sentence 299 rankings: 
+um ser que invade corpos e domina a mente alheia forçando suas vítimas a fazer o que ele ordena não é mero personagem de ficção
+mero
+['apenas', 'um', 'meramente', 'simples', 'qualquer', 'considerado', 'somente', 'simplesmente', 'único', 'puro', 'outro', 'verdadeiro', 'nenhum', 'nem', 'mer', 'belo', 'típico', 'sequer', 'suposto', 'humano']
+Sentence 300 rankings: 
+no futuro quando a produção de tecido hepático se tornar uma realidade o número de transplantes poderá ser minimizado disse à folha por email joe jackson um dos autores do estudo que sai hoje na revista nature
+minimizado
+['reduzido', 'minim', 'mínimo', 'menor', 'eliminado', 'reduzida', 'dispensado', 'pequeno', 'diminui', 'aumentado', 'maior', 'limitado', 'substituído', 'cortado', 'diminuindo', 'reduzindo', 'reduz', '[UNK]', 'redução', 'reduzir']
+Sentence 301 rankings: 
+a estimativa anterior da organização das nações unidas onu calculava em meio bilhão o número de indivíduos expostos atualmente ao problema
+estimativa
+['previsão', 'projeção', 'estimativas', 'estima', 'avaliação', 'expectativa', 'medição', 'estatística', 'medida', 'estimada', 'aproximação', 'redução', 'divulgação', 'programação', 'definição', 'contagem', 'economia', 'meta', 'estimado', 'proposta']
+Sentence 302 rankings: 
+a estimativa anterior da organização das nações unidas onu calculava em meio bilhão o número de indivíduos expostos atualmente ao problema
+atualmente
+['hoje', 'actualmente', 'diariamente', 'agora', 'anualmente', 'atual', 'permanentemente', 'potencialmente', 'atuais', 'recentemente', 'simultaneamente', 'continuamente', 'temporariamente', 'anteriormente', 'ainda', 'diretamente', 'novamente', 'Atualmente', 'constantemente', 'oficialmente']
+Sentence 303 rankings: 
+por severa escassez de água potável entendese segundo a onu o uso de mais de 40 das reservas do líquido disponíveis em uma região para consumo industrial doméstico e agrícola
+escassez
+['falta', 'disponibilidade', 'deficiência', 'abundância', 'crise', 'insuficiência', 'oferta', 'ausência', 'perda', 'pobreza', 'necessidade', 'limitação', 'dependência', 'demanda', 'restrição', 'utilização', 'degradação', 'economia', 'seca', 'fome']
+Sentence 304 rankings: 
+o trabalho foi coordenado pelo geocientista charles vörösmarty da universidade de new hampshire nos estados unidos
+coordenado
+['liderado', 'orientado', 'desenvolvido', 'conduzido', 'realizado', 'dirigido', 'coorden', 'comandado', 'organizado', 'acompanhado', 'feito', 'coordenador', 'iniciado', 'produzido', 'elaborado', 'presidido', 'coordenadas', 'apresentado', 'assinado', 'liderados']
+Sentence 305 rankings: 
+os camundongos com essa alteração genética comeram até 54 mais que os camundongos normais
+genética
+['gene', 'genético', 'também', ',', 'já', 'genes', 'provavelmente', 'alimentar', 'celular', 'só', 'ainda', 'não', 'racial', 'biológica', 'característica', 'étnica', 'específica', 'cerebral', 'cardíaca', 'natural']
+Sentence 306 rankings: 
+o fato de o ucp3 ser um gene humano facilita aplicações clínicas da pesquisa
+clínicas
+['clínica', 'práticas', 'médicas', 'técnicas', 'científicas', 'específicas', 'experimentais', 'comerciais', 'estatísticas', 'químicas', 'gerais', 'críticas', 'sociais', 'profissionais', 'físicas', 'locais', 'operacionais', 'graves', 'reais', 'táticas']
+Sentence 307 rankings: 
+um buraco negro é o resultado do colapso de uma estrela muito maciça
+colapso
+['choque', 'desaparecimento', 'crescimento', 'impacto', 'deslocamento', 'movimento', 'afastamento', 'surgimento', 'nascimento', 'ataque', 'desenvolvimento', 'explosão', 'declínio', 'encontro', 'núcleo', 'caos', 'fim', 'aquecimento', 'buraco', 'aparecimento']
+Sentence 308 rankings: 
+a equipe rastreou a trajetória do buraco negro usando novas observações e a análise de dados anteriores coletados por 43 anos
+rastreou
+['identificou', 'descobriu', 'estudou', 'descreveu', 'seguiu', 'observou', 'determinou', 'registrou', 'capturou', 'relatou', 'estabeleceu', 'confirmou', 'divulgou', 'mudou', 'descreve', 'encontrou', 'acompanhou', 'alterou', 'estuda', 'definiu']
+Sentence 309 rankings: 
+a partir dessas observações eles calcularam a órbita do astro e constataram que se trata de um objeto que passa a maior parte do tempo no halo galáctico a região que circunda a via láctea
+constataram
+['descobriram', 'afirmaram', 'concluiu', 'mostraram', 'revelaram', 'consta', 'decidiram', 'afirmam', 'disseram', 'estabeleceram', 'viram', 'declararam', 'concluir', 'verificar', 'encontraram', 'descobriu', 'concordaram', 'descobrem', 'conclui', 'observou']
+Sentence 310 rankings: 
+seu grupo está atualmente concluindo um segundo estudo que deve nos próximos meses ser submetido a uma revista científica abordando não um mas cinco astros sendo um deles o mencionado na pesquisa publicada hoje
+submetido
+['enviado', 'apresentado', 'exposto', 'subme', 'levado', 'publicado', 'destinado', 'entregue', 'conduzido', 'comparado', 'aplicado', 'associado', 'candidato', 'sujeito', 'lançado', 'convertido', 'transmitido', 'exibido', 'comunicado', 'colocado']
+Sentence 311 rankings: 
+um modelo testado em simulações muito detalhadas parece explicar como os planetas gigantes podem se formar mais rápido e mais vezes do que julgavam as teorias tradicionais
+simulações
+['análises', 'equações', 'observações', 'experiências', 'modelos', 'avaliações', 'pesquisas', 'condições', 'estimativas', 'simul', 'teorias', 'situações', 'representações', 'aplicações', 'imagens', 'hipóteses', 'estruturas', 'medidas', 'temperaturas', 'versões']
+Sentence 312 rankings: 
+a solução foi sugerir um modelo alternativo em que nos primórdios da formação de um sistema planetário instabilidades gravitacionais no disco de gás e poeira já induziriam o surgimento dos envelopes dos gigantes gasosos numa velocidade pelo menos dez vezes maior
+primórdios
+['fundamentos', 'intervalos', 'limites', 'princípios', 'primeiros', 'iniciais', 'estágios', 'início', 'bastidores', 'primór', 'anteriores', 'precedentes', 'meados', 'domínios', 'períodos', 'momentos', 'tempos', 'parâmetros', 'inicio', 'estádios']
+Sentence 313 rankings: 
+mesmo sem confirmar o relato histórico feito por um cronista árabe no ano de 996 de que navios vikings teriam afundado a caminho de atacar a cidade de silves os arqueólogos puderam encontrar um tesouro de outro tipo
+cronista
+['escritor', 'narrador', 'jornalista', 'profeta', 'poeta', 'comentarista', 'jornal', 'historiador', 'repórter', 'navegador', 'comerciante', 'crítico', 'observador', 'estudioso', 'diário', 'editor', 'leitor', 'herói', 'fotógrafo', 'autor']
+Sentence 314 rankings: 
+segundo os arqueólogos durante a escavação foram encontrados inúmeros fragmentos principalmente cerâmicos que vão desde ânforas romanas até utensílios inteiros do século 16 passando pela cerâmica árabe
+fragmentos
+['pedaços', 'vestígios', 'materiais', 'trechos', 'objetos', 'elementos', 'artefatos', 'exemplares', 'restos', 'ossos', 'peças', 'indícios', 'detalhes', 'resíduos', 'sítios', 'ruínas', 'traços', 'itens', 'lotes', 'espécimes']
+Sentence 315 rankings: 
+computando semelhanças e diferenças os cientistas estimaram que a domesticação deve ter ocorrido 15 mil anos atrás embora também possa ter acontecido antes há 40 mil anos
+computando
+['considerando', 'usando', 'utilizando', 'observando', 'contando', 'aproveitando', 'juntando', 'Usando', 'com', 'encontrando', 'por', 'vendo', 'Considerando', 'reunindo', 'pelas', 'computa', 'acrescentando', 'assumindo', 'obtendo', 'marcando']
+Sentence 316 rankings: 
+sem falar no fornecimento da mais concreta evidência de que são realmente o resultado de supernovas explosões de estrelas muito maciças
+maciças
+['grandes', 'pequenas', 'quentes', 'maiores', 'distantes', 'gigantes', 'pesadas', 'brilhantes', 'próximas', 'fracas', 'menores', 'mass', 'antigas', 'jovens', 'altas', 'poderosas', 'enormes', '.', 'leves', 'comuns']
+Sentence 317 rankings: 
+ele teria sido chutado para fora de sua órbita regular em torno do centro galáctico após a explosão da supernova e a conversão em buraco negro
+conversão
+['transformação', 'converter', 'convertido', 'converteu', 'conver', 'fusão', 'mudança', 'redução', 'dissolução', 'passagem', 'condenação', 'transição', 'rotação', 'transformar', 'resolução', 'transforma', 'transformou', 'alteração', 'migração', 'elevação']
+Sentence 318 rankings: 
+os experimentos foram realizados na própria casa em um quarto ao qual moradores e bichos estavam acostumados
+experimentos
+['testes', 'ensaios', 'experimento', 'experimentais', 'estudos', 'tratamentos', 'resultados', 'trabalhos', 'procedimentos', 'exercícios', 'projetos', 'fenômenos', 'experiências', 'animais', 'laboratórios', 'shows', 'equipamentos', 'lançamentos', 'eventos', 'pesquisadores']
+Sentence 319 rankings: 
+o maldi feito pelo grupo do lip laboratório de instrumentação e partículas do instituto de física também financiado pela fapesp saiu bem mais em conta
+financiado
+['apoiado', 'financia', 'patrocinado', 'financiamento', 'financiar', 'aprovado', 'apoiada', 'pago', 'orientado', 'mantido', 'ajudado', 'realizado', 'administrado', 'financ', 'controlado', 'coberto', 'aplicado', 'estudado', 'organizado', 'operado']
+Sentence 320 rankings: 
+o maldi pesa as moléculas bombardeando a amostra que se quer estudar com pulsos de laser
+amostra
+['amostras', 'população', 'região', 'área', 'parte', 'escala', 'solução', 'sonda', 'material', 'célula', 'partícula', 'prova', 'mistura', 'droga', 'parcela', 'testemunha', 'substância', 'colônia', 'superfície', 'análise']
+Sentence 321 rankings: 
+o bombardeamento da amostra é feito por partículas de califórnio um elemento radioativo em vez de laser
+amostra
+['sonda', 'amostras', 'escala', 'solução', 'mesma', 'partícula', 'prova', 'região', 'população', 'área', 'pilha', 'mistura', 'fita', 'radiação', 'análise', 'célula', 'câmara', 'banda', 'placa', 'substância']
+Sentence 322 rankings: 
+não deve haver demora nem fraude no relato dos casos afirmou a agência citando o comitê cuja reunião foi liderada pelo presidente chinês hu jintao
+liderada
+['liderado', 'comandada', 'dirigida', 'liderou', 'liderados', 'lidera', 'promovida', 'organizada', 'apoiada', 'dominada', 'iniciada', 'realizada', 'animada', 'encabe', 'representada', 'comanda', 'bancada', 'acompanhada', 'controlada', 'integrada']
+Sentence 323 rankings: 
+segundo o último relatório da oms a pneumonia asiática já matou 170 pessoas e infectou 3461 nos cinco continentes
+infectou
+['infec', 'infecção', 'atingiu', 'matou', 'tratou', 'atacou', 'pegou', 'conta', 'espalhou', 'alcançou', 'deixou', 'vírus', 'envolveu', 'acertou', 'destruiu', 'morreu', 'causou', 'descobriu', 'registrou', 'encontrou']
+Sentence 324 rankings: 
+os fragmentos do satélite italiano bepposax mergulharam na noite de ontem no oceano pacífico deixando aliviados os mais de 30 países inclusive o brasil que estavam sob risco de serem atingidos pelos destroços
+fragmentos
+['pedaços', 'restos', 'lançamentos', 'vestígios', 'exemplares', 'corpos', 'objetos', 'tripulantes', 'remanescentes', 'resíduos', 'componentes', 'trechos', 'artefatos', 'detalhes', 'ossos', 'foguetes', 'impactos', 'mísseis', 'materiais', 'núcleos']
+Sentence 325 rankings: 
+segundo informou a asi agência espacial italiana no fim da noite de ontem por telefone o impacto dos destroços teria ocorrido às 18h06 horário de brasília numa área remota do oceano
+impacto
+['choque', 'impactos', 'contato', 'encontro', 'confronto', 'ataque', 'lançamento', 'acidente', 'evento', 'alinhamento', 'toque', 'efeito', 'trauma', 'peso', 'golpe', 'incidente', 'avanço', 'movimento', 'colisão', 'retorno']
+Sentence 326 rankings: 
+como a volta à terra não foi realizada de forma controlada como aconteceu com as 135 toneladas da estação espacial mir em 2001 era impossível prever exatamente onde os destroços iriam cair
+destroços
+['corpos', 'pedaços', 'objetos', 'aviões', 'restos', 'astronautas', 'fragmentos', 'mortos', 'blocos', 'ossos', 'navios', 'resíduos', 'materiais', 'foguetes', 'artefatos', 'passageiros', 'equipamentos', 'tripulantes', 'aparelhos', 'componentes']
+Sentence 327 rankings: 
+os resultados do trabalho que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro irapuan rodrigues haviam sido noticiados pela folha em março antes de o estudo ser selecionado para publicação
+noticiados
+['publicados', 'apresentados', 'publicadas', 'notic', 'vistos', 'conhecidos', 'registrados', 'citados', 'classificados', 'notícia', 'publicado', 'destaques', 'descritos', 'reconhecidos', 'divulgado', 'anunciado', 'mencionados', 'enviados', 'exibidos', 'transmitidos']
+Sentence 328 rankings: 
+a realização é fruto de uma parceria entre a companhia de biotecnologia advanced cell technology de massachusetts o centro sioux de iowa e o centro para reprodução de espécies ameaçadas da sociedade zoológica de san diego na califórnia
+parceria
+['parceira', 'colaboração', 'aliança', 'cooperação', 'parcerias', 'interação', 'associação', 'coordenação', 'iniciativa', 'articulação', 'acordo', 'união', 'combinação', 'ação', 'conexão', 'amizade', 'ligação', 'equipe', 'conversa', 'pesquisa']
+Sentence 329 rankings: 
+o segundo está mais debilitado
+debilitado
+['fraco', 'forte', 'saudável', 'doente', 'animado', 'recuperado', 'frágil', 'lento', 'feliz', 'velho', 'nervoso', 'estável', 'ativo', 'leve', 'disposto', 'consciente', 'vivo', 'preocupado', 'rápido', 'jovem']
+Sentence 330 rankings: 
+segundo pesquisadores que estudam a evolução do parasita cujo nome oficial é coronavírus urbani sarsassociado a mais nova dor de cabeça da humanidade parasitava algum animal possivelmente uma ave na china e por alguma razão pulou a barreira de espécies
+possivelmente
+['seja', 'provavelmente', 'talvez', 'principalmente', 'inclusive', 'notadamente', 'potencialmente', 'eventualmente', 'ou', 'porém', 'supostamente', 'especialmente', 'provável', 'aproximadamente', 'recentemente', 'certamente', 'possível', 'principal', 'somente', 'especificamente']
+Sentence 331 rankings: 
+o que o tornou um matador tão eficiente foi uma recombinação
+matador
+['assassino', 'atacante', 'jogador', 'guerreiro', 'lutador', 'criminoso', 'artilheiro', 'goleiro', 'ataque', 'homem', 'mata', 'atleta', 'agente', 'monstro', 'campeão', 'treinador', 'mortal', 'terrorista', 'inimigo', 'alvo']
+Sentence 332 rankings: 
+vitoriosa é o resultado de um experimento realizado pela embrapa
+experimento
+['estudo', 'teste', 'projeto', 'ensaio', 'experimental', 'programa', 'experimentos', 'trabalho', 'levantamento', 'evento', 'procedimento', 'pesquisa', 'protocolo', 'treinamento', 'laboratório', 'tratamento', 'relatório', 'documentário', 'seminário', 'inquérito']
+Sentence 333 rankings: 
+o clone do clone coloca o brasil na vanguarda científica desse assunto como já está no seqüenciamento soletração de genoma afirmou rodrigues
+vanguarda
+['liderança', 'elite', 'periferia', 'ponta', 'frente', 'fronteira', 'agenda', 'referência', 'história', 'cúpula', 'tradição', 'glória', 'hegemonia', 'ciência', 'rota', 'cauda', 'plataforma', 'memória', 'relevância', 'potência']
+Sentence 334 rankings: 
+a estimativa foi apresentada por john schellnhuber do centro tyndall em norwich numa conferência sobre os efeitos da mudança climática durante a reunião da aaas
+conferência
+['Conferência', 'reunião', 'discussão', 'conferências', 'convenção', 'palestra', 'declaração', 'cúpula', 'feira', 'evento', 'apresentação', 'cerimônia', 'conversa', 'exposição', 'seminário', 'mesa', 'ação', 'atividade', 'programação', 'painel']
+Sentence 335 rankings: 
+capitaneados por sir david king o principal assessor científico do governo britânico os pesquisadores não pouparam esforços para demonstrar que o aquecimento global já está pondo em risco as vidas e a economia humanas em diversas regiões
+capitaneados
+['liderados', 'liderado', 'inspirados', 'liderada', 'acompanhados', 'Escrito', 'Fundada', 'coordenadas', 'apresentados', 'enviados', 'trazidos', 'indicados', 'Unidos', 'representados', 'animados', 'recebidos', 'organizados', 'reunidos', '.', 'desenvolvidos']
+Sentence 336 rankings: 
+esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra retendo radiação do sol que de outro modo se dissiparia no espaço
+dissiparia
+['perde', 'reflete', 'espalha', 'mantém', 'concentra', 'diss', 'tornaria', 'propaga', 'conserva', 'dispers', 'joga', 'isola', 'daria', 'perdeu', 'detém', 'ficaria', 'lança', 'teria', 'encontra', 'transforma']
+Sentence 337 rankings: 
+estamos recolhendo amostras de coprólitos fezes fossilizadas de duas cavernas em israel com 40 mil anos onde provavelmente cromagnons os primeiros humanos modernos e neandertais viveram lado a lado contou o pesquisador durante a reunião da associação americana para o avanço da ciência
+amostras
+['amostra', 'espécimes', 'coleções', 'lotes', 'dezenas', 'vestígios', 'análises', 'pedaços', 'provas', 'variedades', 'manchas', 'partes', 'fragmentos', 'fotos', 'células', 'quantidades', 'marcas', 'espécies', 'evidências', 'larvas']
+Sentence 338 rankings: 
+depois disso o que você faz é basicamente sequenciar tudo o que está ali e examinar toda a cadeia de relações alimentares ecológicas e de parentesco das pessoas e animais que habitaram a caverna afirma
+sequenciar
+['pegar', 'observar', 'organizar', 'juntar', 'registrar', 'reunir', 'separar', 'contar', 'acompanhar', 'analisar', 'recolher', 'identificar', 'capturar', 'descrever', 'seguir', 'classificar', 'estudar', 'gravar', 'controlar', 'ler']
+Sentence 339 rankings: 
+agora os cientistas já agarram um punhado deles de uma vez e trabalham em todos ao mesmo tempo
+punhado
+['milhão', 'monte', 'bando', 'bilhão', 'tanto', 'número', 'grupo', 'pouco', 'pedaço', 'batalhão', 'pacote', 'exército', 'só', 'lote', 'caminhão', 'pun', 'terço', 'cacho', 'bloco', 'mont']
+Sentence 340 rankings: 
+a sorte dos cientistas liderados por jillian banfield da universidade da califórnia em berkeley foi que a amostra de efluentes ácidos analisada tinha um pequeno número de organismos
+liderados
+['liderado', 'liderada', 'inspirados', 'acompanhados', 'desenvolvidos', 'executados', 'comandado', 'organizados', 'realizados', 'comandada', 'coordenadas', 'reunidos', 'derrotados', 'publicados', 'comandos', 'animados', 'capturados', 'seguidos', 'observados', 'representados']
+Sentence 341 rankings: 
+mesmo assim ele e seus colegas mostraram evidências de que o uso de substâncias como a vitamina e poderia reduzir os danos causados pelo colesterol aos pacientes com a doença
+evidências
+['provas', 'evidência', 'indícios', 'sinais', 'indicações', 'pesquisas', 'alegações', 'evidencia', 'pistas', 'estudos', 'possibilidades', 'resultados', 'experiências', 'exemplos', 'amostras', 'práticas', 'demons', 'manifestações', 'condições', 'descobertas']
+Sentence 342 rankings: 
+colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+advento
+['surgimento', 'aparecimento', 'início', 'avanço', 'nascimento', 'desenvolvimento', 'progresso', 'fenômeno', 'triunfo', 'aumento', 'renascimento', 'surgir', 'crescimento', 'princípio', 'acontecimento', 'começo', 'estabelecimento', 'aparição', 'futuro', 'fim']
+Sentence 343 rankings: 
+mattson e colegas descobriram uma espécie de combinação letal entre o aparecimento da betaamilóide e a presença de colesterol e de ceramida nos neurônios de pessoas mortas com o mal
+aparecimento
+['surgimento', 'desaparecimento', 'desenvolvimento', 'início', 'nascimento', 'crescimento', 'aumento', 'aparição', 'sinal', 'estímulo', 'fenômeno', 'encontro', 'comportamento', 'uso', 'funcionamento', 'ataque', 'advento', 'começo', 'efeito', 'aparecer']
+Sentence 344 rankings: 
+os resultados são importante referência para os médicos decidirem se e quando devem seguir uma estratégia de interrupção estruturada ao receitar drogas contra o hiv
+estruturada
+['planejada', 'sistemática', 'organizada', 'estrutura', 'dirigida', 'controlada', 'estrutural', 'definida', 'linear', 'montada', 'estratégica', 'orientada', 'sólida', 'dinâmica', 'eficaz', 'integrada', 'determinada', 'complexa', 'contínua', 'baseada']
+Sentence 345 rankings: 
+se tirarmos a comida dos flamenguistas quanto tempo vai levar para que os torcedores americanos os superem em número
+superem
+['super', 'superar', 'superando', 'supera', 'superou', 'tenham', 'Super', 'ultrapassar', 'superado', 'ultrapass', 'venceram', 'alcance', 'superiores', 'recorde', 'supra', 'ultrapassa', 'vencer', 'matem', 'testem', 'campeões']
+Sentence 346 rankings: 
+para ele em condições ideais o método funcionaria melhor em pacientes que tivessem um quadro estável com baixa contagem de vírus e forte presença de células de defesa
+contagem
+['quantidade', 'taxa', 'conta', 'circulação', 'concentração', 'população', 'detecção', 'expressão', 'presença', 'transmissão', 'incidência', 'pressão', 'carga', 'combinação', 'migração', 'evolução', 'produção', 'infecção', 'massa', 'cobertura']
+Sentence 347 rankings: 
+todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa
+convencionais
+['tradicionais', 'convencional', 'regulares', 'adequados', 'comuns', ',', 'indicados', 'existentes', 'precedentes', 'experimentais', 'normais', 'químicos', 'anteriores', 'naturais', 'clássicos', 'ortodoxos', 'modernos', 'utilizados', 'estabelecidos', 'associados']
+Sentence 348 rankings: 
+todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa
+escalados
+['convidados', 'chamados', 'designados', 'escalado', 'escolhidos', 'selecionados', 'colocados', 'enviados', 'preparados', 'contratados', 'nomeados', 'reunidos', 'incluídos', 'trazidos', 'indicados', 'levados', 'transferidos', 'postos', 'classificados', 'marcados']
+Sentence 349 rankings: 
+os resultados do cobe foram relevantes mas o estado da arte são as imagens do satélite wmap wilkinson microwave anisotropy probe cujos primeiros dados saíram em 2003
+relevantes
+['importantes', 'significativos', 'interessantes', 'diversos', 'relevante', 'destaques', 'positivos', 'úteis', 'significativas', 'notáveis', ',', 'essenciais', 'considerados', 'principais', 'marcantes', 'necessários', 'relevância', 'válidos', 'apresentados', 'bons']
+Sentence 350 rankings: 
+os sedimentos são arrastados para a parte baixa do rio
+sedimentos
+['resíduos', 'nutrientes', 'peixes', 'materiais', 'sedi', 'corpos', 'rios', 'sólidos', 'gases', 'animais', 'blocos', 'grãos', 'fragmentos', 'solos', 'restos', 'líquidos', 'elementos', 'minerais', 'mesmos', 'afluentes']
+Sentence 351 rankings: 
+mas os cientistas se preocupam com a possibilidade de que mutações aleatórias no vírus acabem criando cepas capazes de serem transmitidas de pessoa a pessoa criando o potencial de uma nova pandemia uma epidemia de proporções globais
+cepas
+['variedades', 'bactérias', 'vírus', 'espécies', 'raças', 'células', 'cópias', 'larvas', 'populações', 'formas', 'variantes', 'colônias', 'regiões', 'pessoas', 'versões', 'culturas', 'unidades', 'moléculas', 'ce', 'abelhas']
+Sentence 352 rankings: 
+os dados para as simulações de computador foram obtidos na tailândia um país do sudeste asiático que além de estar vulnerável à doença dispunha de um conjunto de estatísticas detalhado e adequado aos modelos
+vulnerável
+['sujeito', 'exposto', 'sujeita', 'exposta', 'associado', 'resistente', 'submetido', 'vulner', 'sensível', 'relacionado', 'protegido', 'sujeitos', 'próximo', 'favorável', 'preso', 'condenado', 'ligado', 'adaptado', 'associada', 'doente']
+Sentence 353 rankings: 
+nenhuma isoladamente conseguiria prevenir com sucesso uma epidemia
+isoladamente
+['droga', 'pessoa', 'doença', 'epidemia', 'substância', 'delas', 'combinação', 'arma', 'estratégia', 'prevenção', 'instituição', 'molécula', 'célula', 'população', 'outra', 'ação', 'única', 'campanha', 'nação', 'equipe']
+Sentence 354 rankings: 
+para nisbett diferenças culturais principalmente na educação das crianças explicariam essa assimetria
+principalmente
+['especialmente', 'sobretudo', 'também', 'inclusive', 'nas', 'primeiramente', 'presentes', 'e', 'localizadas', 'somente', 'encontradas', 'geralmente', 'principais', 'importantes', 'outras', 'ainda', 'tanto', 'justamente', '[UNK]', 'mesmo']
+Sentence 355 rankings: 
+para nisbett diferenças culturais principalmente na educação das crianças explicariam essa assimetria
+assimetria
+['assim', 'diferença', 'desigualdade', '.', '[UNK]', 'diferenciação', 'situação', 'sim', 'mudança', 'diversidade', 'relação', 'simetria', '?', 'disso', 'distancia', 'diferencia', 'discriminação', 'grande', 'diferenças', 'transformação']
+Sentence 356 rankings: 
+finalmente após dias de apreensão com problemas no veículo e uma histórica caminhada espacial de reparos a agência espacial americana autorizou o ônibus espacial discovery a enfrentar a turbulenta jornada que o separa da terra firme
+apreensão
+['preocupação', 'testes', 'problemas', 'fiscalização', 'destruição', 'suspensão', 'recuperação', 'confusão', 'busca', 'perseguição', 'tensão', 'cuidados', 'resistência', 'investigação', 'atraso', 'teste', 'negociação', 'manutenção', 'operação', 'acidentes']
+Sentence 357 rankings: 
+imagens da barriga do ônibus feitas pela dupla de astronautas residentes da iss estação espacial internacional antes que a nave atracasse ao complexo mostraram que duas tiras do tecido que preenche os vãos entre as telhas do escudo térmico da nave estavam protuberantes
+protuberantes
+['pro', '.', '[UNK]', 'em', 'juntas', 'bem', 'expostas', 'visíveis', 'ás', ',', 'pr', 'presas', 'muito', 'contra', 'sobre', 'as', 'com', 'claramente', 'presentes', 'abertas']
+Sentence 358 rankings: 
+o procedimento primeira vez na história em que um astronauta se pôs embaixo do ônibus em órbita e fez reparos em seu escudo térmico foi executado anteontem pelas mãos do americano stephen robinson
+reparos
+['alterações', 'reformas', 'melhorias', 'modificações', 'manutenção', 'adaptações', 'cortes', 'danos', 'mudanças', 'trabalhos', 'serviços', 'intervenções', 'testes', 'investimentos', 'instalações', 'procedimentos', 'reforços', 'obras', 'repar', 'peças']
+Sentence 359 rankings: 
+os técnicos temiam que ela pudesse se soltar na reentrada e danificar a nave
+danificar
+['destruir', 'afetar', 'atingir', 'derrubar', 'quebrar', 'perder', 'romper', 'modificar', 'dan', 'atacar', 'alterar', 'cair', 'tocar', 'mover', 'trocar', 'danos', 'roubar', 'levar', 'bater', 'substituir']
+Sentence 360 rankings: 
+foi a 60ª caminhada espacial conduzida em conexão com a construção e manutenção da estação
+manutenção
+['operação', 'funcionamento', 'recuperação', 'conservação', 'ampliação', 'reconstrução', 'reforma', 'administração', 'modernização', 'expansão', 'instalação', 'construção', 'montagem', 'atualização', 'renovação', 'restauração', 'limpeza', 'fiscalização', 'restauro', 'infraestrutura']
+Sentence 361 rankings: 
+a última acontece amanhã de novo a ser efetuada por robinson e noguchi
+efetuada
+['realizada', 'feita', 'executada', 'realizado', 'iniciada', 'concluída', 'travada', 'produzida', 'cancelada', 'promovida', 'observada', 'rodada', 'celebrada', 'ocorrida', 'executado', 'registrada', 'anunciada', 'realizadas', 'confirmada', 'dada']
+Sentence 362 rankings: 
+foi na esperança de entender o fenômeno que stevani e seus colaboradores se puseram a procurar cogumelos do tipo no brasil
+colaboradores
+['seguidores', 'colegas', 'aliados', 'parceiros', 'companheiros', 'funcionários', 'amigos', 'auxiliares', 'integrantes', 'colaborador', 'profissionais', 'discípulos', 'voluntários', 'operários', 'trabalhadores', 'empregados', 'pesquisadores', 'contemporâneos', 'liderados', 'equipe']
+Sentence 363 rankings: 
+é que a luz parece variar de acordo com a concentração de poluentes aplicados sobre o fungo
+concentração
+['quantidade', 'proporção', 'intensidade', 'concentrações', 'porcentagem', 'presença', 'dose', 'composição', 'densidade', 'taxa', 'carga', 'localização', 'atividade', 'dispersão', 'quantia', 'distribuição', 'pressão', 'população', 'utilização', 'produção']
+Sentence 364 rankings: 
+como as técnicas desse tipo têm limitações é sempre bom contar com novas opções avalia stevani com a ressalva de que os estudos ainda estão no começo
+ressalva
+['ressal', 'crítica', 'afirmação', 'certeza', 'observação', 'indicação', 'consciência', 'declaração', 'diferença', 'reserva', 'percepção', 'menção', 'exigência', 'conclusão', 'nota', 'consideração', 'informação', 'opinião', 'ideia', 'previsão']
+Sentence 365 rankings: 
+a descrição do único dente um molar inferior foi submetida para publicação numa revista científica mas os dados preliminares sugerem que o animal pode tanto ter sido um placentário como humanos cães ou baleias quanto um marsupial como os cangurus que carregam seus filhotes numa bolsa
+submetida
+['enviada', 'submetido', 'apresentada', 'entregue', 'levada', 'subme', 'aprovada', 'aceita', 'revista', 'exposta', 'colocada', 'proposta', 'realizada', 'feita', 'sujeita', 'enviado', 'publicada', 'impressa', 'recebida', 'adaptada']
+Sentence 366 rankings: 
+a linhagem dos marsupiais e placentários que são conhecidos pelo apelido comum de térios se distingue justamente pelas cavidades especiais dos molares que ajudam a triturar a comida com mais eficiência e estão presentes no espécime
+eficiência
+['facilidade', 'eficácia', 'precisão', 'eficiente', 'sucesso', 'intensidade', 'produtividade', 'velocidade', 'habilidade', 'força', 'propriedade', 'capacidade', 'segurança', 'competência', 'efici', 'dificuldade', 'qualidade', 'energia', 'potência', 'simplicidade']
+Sentence 367 rankings: 
+para uma dupla de paleoantropólogos dos estados unidos o elemento que deu a partida na evolução da linhagem humana se encontra alguns palmos debaixo da terra e ainda faz qualquer um salivar diante de um prato de batata ou mandioca frita
+linhagem
+['raça', 'espécie', 'família', 'evolução', 'descendência', 'sociedade', 'população', 'civilização', 'cultura', 'vida', 'história', 'comunidade', 'genética', 'alma', 'célula', 'etnia', 'nação', 'linguagem', 'humanidade', 'tecnologia']
+Sentence 368 rankings: 
+para greg laden da universidade de minnesota e richard wrangham da universidade harvard raízes tubérculos e outros usos sigla em inglês para órgãos subterrâneos de armazenamento das plantas permitiram que os primeiros hominídeos como são conhecidos os ancestrais do homem saíssem da mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás
+ancestrais
+['antepassados', 'descendentes', 'ancestral', 'avós', 'sucessores', 'atuais', 'genes', 'primórdios', 'parentes', 'biológicos', 'familiares', 'filogen', 'dinossauros', 'posteriores', 'idosos', 'mamíferos', 'anteriores', 'fósseis', 'superiores', 'passos']
+Sentence 369 rankings: 
+para provar a idéia os pesquisadores compilaram dados sobre raízes que são comestíveis sem cozimento dentro e fora da savana algumas das quais ainda usadas por tribos africanas hoje e viram que estavam corretos
+compilaram
+['reuniram', 'juntaram', 'usaram', 'receberam', 'incluíram', 'escreveram', 'compil', 'produziram', 'trouxeram', 'obtiveram', 'criaram', 'construíram', 'encontraram', 'gravaram', 'conseguiram', 'fizeram', 'levaram', 'chegaram', 'apresentaram', 'lançaram']
+Sentence 370 rankings: 
+o estudo estará numa edição futura do periódico científico journal of human evolution wwwsciencedirectcomsciencejournal 00472484
+científico
+['científica', 'científicos', 'cient', 'ciência', 'médico', 'eletrônico', 'acadêmico', 'especializado', 'britânico', 'americano', 'periódico', 'internacional', 'cientista', 'biológico', 'inglês', 'humano', 'cultural', 'oficial', 'social', 'técnico']
+Sentence 371 rankings: 
+cremos que elas seriam mais eficientes que os soros atuais para inibir tanto a atividade hemorrágica quanto a miotóxica que afeta os músculos diz perales
+inibir
+['controlar', 'diminuir', 'reduzir', 'impedir', 'combater', 'destruir', 'estimular', 'evitar', 'prevenir', 'conter', 'inib', 'parar', 'eliminar', 'afetar', 'tratar', 'alterar', 'deter', 'aumentar', 'atacar', 'cessar']
+Sentence 372 rankings: 
+a ficção científica americana na forma de livros ou de filmes é fascinada por robôs mas na prática são japoneses os que mais usam esses auxiliares automatizados do ser humano seja na indústria seja em residências
+fascinada
+['apaixonada', 'dominada', 'influenciada', 'fasc', 'inspirada', 'marcada', 'famosa', 'apaixonado', 'formada', 'tocada', 'envolvida', 'paixão', 'animada', 'cercada', 'atração', 'dirigida', 'controlada', 'comandada', 'disputada', 'ocupada']
+Sentence 373 rankings: 
+a universidade de tóquio desenvolveu uma pele artificial para robôs que imita uma parcela significativa das qualidades e capacidades da pele humana normal
+significativa
+['considerável', 'importante', 'substancial', 'expressiva', 'relevante', 'pequena', 'significativo', 'grande', 'significativas', 'notável', 'enorme', 'razoável', 'sensível', 'marcante', 'qualquer', 'suficiente', 'positiva', 'percentual', 'essencial', 'maior']
+The score of evaluation for BERT candidate generation
+0.8689839572192514 0.11403743315508022 0.28133245382585753 0.16229071537290715

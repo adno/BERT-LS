@@ -16,5 +16,5 @@ fasttext/
 fasttext
 
 # results
-results/
-tsar*
+#results/
+#tsar*

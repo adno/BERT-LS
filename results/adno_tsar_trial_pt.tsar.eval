@@ -1,0 +1,21 @@
+=========   EVALUATION config.=========
+GOLD file = datasets/tsar2022_pt_trial_gold.tsv
+PREDICTION LABELS file = results/adno_tsar_trial_pt.tsar
+OUTPUT file = results/adno_tsar_trial_pt.tsar.eval
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.5
+
+MAP@3 = 0.2722
+MAP@5 = 0.1863
+MAP@10 = 0.1048
+
+Potential@3 = 0.9
+Potential@5 = 1.0
+Potential@10 = 1.0
+Potential = 1.0
+
+Accuracy@1@top_gold_1 = 0.2
+Accuracy@2@top_gold_1 = 0.3
+Accuracy@3@top_gold_1 = 0.4
+
+________________________________

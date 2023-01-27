@@ -1,0 +1,1496 @@
+***** Running evaluation *****
+  Num examples = %d 373
+Sentence 0 rankings: 
+This discovery helped to establish yet another spectral class even cooler than L dwarfs , known as `` T dwarfs '' , for which Gliese 229B is the prototype .
+prototype
+['model', 'first', 'candidate', 'paradigm', 'design', 'flagship', 'inventor', 'contender', 'reference', 'pioneer', 'template', 'type', 'designer', 'standard', 'winner', 'specification', 'pilot', 'trademark', 'founder', 'crown']
+Sentence 1 rankings: 
+Putin was expected to formally register later in the day to run for president, a position he held from 2000-2008, a period in which he grew more authoritarian.
+authoritarian
+['oppressive', 'violent', 'ruthless', 'severe', 'influential', 'imposing', 'rigid', 'abusive', 'regime', 'unpopular', 'arrogant', 'conservative', 'strict', 'erratic', 'dominant', 'powerful', 'restrictive', 'sovereign', 'brutal', 'turbulent']
+Sentence 2 rankings: 
+#7-8 Despite the fog, other flights are reported to have landed safely leading up to the collision.
+collision
+['crash', 'accident', 'impact', 'merger', 'disaster', 'clash', 'merging', 'traffic', 'wreck', 'junction', 'conflict', 'crossover', 'catastrophe', 'confrontation', 'crashing', 'event', 'incident', 'breakup', 'storm', 'intersection']
+Sentence 3 rankings: 
+The larva grows to about 120-130 mm , and pupates in an underground chamber .
+pupates
+['rests', 'dies', 'resides', 'lives', 'pools', 'occurs', 'phases', 'spins', 'breeds', 'occupies', 'orbits', 'stays', 'lies', 'floats', 'develops', 'survives', 'drones', 'forms', 'chambers', 'raises']
+Sentence 4 rankings: 
+Gorbachev told the Interfax news agency that authorities must hold a fresh election or deal with a rising tide of discontent.
+discontent
+['resentment', 'unease', 'agitation', 'unrest', 'protest', 'strife', 'revolt', 'frustration', 'irritation', 'tension', 'turmoil', 'confusion', 'insurrection', 'resignation', 'corruption', 'anger', 'outrage', 'annoyance', 'despair', 'boredom']
+Sentence 5 rankings: 
+It decomposes to arsenic trioxide , elemental arsenic and iodine when heated in air at 200 ° C.
+decomposes
+['reacts', 'converts', 'reduces', 'collapses', 'yields', 'transforms', 'opens', 'reactions', 'explodes', 'dies', 'doubles', 'forms', 'occurs', 'proceeds', 'molecules', 'splits', 'is', 'compounds', 'changes', 'expands']
+Sentence 6 rankings: 
+#4-6 In 1969 Cernan flew aboard Apollo 10, a flight to the Moon that rehearsed a descent but purposefully did not land in preparation for the Apollo 11 landing.
+descent
+['dive', 'parachute', 'flight', 'recovery', 'drop', 'fall', 'landing', 'runway', 'plunge', 'tumble', 'countdown', 'crash', 'diving', 'dip', 'transition', 'departure', 'glide', 'takeoff', 'decline', 'jump']
+Sentence 7 rankings: 
+Lebanon is sharply split along sectarian lines, with 18 religious sects.
+sectarian
+['religious', 'ethnic', 'communal', 'political', 'regional', 'demographic', 'racial', 'liturgical', 'cultural', 'traditional', 'ideological', 'linguistic', 'pastoral', 'symbolic', 'nationalist', 'tribal', 'partisan', 'protestant', 'multicultural', 'minority']
+Sentence 8 rankings: 
+The fighting highlights how easily trouble in Syria can raise tensions in neighboring Lebanon, with which it shares a complex web of political and sectarian ties and rivalries.
+sectarian
+['religious', 'ethnic', 'communal', 'political', 'cultural', 'regional', 'partisan', 'symbolic', 'social', 'spiritual', 'ideological', 'clan', 'class', 'demographic', 'tribal', 'structural', 'racial', 'strategic', 'economic', 'parliamentary']
+Sentence 9 rankings: 
+He said the victim died in the neighbourhood of Jabal Mohsen, populated mainly by members of Assad's Alawite sect, an offshoot of Shiite Islam.
+offshoot
+['extension', 'branch', 'incarnation', 'splinter', 'spur', 'subset', 'sect', 'remnant', 'subgroup', 'auxiliary', 'imprint', 'exile', 'affiliate', 'abbreviation', 'aspect', 'antagonist', 'fragment', 'echo', 'adjunct', 'faction']
+Sentence 10 rankings: 
+The Order was the first national decoration awarded by the Japanese Government , created on 10 April 1875 by decree of the Council of State .
+decree
+['order', 'mandate', 'petition', 'proclamation', 'law', 'call', 'demand', 'resolution', 'regulation', 'grant', 'request', 'command', 'commission', 'document', 'edict', 'report', 'rule', 'directive', 'recommendation', 'act']
+Sentence 11 rankings: 
+Police said suicide attackers wearing burqas struck at 6:15 am (0145 GMT), detonating a car bomb before clashing with guards.
+detonating
+['launching', 'triggering', 'planting', 'releasing', 'blowing', 'destroying', 'bombing', 'causing', 'lighting', 'firing', 'striking', 'exploding', 'dropping', 'throwing', 'placing', 'setting', 'blasting', 'leaving', 'producing', 'creating']
+Sentence 12 rankings: 
+The EU believes the deficit will be 6.4 percent this year and will only be reduced by 0.1 percent in 2013.
+deficit
+['surplus', 'debt', 'deposit', 'loss', 'amount', 'damage', 'balance', 'impairment', 'collection', 'decline', 'accumulation', 'difference', 'circulation', 'gap', 'turnover', 'error', 'total', 'theft', 'tendency', 'excess']
+Sentence 13 rankings: 
+#36-14 A suggestion had been the addition of a canopy over the car's cockpit.
+canopy
+['lid', 'shade', 'hood', 'roof', 'cabin', 'cloud', 'cover', 'shadow', 'crown', 'parachute', 'cockpit', 'seat', 'veil', 'dome', 'roll', 'windshield', 'mist', 'collar', 'shield', 'sheet']
+Sentence 14 rankings: 
+#39-22 Hyza says they will "actively cooperate with Slovak police", and "express [their] sincere condolences to the bereaved families."
+condolences
+['apologies', 'regrets', 'pleas', 'prayers', 'sympathy', 'feelings', 'respects', 'intentions', 'sentiments', 'wishes', 'thanks', 'sincerity', 'reservations', 'thoughts', 'gratitude', 'hopes', 'regards', 'apology', 'cares', 'worries']
+Sentence 15 rankings: 
+Banking reform is seen as urgent by many analysts, with yields on benchmark Spanish bonds currently close to six percent, meaning the country faces very high borrowing costs.
+benchmark
+['baseline', 'standard', 'market', 'mainstream', 'model', 'average', 'the', 'conventional', 'showcase', 'flagship', 'simulated', 'target', 'measured', 'trial', 'monitored', 'milestone', 'core', 'performance', 'best', 'audit']
+Sentence 16 rankings: 
+In Japan , rice with azuki beans ( 赤飯 ; sekihan ) is traditionally cooked for auspicious occasions .
+auspicious
+['important', 'certain', 'special', 'rainy', 'religious', 'various', 'annual', 'sentimental', 'appropriate', 'aromatic', 'solemn', 'traditional', 'favorable', 'such', 'decorative', 'commemorative', 'sacred', 'heavenly', 'seasonal', 'exceptional']
+Sentence 17 rankings: 
+Police are appealing for information about anyone seen acting suspiciously lately at Bidston Hill, Bidston, to come forward.
+suspiciously
+['strangely', 'unusually', 'curiously', 'similarly', 'variously', 'noticeably', 'closely', 'suddenly', 'strange', 'surprisingly', 'unusual', 'peculiar', 'regularly', 'remarkably', 'mysterious', 'normally', 'slightly', 'nervously', 'systematically', 'locally']
+Sentence 18 rankings: 
+Her older sister, aged 21, lived at the rented house, in a recently built development at the back of the established housing estate.
+established
+['existing', 'old', 'acquired', 'initial', 'founded', 'introduced', 'original', 'achieved', 'recognised', 'adopted', 'observed', 'traditional', 'announced', 'organised', 'identified', 'older', 'abolished', 'indicated', 'abandoned', 'launched']
+Sentence 19 rankings: 
+That period of intense regulatory scrutiny is a routine part of the purchasing process, as every company that makes more than 400 million yuan ($63 million) in China and 10 billion yuan ($1.6 billion) globally is subject to the process.
+scrutiny
+['oversight', 'attention', 'criticism', 'surveillance', 'exposure', 'censorship', 'monitoring', 'regulation', 'examination', 'enforcement', 'activity', 'coverage', 'inspection', 'prosecution', 'pressure', 'concern', 'filtering', 'experimentation', 'testing', 'secrecy']
+Sentence 20 rankings: 
+An array of pro-Syrian parties support Assad's regime, as do many Lebanese citizens.
+regime
+['government', 'rule', 'dictatorship', 'administration', 'order', 'reign', 'revolution', 'cause', 'system', 'king', 'monarchy', 'state', 'dynasty', 'power', 'presidency', 'coup', 'situation', 'authority', 'kingdom', 'republic']
+Sentence 21 rankings: 
+And in the capital Damascus, regime forces raided the neighborhood of Qaboon, while snipers were stationed on the roofs of some buildings.
+snipers
+['defenders', 'gunmen', 'rifles', 'soldiers', 'shooters', 'archers', 'helicopters', 'gunners', 'marines', 'bodyguards', 'guns', 'mercenaries', 'rockets', 'commandos', 'civilians', 'assassins', 'firearms', 'insurgents', 'bullets', 'weapons']
+Sentence 22 rankings: 
+#2-19 Robert added the group knew travel and work in the area was dangerous, and took precautions.
+precautions
+['risks', 'measures', 'steps', 'caution', 'chances', 'breaths', 'treatments', 'liberties', 'actions', 'strides', 'shots', 'doses', 'concerns', 'alarms', 'warnings', 'rods', 'shelters', 'courses', 'flights', 'defences']
+Sentence 23 rankings: 
+The Spanish government source said the 30-billion euro provisions would have an impact in capital of about 20 billion which, added to another estimated 20 billion euros to rescue systemic lender Bankia SA and other smaller banks would make up the figure investors viewed as necessary.
+systemic
+['the', 'mortgage', 'financial', 'collateral', 'structural', 'widespread', 'collective', 'notorious', 'institutional', 'severe', 'syndicate', 'secondary', 'primary', 'perennial', 'strategic', 'massive', 'super', 'principal', 'titular', 'circulation']
+Sentence 24 rankings: 
+Eight Chinese fishing vessels were anchored off Scarborough Shoal, the Philippine government said on Wednesday, as Albert del Rosario, the country's foreign affairs secretary, called in Ma Keqing, the ambassador, for talks.
+anchored
+['stationed', 'grounded', 'parked', 'sheltered', 'pinned', 'deployed', 'docked', 'established', 'rooted', 'assembled', 'interned', 'stored', 'stranded', 'held', 'suspended', 'trapped', 'detained', 'scheduled', 'positioned', 'sunk']
+Sentence 25 rankings: 
+The Screen Actors Guild Award ( also known as the SAG Award ) is an accolade given by the Screen Actors Guild‐American Federation of Television and Radio Artists ( SAG-AFTRA ) to recognize outstanding performances in film and primetime television .
+accolade
+['award', 'honor', 'honour', 'awards', 'achievement', 'expression', 'annual', 'honors', 'event', 'opportunity', 'annually', 'organization', 'honorary', 'institution', 'incentive', 'excellence', 'appreciation', 'academy', 'acknowledge', 'order']
+Sentence 26 rankings: 
+More than 12,000 people, the majority of them civilians, have died since the Syrian uprising began in March 2011, according to the watchdog, including more than 900 killed since the April 12 truce.
+uprising
+['unrest', 'insurgency', 'revolution', 'revolt', 'rebellion', 'insurrection', 'outbreak', 'assembly', 'offensive', 'army', 'attack', 'crisis', 'spring', 'invasion', 'opposition', 'exodus', 'occupation', 'enclave', 'conflict', 'instability']
+Sentence 27 rankings: 
+A man and a woman questioned on suspicion of assisting an offender have been released.
+offender
+['adult', 'criminal', 'inmate', 'artist', 'individual', 'suspect', 'arrest', 'thief', 'enemy', 'adversary', 'murderer', 'crime', 'defendant', 'arrested', 'animal', 'illegal', 'fugitive', 'attacker', 'employer', 'accused']
+Sentence 28 rankings: 
+The government of Mariano Rajoy took the sweeping action just two days after it effectively took over the fourth-biggest bank, Bankia, to salvage its balance sheet, bulging with losses.
+bulging
+['swelling', 'filling', 'reeling', 'protruding', 'booming', 'gaping', 'thick', 'crawling', 'swollen', 'collapsing', 'filled', 'bursting', 'staggering', 'thrusting', 'widening', 'leaking', 'rumbling', 'sprawling', 'throbbing', 'drilling']
+Sentence 29 rankings: 
+The stretch of DNA transcribed into an RNA molecule is called a transcription unit and encodes at least one gene .
+encodes
+['represents', 'carries', 'codes', 'contains', 'involves', 'creates', 'en', 'expresses', 'affects', 'produces', 'includes', 'forms', 'specifies', 'is', 'constitutes', 'prints', 'comprises', 'portrays', 'acts', 'provides']
+Sentence 30 rankings: 
+Pygmalion is a play by George Bernard Shaw , named after a Greek mythological character .
+mythological
+['legendary', 'classical', 'biblical', 'divine', 'folklore', 'greek', 'canonical', 'fictional', 'literary', 'mystical', 'legend', 'philosophical', 'theological', 'folk', 'renaissance', 'governmental', 'theatrical', 'traditional', 'statutory', 'epic']
+Sentence 31 rankings: 
+An anonymous author romanized the spelling to Loxodonta and the International Code of Zoological Nomenclature ( ICZN ) recognizes this as the proper authority .
+romanized
+['pronounced', 'spelled', 'contracted', 'corrupted', 'modernized', 'simplified', 'truncated', 'corrected', 'rendered', 'stylized', 'localized', 'naturalized', 'baptized', 'transcribed', 'transitioned', 'typed', 'transformed', 'converted', 'switched', 'abbreviated']
+Sentence 32 rankings: 
+When police arrived they found a fatally injured 17-year-old girl in the front yard of the house, which is in a quiet neighborhood of single family residences.
+residences
+['homes', 'dwellings', 'households', 'neighborhoods', 'houses', 'properties', 'subdivisions', 'settings', 'units', 'jurisdictions', 'communities', 'locations', 'neighbourhoods', 'bedrooms', 'accommodations', 'housing', 'mansions', 'compounds', 'cabins', 'cottages']
+Sentence 33 rankings: 
+#9-11 Six of the ringleaders have been captured and sent to other facilities.
+ringleaders
+['perpetrators', 'leaders', 'members', 'suspects', 'terrorists', 'criminals', 'bombers', 'recruits', 'fighters', 'attackers', 'thieves', 'brothers', 'hostages', 'operatives', 'organizers', 'robbers', 'players', 'men', 'rebels', 'others']
+Sentence 34 rankings: 
+The attack began with a suicide car bomb near the gate of the privately guarded compound, which sits off Jalalabad road — one of the main thoroughfares out of the city, Interior Ministry spokesman Sediq Sediqi said.
+compound
+['facility', 'mansion', 'campus', 'courtyard', 'premise', 'property', 'premises', 'institution', 'citadel', 'monastery', 'palace', 'enclosure', 'structure', 'suite', 'reserve', 'residence', 'cell', 'location', 'prison', 'basement']
+Sentence 35 rankings: 
+The unsophisticated nature of the attack suggests little planning beyond having fighters and some explosives pre-positioned in the vicinity of Kabul.
+pre-positioned
+['positioned', 'placed', 'stationed', 'situated', 'deployed', 'located', 'poised', 'concentrated', 'stored', 'secured', 'ready', 'planted', 'dispersed', 'installed', 'trained', 'sited', 'established', 'hidden', 'constructed', 'disposed']
+Sentence 36 rankings: 
+#32-6 However, he is listed on the Republican Party's website as one of 18 candidates and filed a Federal Election Commission (FEC) complaint against Fox News for his exclusion from the August 6 debate.
+exclusion
+['inclusion', 'absence', 'isolation', 'exit', 'elimination', 'exemption', 'withdrawal', 'attendance', 'departure', 'eligibility', 'participation', 'omitted', 'expulsion', 'escape', 'acceptance', 'involvement', 'removal', 'avoidance', 'rejection', 'admission']
+Sentence 37 rankings: 
+#17-15 Mark Zuckerberg posted on Facebook "I'm so happy for all of my friends and everyone in our community who can finally celebrate their love and be recognized as equal couples under the law".
+recognized
+['acknowledged', 'accepted', 'honored', 'respected', 'known', 'seen', 'considered', 'confirmed', 'treated', 'identified', 'defined', 'celebrated', 'regarded', 'registered', 'hailed', 'signed', 'named', 'established', 'realized', 'designated']
+Sentence 38 rankings: 
+#42-61 Wikinews: Are there any ethical considerations around exposing ants to toxins and parasites?
+toxins
+['chemicals', 'diseases', 'poison', 'parasites', 'substances', 'nutrients', 'gases', 'viruses', 'venom', 'drugs', 'predators', 'proteins', 'hormones', 'medicines', 'enzymes', 'enemies', 'spores', 'treatments', 'causes', 'antibodies']
+Sentence 39 rankings: 
+In January 2011 , he was nominated for the Academy Award for Best Documentary for the film .
+nominated
+['won', 'eligible', 'asked', 'named', 'winner', 'awarded', 'listed', 'shot', 'qualified', 'sentenced', 'chosen', 'junior', 'considered', 'young', 'called', 'mentioned', 'elected', 'voted', 'once', 'known']
+Sentence 40 rankings: 
+#6-15 The Obama administration has seen what The New York Times calls an "unprecedented crackdown on leaks of government secrets."
+unprecedented
+['exceptional', 'unusual', 'increased', 'unbelievable', 'extreme', 'enormous', 'extraordinary', 'excessive', 'abrupt', 'impressive', 'intense', 'extravagant', 'aggressive', 'overwhelming', 'extensive', 'unbroken', 'additional', 'ongoing', 'unexpected', 'innovative']
+Sentence 41 rankings: 
+Two Chinese maritime surveillance ships, identified as Zhonggou Haijian 75 and Zhonggou Haijian 84, later approached and positioned themselves between the Philippine warship and the Chinese fishing vessels "thus preventing the arrests of the erring Chinese fishermen", the statement said.
+erring
+['suffering', 'escaping', 'unfortunate', 'injured', 'arguing', 'protesting', 'attacking', 'enduring', 'resisting', 'illustrious', 'impatient', 'remaining', 'wandering', 'outstanding', 'biting', 'irregular', 'innocent', 'straining', 'ambitious', 'pursuing']
+Sentence 42 rankings: 
+#28-28 Saying his lawyer had instructed him not to speak about the events of Saturday inside the home, Conley did have the following to say about the Jackson children: "They were growing up to be monsters, they were disrespectful, rude in school.
+monsters
+['beasts', 'creatures', 'dinosaurs', 'criminals', 'killers', 'vampires', 'giants', 'teenagers', 'werewolves', 'legends', 'animals', 'freaks', 'villains', 'aliens', 'sharks', 'wolves', 'predators', 'terrorists', 'pirates', 'gods']
+Sentence 43 rankings: 
+#6-4 The information Manning released to the public through WikiLeaks and The Guardian in 2010 included diplomatic accounts, videos, military incident logs, and battle plans, including footage of an American Apache helicopter firing on suspected Iraqi insurgents, reports of prisoners held in Guantanamo Bay without trial, and records of detainees abused by the Iraqi military.
+detainees
+['captives', 'prisoners', 'civilians', 'persons', 'individuals', 'combatants', 'guantanamo', 'suspects', 'documents', 'inmates', 'participants', 'citizens', 'marines', 'defendants', 'populations', 'servicemen', 'holders', 'recruits', 'protesters', 'subjects']
+Sentence 44 rankings: 
+The Chinese Embassy accused the Philippine warship of harassing the fishermen and called for it to leave Chinese territory.
+harassing
+['stalking', 'attacking', 'bullying', 'assisting', 'threatening', 'teasing', 'treating', 'intimidating', 'grazing', 'damaging', 'distracting', 'taunting', 'violating', 'targeting', 'beating', 'pursuing', 'criticizing', 'injuring', 'disturbing', 'protecting']
+Sentence 45 rankings: 
+#42-86 There's conflicting evidence about whether sick ants actually smell different from healthy ones or not.
+conflicting
+['competing', 'differing', 'varying', 'inconsistent', 'ambiguous', 'incompatible', 'clash', 'different', 'mixed', 'rejecting', 'tentative', 'dubious', 'complex', 'distinct', 'disagreement', 'multiple', 'matching', 'opposing', 'similar', 'complicated']
+Sentence 46 rankings: 
+#36-7 The following day, Indianapolis Motor Speedway president Doug Boles and Hulman & Company Mark Miles officially announced Wilson's death.
+announced
+['informed', 'declared', 'confirmed', 'ordered', 'released', 'stated', 'advertised', 'indicated', 'approved', 'acknowledged', 'ended', 'revealed', 'published', 'reported', 'introduced', 'communicated', 'uttered', 'proclaimed', 'discovered', 'concluded']
+Sentence 47 rankings: 
+Obama earlier dropped from night skies into Kabul on a brief visit amid secrecy and tight security and signed a deal with President Hamid Karzai, cementing 10 years of U.S. aid for Afghanistan after NATO combat troops leave in 2014.
+cementing
+['securing', 'establishing', 'confirming', 'sealing', 'signing', 'strengthening', 'bonding', 'binding', 'creating', 'ensuring', 'secured', 'building', 'ending', 'secure', 'restoring', 'providing', 'gaining', 'holding', 'deciding', 'settling']
+Sentence 48 rankings: 
+Many Syrians accuse Assad of exploiting that divide by unleashing Alawite gunmen known as "shabiha" who operate as hired muscle for the regime.
+unleashing
+['releasing', 'using', 'employing', 'wielding', 'hiring', 'bringing', 'running', 'letting', 'spawning', 'utilizing', 'developing', 'turning', 'emerging', 'installing', 'launching', 'creating', 'defeating', 'allowing', 'introducing', 'producing']
+Sentence 49 rankings: 
+#35-36 "In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."
+scrutiny
+['regard', 'attention', 'criticism', 'consideration', 'concern', 'suspicion', 'oversight', 'inspection', 'analysis', 'examination', 'security', 'pressure', 'sensitivity', 'assessment', 'gaze', 'scope', 'judgment', 'significance', 'access', 'exposure']
+Sentence 50 rankings: 
+A spokeswoman for Merseyside Police said: "Crime scene investigators are in attendance at the scene and officers are appealing to anyone who may have seen anyone acting suspiciously on Bidston Hill over the last few days to come forward.
+suspiciously
+['strangely', 'unusually', 'strange', 'curiously', 'noticeably', 'variously', 'similarly', 'closely', 'regularly', 'grimly', 'differently', 'cheerfully', 'normally', 'locally', 'oddly', 'unusual', 'remarkably', 'peculiar', 'irregular', 'warily']
+Sentence 51 rankings: 
+It originated in , and was first introduced in 1983 in Japan as a grapefruit-flavored sports drink , as a response to a competitor 's brand of sports drink called Pocari Sweat .
+originated
+['evolved', 'developed', 'began', 'existed', 'created', 'invented', 'flourished', 'arose', 'started', 'debuted', 'premiered', 'emerged', 'grew', 'initiated', 'occurred', 'lived', 'died', 'ended', 'arrived', 'came']
+Sentence 52 rankings: 
+The statue was moved to the Accademia Gallery in Florence in 1873 , and later replaced at the original location by a replica .
+replica
+['copy', 'duplicate', 'remake', 'model', 'clone', 'statue', 'template', 'recreation', 'redesign', 'version', 'prototype', 'reconstruction', 'substitute', 'rematch', 'successor', 'likeness', 'miniature', 'companion', 'competitor', 'revolver']
+Sentence 53 rankings: 
+I believe that ignoring public opinion discredits the authorities and destabilises the situation.
+discredits
+['defeats', 'concerns', 'fools', 'tricks', 'proves', 'defects', 'remains', 'opposes', 'trails', 'prevents', 'charges', 'results', 'by', 'claims', 'reduces', 'removes', 'differs', 'indicates', 'fractures', 'contests']
+Sentence 54 rankings: 
+But Crocker said there would be no repeat of the 1990s when a withdrawal of Western backers in the wake of the Soviet withdrawal unleashed a vicious civil war out of which the Taliban and al Qaeda support bases arose.
+vicious
+['rough', 'fierce', 'violent', 'nasty', 'verbal', 'cruel', 'wicked', 'swiss', 'harsh', 'lethal', 'friendly', 'brutal', 'dangerous', 'deadly', 'bitter', 'hostile', 'jagged', 'sharp', 'destructive', 'ruthless']
+Sentence 55 rankings: 
+His speech came as an already difficult relationship with Mr Karzai has been strained by recent events, including the release of photos showing US soldiers posing with the remains of Taliban insurgents and a US staff sergeant who has been charged in the killing of 16 Afghan civilians.
+strained
+['troubled', 'weakened', 'broken', 'bruised', 'challenged', 'worsened', 'fractured', 'tense', 'wrenched', 'disrupted', 'damaged', 'sharpened', 'pinched', 'torn', 'tensed', 'compressed', 'severed', 'pierced', 'cut', 'disturbed']
+Sentence 56 rankings: 
+The state will put less than 15 billion euros into the latest of the four separate bank rescues that Spain has enacted over the past three years, de Guindos estimated.
+enacted
+['implemented', 'executed', 'committed', 'initiated', 'undertaken', 'instituted', 'enforced', 'accomplished', 'performed', 'attempted', 'decreed', 'mandated', 'issued', 'orchestrated', 'wrought', 'conducted', 'done', 'adopted', 'launched', 'established']
+Sentence 57 rankings: 
+#11-7 When exposed to the laser, the primed mice would first stalk and then pounce on and bite any object in their enclosure, even objects without any food scent or prey value, like sticks and bottle caps.
+primed
+['trained', 'prepared', 'dried', 'transformed', 'activated', 'converted', 'molded', 'equipped', 'packed', 'hardened', 'mated', 'roasted', 'conditioned', 'sealed', 'fitted', 'cured', 'fired', 'alerted', 'suited', 'awakened']
+Sentence 58 rankings: 
+The Russian Union of Journalists on Wednesday condemned police violence and called for a probe into the dozens of attacks and arrests of journalists, describing them as "an attempt to gag and intimidate society."
+probe
+['look', 'investigation', 'review', 'investigate', 'search', 'scrutiny', 'inquiry', 'query', 'survey', 'spill', 'poke', 'report', 'breach', 'glimpse', 'rake', 'sort', 'dialogue', 'audit', 'plunge', 'dissolve']
+Sentence 59 rankings: 
+#4-4 He was an aviator in the United States Navy and logged more than 200 landings on aircraft carriers before becoming an astronaut in 1963.
+aviator
+['officer', 'ensign', 'astronaut', 'pilot', 'admiral', 'flyer', 'aircraft', 'navigator', 'operational', 'adult', 'airplane', 'interceptor', 'aerospace', 'oceanic', 'airfield', 'auditor', 'lieutenant', 'inventor', 'aerial', 'investigator']
+Sentence 60 rankings: 
+#36-12 The contract had previously been for two races, but after acquiring sponsorship, the deal was increased by five events; earlier in August, Wilson recorded a best finish of second at Mid-Ohio Sports Car Course.
+acquiring
+['obtaining', 'purchasing', 'gaining', 'attaining', 'securing', 'receiving', 'capturing', 'identifying', 'discovering', 'absorbing', 'increasing', 'possessing', 'finding', 'collecting', 'engaging', 'pursuing', 'earning', 'selecting', 'owning', 'establishing']
+Sentence 61 rankings: 
+The Syrian Observatory for Human Rights said dozens of others were wounded in the city, in the restive Homs province.
+restive
+['troubled', 'hostile', 'volatile', 'dangerous', 'prone', 'difficult', 'rebel', 'deadly', 'turbulent', 'prominent', 'severe', 'active', 'unstable', 'rebellious', 'heavy', 'democratic', 'former', 'violent', 'rural', 'populous']
+Sentence 62 rankings: 
+On the diplomatic front, European Union foreign ministers meeting in Brussels on Monday  agreed fresh sanctions against Syria, the 15th round so far to protest the relentless repression of dissidents by Assad's regime.
+repression
+['persecution', 'suppression', 'purge', 'punishment', 'exploitation', 'discipline', 'executions', 'deportation', 'prosecution', 'regime', 'slaughter', 'massacre', 'imprisonment', 'treatment', 'liquidation', 'censorship', 'looting', 'persecuted', 'intimidation', 'crushing']
+Sentence 63 rankings: 
+#9-27 Camila Nunes, a sociologist of the Federal University of ABC, told the AFP "medium- and long-term policies to reduce the vulnerability of certain social groups [and] to prioritize prevention rather than repression" are needed.
+vulnerability
+['resistance', 'liability', 'weakness', 'exposure', 'tolerance', 'penetration', 'sensitivity', 'prevalence', 'vu', 'credibility', 'security', 'relevance', 'severity', 'risk', 'threat', 'visibility', 'suffering', 'significance', 'value', 'toxicity']
+Sentence 64 rankings: 
+#42-26 WWikinews: What methods and equipment were used for this investigation?
+equipment
+['apparatus', 'instrument', 'gear', 'tools', 'machinery', 'instrumentation', 'instruments', 'infrastructure', 'engineering', 'hardware', 'investigation', 'operation', 'evidence', 'administration', 'energy', 'technology', 'information', 'engine', 'time', 'system']
+Sentence 65 rankings: 
+Tensions stemming from the 14-month-old uprising against President Bashar Assad also touched off clashes across the border in Lebanon as the revolt threatened to morph into a broader conflict.
+stemming
+['arising', 'derived', 'flowing', 'resulting', 'emerging', 'generating', 'ranging', 'drawing', 'relating', 'bulging', 'citing', 'leading', 'borne', 'leaking', 'projecting', 'following', 'radiating', 'rising', 'protruding', 'prevailing']
+Sentence 66 rankings: 
+Hodgkin and Huxley 's findings led the pair to hypothesize the existence of ion channels , which were isolated only decades later .
+existence
+['presence', 'identity', 'absence', 'occurrence', 'establishment', 'appearance', 'availability', 'discovery', 'location', 'emergence', 'creation', 'idea', 'amount', 'arrival', 'reality', 'possibility', 'meaning', 'concept', 'activity', 'abundance']
+Sentence 67 rankings: 
+#5-11 His government stands accused by Human Rights Watch of not taking adequate measures to protect the nation's citizens.
+adequate
+['inadequate', 'insufficient', 'appropriate', 'sufficient', 'acceptable', 'enough', 'effective', 'excellent', 'ample', 'satisfactory', 'exemplary', 'proper', 'available', 'ineffective', 'appropriately', 'sufficiently', 'reasonable', 'timely', 'exceeding', 'abundant']
+Sentence 68 rankings: 
+It is at this point that the audience realizes that Alcina genuinely loves Ruggiero ; from now until the end of the opera , she is depicted sympathetically .
+genuinely
+['truly', 'really', 'sincerely', 'actually', 'honestly', 'indeed', 'deeply', 'reasonably', 'distinctly', 'madly', 'personally', 'properly', 'seriously', 'gravely', 'nevertheless', 'rather', 'quite', 'fundamentally', 'true', 'totally']
+Sentence 69 rankings: 
+Al - ` Ain has a higher proportion of Emirati nationals than elsewhere in the country , but the majority of its residents are expatriates particularly from the Indian sub-continent .
+proportion
+['percentage', 'density', 'fraction', 'ratio', 'majority', 'population', 'number', 'prevalence', 'likelihood', 'incidence', 'quota', 'rate', 'displacement', 'variance', 'distribution', 'turnout', 'comparatively', 'portion', 'frequency', 'locality']
+Sentence 70 rankings: 
+The motive for the killings was not known.
+motive
+['reason', 'cause', 'solution', 'scene', 'plot', 'punishment', 'path', 'key', 'why', 'potential', 'reasoning', 'background', 'strategy', 'intent', 'murder', 'symbolism', 'moment', 'mechanism', 'selection', 'role']
+Sentence 71 rankings: 
+However, Olli Rehn, the EU's monetary affairs chief, said the European Commission has full confidence in the determination of the Spanish government to meet the fiscal targets.
+determination
+['decision', 'declaration', 'judgment', 'commitment', 'resolve', 'choice', 'resolution', 'response', 'judgement', 'selection', 'conviction', 'responsibility', 'contention', 'differentiation', 'bid', 'designation', 'tendency', 'achievement', 'satisfaction', 'decisions']
+Sentence 72 rankings: 
+World powers have backed the peace plan, which was put forward by U.N.-Arab League envoy Kofi Annan to end the crisis, but the bloodshed has not stopped.
+bloodshed
+['violence', 'slaughter', 'fighting', 'massacre', 'war', 'carnage', 'conflict', 'terror', 'crisis', 'bleeding', 'struggle', 'killing', 'killings', 'crime', 'strife', 'situation', 'tragedy', 'combat', 'famine', 'trouble']
+Sentence 73 rankings: 
+This reform will grant credibility and build confidence in the financial sector, increase credit flow in our country and lead to home sales at reasonable prices, Deputy Prime Minister Soraya Saenz de Santamaria said at a news conference.
+credibility
+['legitimacy', 'prestige', 'authenticity', 'loyalty', 'confidence', 'dignity', 'honesty', 'respect', 'accreditation', 'reputation', 'stability', 'strength', 'accountability', 'significance', 'reliability', 'experience', 'faith', 'integrity', 'leadership', 'validation']
+Sentence 74 rankings: 
+#23-2 Everson argues his exclusion violates Title 11 of the U.S. Code of Federal Regulations in that debate hosts must not "structure the debates to promote or advance one candidate over another", and must "use pre-established objective criteria to determine which candidates may participate in a debate."
+exclusion
+['inclusion', 'restriction', 'elimination', 'classification', 'withdrawal', 'admission', 'absence', 'cancellation', 'selection', 'acceptance', 'eligibility', 'rejection', 'isolation', 'expulsion', 'avoidance', 'advisory', 'exemption', 'invitation', 'boycott', 'exit']
+Sentence 75 rankings: 
+Republicans warily saluted Obama's war-zone trip but accused him of craven politics nonetheless.
+craven
+['dubious', 'nasty', 'grave', 'pale', 'somber', 'brittle', 'simple', 'cryptic', 'treacherous', 'bitter', 'provincial', 'wicked', 'humble', 'unpleasant', 'cruel', 'quake', 'cavalier', 'defensive', 'watery', 'westminster']
+Sentence 76 rankings: 
+They will know that the United States can achieve our goals of destroying al-Qaida and denying it a safe haven, but at the same time we have the capacity to wind down this war and usher in a new era of peace here in Afghanistan.
+usher
+['reign', 'initiate', 'bring', 'invest', 'implement', 'introduce', 'install', 'rein', 'enter', 'inspire', 'create', 'endure', 'engage', 'wake', 'assist', 'settle', 'lock', 'arrive', 'lodge', 'intern']
+Sentence 77 rankings: 
+He spoke on condition of anonymity because of a lack of authority to discuss the situation with the media.
+anonymity
+['privacy', 'secrecy', 'isolation', 'ignorance', 'silence', 'immunity', 'asylum', 'identity', 'neutrality', 'exile', 'absence', 'embarrassment', 'innocence', 'solitude', 'audience', 'independence', 'exclusion', 'security', 'discretion', 'information']
+Sentence 78 rankings: 
+Moments later, the neighbor said, Ms. Thomas, 33, emerged from her house and called her children to come back home.
+emerged
+['exited', 'escaped', 'appeared', 'withdrew', 'retreated', 'departed', 'arose', 'entered', 'retired', 'surfaced', 'emigrated', 'released', 'expanded', 'returned', 'fled', 'opened', 'awakened', 'concluded', 'operated', 'ventured']
+Sentence 79 rankings: 
+Demonstrations on Monday and Tuesday were an unusually sustained show of indignation for the Russian opposition.
+indignation
+['anger', 'interest', 'outrage', 'enthusiasm', 'agitation', 'emotion', 'pride', 'protest', 'annoyance', 'amusement', 'resentment', 'irritation', 'honour', 'discontent', 'humiliation', 'objection', 'resignation', 'alarm', 'energy', 'excitement']
+Sentence 80 rankings: 
+#35-9 The case attracted worldwide attention with Lin and Phyo confessing, before re-enacting the killing in front of the press.
+re-enacting
+['performing', 'repeating', 'staging', 'recalling', 'continuing', 'depicting', 'doing', 'completing', 'restructuring', 'forcing', 'rebuilding', 'returning', 'taking', 'ending', 'again', 'defending', 'practicing', 'representing', 'making', 'remembering']
+Sentence 81 rankings: 
+Also Sunday, two Turkish journalists who had been detained in Syria for two months arrived in Istanbul on a plane from Iran after that country helped negotiate their release by Syrian authorities.
+detained
+['seized', 'held', 'incarcerated', 'interned', 'jailed', 'imprisoned', 'arrested', 'captured', 'secured', 'displayed', 'placed', 'restricted', 'restrained', 'displaced', 'lodged', 'residing', 'suspected', 'hung', 'kidnapped', 'located']
+Sentence 82 rankings: 
+Foreign Affairs Secretary Albert del Rosario was seeking a diplomatic solution with Chinese Ambassador Ma Keqing, the TV network said.
+diplomatic
+['political', 'peaceful', 'formal', 'technical', 'legal', 'cultural', 'professional', 'friendly', 'medical', 'bilateral', 'historical', 'domestic', 'judicial', 'philosophical', 'personal', 'satisfactory', 'dramatic', 'governmental', 'legislative', 'presidential']
+Sentence 83 rankings: 
+It's sad, even if they were troublemakers.
+troublemakers
+['criminals', 'problems', 'teenagers', 'kids', 'rebels', 'losers', 'lawyers', 'babies', 'people', 'strangers', 'friends', 'crazy', 'dangerous', 'thieves', 'terrorists', 'prisoners', 'wrong', 'lovers', 'robbers', 'children']
+Sentence 84 rankings: 
+It often accompanies this sound with flashing its brightly marked abdomen in a further attempt to deter its predators .
+abdomen
+['belly', 'backside', 'underside', 'stomach', 'apron', 'insignia', 'torso', 'insides', 'organs', 'gut', 'appendix', 'interior', 'forehead', 'forearms', 'instrumentation', 'underwear', 'body', 'weaponry', 'appearance', 'indus']
+Sentence 85 rankings: 
+#11-6 One set stimulated prey pursuit behavior, such as stalking, and the other stimulated the animal to use its jaw and neck muscles.
+pursuit
+['search', 'chase', 'capture', 'chasing', 'harassment', 'seeking', 'hunting', 'searching', 'possession', 'recognition', 'reward', 'capturing', 'avoidance', 'escape', 'following', 'follow', 'movement', 'seek', 'response', 'collection']
+Sentence 86 rankings: 
+#23-12 He alleges this was done to ensure the inclusion of the low-polling candidates former Hewlett-Packard CEO Carly Fiorina, former New York governor George Pataki, Senator Lindsey Graham, and former Virginia governor Jim Gilmore, because Fox News recognizes these candidates as "major players."
+inclusion
+['exclusion', 'participation', 'acceptance', 'appearance', 'entry', 'admission', 'integration', 'enrollment', 'involvement', 'exclude', 'presence', 'membership', 'addition', 'elimination', 'exception', 'election', 'exemption', 'entrance', 'attendance', 'introduction']
+Sentence 87 rankings: 
+Our stand since we agreed to acquire Motorola has not changed and we look forward to closing the deal, a Google spokesperson told AFP.
+acquire
+['engage', 'purchase', 'affiliate', 'absorb', 'replace', 'intercept', 'obtain', 'occupy', 'pursue', 'capture', 'associate', 'incorporate', 'inherit', 'adopt', 'possess', 'buy', 'employ', 'encompass', 'overhaul', 'invade']
+Sentence 88 rankings: 
+#35-20 The case pits the two accused trying to defend a death penalty case against the possibility of jeopardising international relations; Thai police co-operated, but only in light of an agreement the report would be confidential.
+confidential
+['discreet', 'secret', 'disclosed', 'private', 'anonymous', 'closed', 'classified', 'unpublished', 'undisclosed', 'taboo', 'covert', 'transparent', 'published', 'hidden', 'sealed', 'revealed', 'protected', 'separate', 'intimate', 'safe']
+Sentence 89 rankings: 
+Before you make an unblock request , you should attentively read the policies and guidelines named in your block reason .
+attentively
+['at', 'closely', 'carefully', 'intently', 'also', 'thoughtfully', 'first', 'thoroughly', 'critically', 'properly', 'additionally', 'extensively', 'clearly', 'strongly', 'immediately', 'be', 'listen', 'surely', 'again', 'systematically']
+Sentence 90 rankings: 
+The bombardment by regime forces resumed following the deadly clashes, it added.
+bombardment
+['contamination', 'harassment', 'barrage', 'reclamation', 'protection', 'destruction', 'assault', 'visitation', 'demolition', 'surveillance', 'rainfall', 'blasting', 'battle', 'construction', 'firing', 'occupation', 'pursuit', 'treatment', 'dismissal', 'boycott']
+Sentence 91 rankings: 
+#42-30 We collected wild colonies of Formica fusca by searching through old tree-trunks in old logging sites in southern Finland.
+colonies
+['populations', 'nests', 'communities', 'species', 'varieties', 'masses', 'forms', 'specimens', 'seeds', 'habitats', 'plants', 'clones', 'cases', 'examples', 'numbers', 'taxa', 'kingdoms', 'legions', 'chapters', 'instances']
+Sentence 92 rankings: 
+#12-5 Two lorries were partially crushed by the collapse, which was triggered when a digger on the back of a lorry struck the concrete bridge.
+partially
+['fully', 'slightly', 'largely', 'heavily', 'completely', 'nearly', 'totally', 'almost', 'significantly', 'lightly', 'temporarily', 'both', 'somewhat', 'slowly', 'severely', 'also', 'half', 'well', 'highly', 'semi']
+Sentence 93 rankings: 
+#28-20 Tuesday, Conley was allowed to speak to reporters at an administrative segregation unit of the Harris County Jail.
+segregation
+['white', 'detention', 'registration', 'apartheid', 'isolation', 'confinement', 'attendance', 'suppression', 'placement', 'division', 'separation', 'training', 'transfer', 'dispersal', 'care', 'grey', 'gray', 'arrangement', 'treatment', 'classification']
+Sentence 94 rankings: 
+The mother of the children came out of the residence next door, called for the children to return home, at which time they left and went back to the house.
+residence
+['household', 'house', 'home', 'mansion', 'domain', 'possession', 'vehicle', 'property', 'farmhouse', 'dwelling', 'refuge', 'parlor', 'bedroom', 'maintenance', 'foyer', 'consulate', 'settlement', 'housing', 'location', 'presence']
+Sentence 95 rankings: 
+EU sanctions Monday's violence further undermines a UN-backed peace plan that is supposed to bring an end to Syria's deadly crisis.
+sanctions
+['restrictions', 'provisions', 'penalties', 'impacts', 'consequences', 'measures', 'targets', 'caps', 'weapons', 'regulations', 'pressures', 'reforms', 'regimes', 'limitations', 'policies', 'standards', 'drugs', 'strikes', 'limits', 'resolutions']
+Sentence 96 rankings: 
+#35-24 Both men say they were starved, suffocated, stripped naked, exposed to cold temperatures, beaten, threatened, and denied legal representation.
+threatened
+['kidnapped', 'forced', 'pressured', 'challenged', 'sentenced', 'targeted', 'punished', 'demanded', 'teased', 'frightened', 'defended', 'tried', 'prepared', 'tempted', 'promised', 'harmed', 'harassed', 'warned', 'provoked', 'booked']
+Sentence 97 rankings: 
+The Russian Union of Journalists condemned police violence and called for a probe into the dozens of attacks and arrests of journalists, describing them as "an attempt to gag and intimidate society."
+intimidate
+['influence', 'gag', 'disrupt', 'dominate', 'restrict', 'threaten', 'restrain', 'silence', 'control', 'isolate', 'distract', 'tame', 'stabilize', 'confuse', 'undermine', 'blackmail', 'manipulate', 'hurt', 'weaken', 'scare']
+Sentence 98 rankings: 
+#29-5 Martin, best known for spreading multiple conspiracy theories concerning the birth and religion of U.S. President Barack Obama, previously ran for the Democratic Party presidential nomination in 1988, and unsuccessfully sought the backing of the Republican Party in 2000 and 2012.
+sought
+['pursued', 'seeking', 'seeks', 'contested', 'targeted', 'gained', 'seek', 'obtained', 'attempted', 'received', 'requested', 'desired', 'claimed', 'secured', 'considered', 'achieved', 'advocated', 'campaigned', 'tested', 'attained']
+Sentence 99 rankings: 
+China's official approval of the deal has been a long time coming - Google managed to score regulatory approvals from the U.S. Department of Justice and the European Commission back in February (on the same day no less), but China's anti-monopoly bureau leapt into action just a few days later.
+bureau
+['government', 'body', 'commission', 'office', 'hub', 'unit', 'board', 'department', 'league', 'ministry', 'team', 'center', 'ring', 'directorate', 'business', 'bum', 'agency', 'police', 'party', 'institute']
+Sentence 100 rankings: 
+The official spoke on condition of anonymity because he was not authorized to speak to the press.
+anonymity
+['privacy', 'secrecy', 'isolation', 'immunity', 'ignorance', 'asylum', 'silence', 'neutrality', 'innocence', 'absence', 'identity', 'exile', 'embarrassment', 'audience', 'apology', 'amnesia', 'discretion', 'amnesty', 'exclusion', 'independence']
+Sentence 101 rankings: 
+Commander of the Moesian troops , he obtained an important victory against the invading Goths and was , for this reason , acclaimed Emperor by his army .
+acclaimed
+['proclaimed', 'elected', 'crowned', 'acknowledged', 'hailed', 'declared', 'admired', 'styled', 'voted', 'praised', 'affirmed', 'awarded', 'approved', 'appointed', 'reputed', 'inaugurated', 'nicknamed', 'lauded', 'ranked', 'regarded']
+Sentence 102 rankings: 
+A 21-year-old man was arrested on April 30, on suspicion of murder and was released on bail until May 29 pending further enquiries.
+enquiries
+['investigations', 'inquiries', 'investigation', 'proceedings', 'examinations', 'discussions', 'charges', 'interviews', 'information', 'hearings', 'evidence', 'searches', 'developments', 'trials', 'arrests', 'considerations', 'inquiry', 'examination', 'analyses', 'inspections']
+Sentence 103 rankings: 
+The author claims that God woke him up during his sleep and commissioned him to take dictation of what he said .
+commissioned
+['tasked', 'mandated', 'dispatched', 'hired', 'funded', 'instructed', 'inspired', 'enabled', 'contracted', 'requested', 'prompted', 'obliged', 'engaged', 'asked', 'authorized', 'programmed', 'employed', 'permitted', 'ordered', 'charged']
+Sentence 104 rankings: 
+The first regional casino was initially proposed to be in the City of Manchester , but this has since been scrapped by the UK government soon after Gordon Brown became Prime Minister of the United Kingdom .
+scrapped
+['canceled', 'cancelled', 'rejected', 'abandoned', 'flattened', 'dropped', 'discontinued', 'stopped', 'banned', 'backed', 'discarded', 'disbanded', 'killed', 'abolished', 'dismissed', 'buried', 'thwarted', 'ignored', 'settled', 'lost']
+Sentence 105 rankings: 
+Dispatch records released Tuesday show that authorities responded to Thomas' house on three successive days in April.
+successive
+['consecutive', 'previous', 'subsequent', 'separate', 'particular', 'periodical', 'sequential', 'foreign', 'subsequently', 'unlawful', 'sequence', 'further', 'distinct', 'mortar', 'milestone', 'similar', 'cumulative', 'prospective', 'respective', 'photographic']
+Sentence 106 rankings: 
+If they fail to deliver, what has been so far a national crisis will degenerate into a systemic crisis for the EU," one senior source said.
+degenerate
+['develop', 'transform', 'evolve', 'collapse', 'convert', 'decay', 'turn', 'dissolve', 'decline', 'descend', 'diffuse', 'change', 'explode', 'mature', 'slide', 'shift', 'deter', 'transition', 'divide', 'progress']
+Sentence 107 rankings: 
+He added: 'At around 11.10am, a 26-year-old man was arrested on suspicion of murder and a 28-year-old male and 28-year-old female were arrested on suspicion of assisting an offender.
+offender
+['adult', 'criminal', 'inmate', 'suspect', 'murderer', 'individual', 'defendant', 'adversary', 'crime', 'thief', 'artist', 'fugitive', 'associate', 'felony', 'convict', 'enemy', 'disorder', 'attacker', 'victim', 'operator']
+Sentence 108 rankings: 
+Before the trip, former President Bill Clinton touted Mr. Obama's bold decision to go after bin Laden in a campaign ad that also suggested Romney might not have made the same call.
+touted
+['promoted', 'publicized', 'praised', 'to', 'emphasized', 'compared', 'dismissed', 'hailed', 'advertised', 'described', 'credited', 'thanked', 'criticized', 'celebrated', 'highlighted', 'boosted', 'announced', 'detailed', 'showcased', 'claimed']
+Sentence 109 rankings: 
+An official who spoke on condition of anonymity because he was not authorized to speak to the press said Yitzhak Levanon returned to Cairo Sunday through Istanbul.
+anonymity
+['immunity', 'isolation', 'privacy', 'secrecy', 'silence', 'ignorance', 'amnesty', 'absence', 'neutrality', 'exclusion', 'apology', 'encryption', 'asylum', 'exile', 'explanation', 'discretion', 'innocence', 'access', 'authorization', 'privilege']
+Sentence 110 rankings: 
+Devotion ( Bhakti ) will cancel the effects of bad Karma and will bring a person closer to the true knowledge by purifying his mind .
+purifying
+['cleansing', 'healing', 'transforming', 'satisfying', 'refining', 'bathing', 'changing', 'strengthening', 'fixing', 'preparing', 'consuming', 'confirming', 'freeing', 'preserving', 'fulfilling', 'clearing', 'calming', 'pressing', 'governing', 'destroying']
+Sentence 111 rankings: 
+#8-11 In the last two months, Bayern Munich has announced Polish striker Robert Lewandowski signed a contract extension until June 2021 and French winger Franck Ribéry signed a one-year contract extension with the club.
+announced
+['revealed', 'released', 'confirmed', 'advertised', 'reported', 'stated', 'decided', 'emerged', 'introduced', 'indicated', 'shown', 'discovered', 'established', 'appointed', 'unveiled', 'disclosed', 'been', 'opened', 'named', 'updated']
+Sentence 112 rankings: 
+As of the census of 2000 , there were 24,276 people , 10,447 households , and 6,414 families residing in the city .
+residing
+['living', 'located', 'remaining', 'performing', 'relocating', 'occurring', 'settling', 'migrating', 'locating', 'originating', 'forming', 'extant', 'appearing', 'housing', 'arriving', 'composing', 'comprising', 'nesting', 'moving', 'participating']
+Sentence 113 rankings: 
+On September 17 , 1941 , the Germans occupied the town of Pushkin , destroying and plundering many historical monuments , buildings and other cultural artifacts , including the famous Amber Room .
+plundering
+['destroying', 'looting', 'pl', 'stealing', 'damaging', 'smashing', 'wiping', 'planting', 'ruining', 'rebuilding', 'burying', 'hiding', 'burning', 'selling', 'printing', 'dumping', 'claiming', 'shattering', 'processing', 'removing']
+Sentence 114 rankings: 
+#6-12 Obama's staff told the press WikiLeaks founder Julian Assange's promise to agree to U.S. extradition if Manning was granted clemency had nothing to do with the decision.
+clemency
+['parole', 'asylum', 'release', 'pardon', 'immunity', 'amnesty', 'freedom', 'mercy', 'bail', 'detention', 'liberty', 'it', 'citizenship', 'imprisonment', 'sanctuary', 'protection', 'closure', ',', 'rehabilitation', 'execution']
+Sentence 115 rankings: 
+As Richard Pearce-Moses wrote , `` Archivists keep records that have enduring value as reliable memories of the past , and they help people find and understand the information they need in those records . ''
+enduring
+['lasting', 'sustained', 'ongoing', 'durable', 'evergreen', 'sustaining', 'persistent', 'inherent', 'timeless', 'historic', 'outstanding', 'permanent', 'ancient', 'eternal', 'enormous', 'longevity', 'extending', 'incredible', 'original', 'economic']
+Sentence 116 rankings: 
+It would be a tragedy for Afghanistan and a strategic setback for America if the Taliban returned to power and once again created a sanctuary for terrorists," Romney said in the release.
+sanctuary
+['refuge', 'shelter', 'haven', 'asylum', 'harbor', 'retreat', 'home', 'refugee', 'space', 'hideout', 'place', 'residence', 'cover', 'room', 'center', 'resort', 'habitat', 'amnesty', 'venue', 'zoo']
+Sentence 117 rankings: 
+On Facebook, more than 12,000 people signed up to a page announcing an opposition rally for Saturday - and many of them have never taken part in political demonstrations Mariya Boyarintseva, a 24-year-old event manager, told The Associated Press that she has never been to a political rally before but she was going to Saturday's protest.
+demonstrations
+['rallies', 'gatherings', 'protests', 'movements', 'activities', 'disturbances', 'incidents', 'pursuits', 'assemblies', 'meetings', 'expressions', 'campaigns', 'killings', 'actions', 'events', 'occurrences', 'minorities', 'controversies', 'strikes', 'initiatives']
+Sentence 118 rankings: 
+#37-9 The Social and Popular Assembly, formed during protests in recent months, allege violations of electoral law by many parties, and want an electoral commission crackdown.
+allege
+['claim', 'assert', 'accuse', 'accusation', 'claims', 'imply', 'argue', 'estimate', 'admit', 'excuse', 'believe', 'expose', 'attack', 'evidence', 'accused', 'prove', 'account', 'asserts', 'advocate', 'protest']
+Sentence 119 rankings: 
+About 200 were arrested at a similar attempt to hold an unsanctioned rally in St Petersburg and another 25 in the southern city of Rostov-on-Don.
+unsanctioned
+['illegal', 'unauthorized', 'organized', 'unarmed', 'underground', 'unlawful', 'opposition', 'armed', 'unconstitutional', 'independent', 'open', 'unofficial', 'anonymous', 'arrested', 'alternative', 'impromptu', 'online', 'internet', 'banned', 'outlawed']
+Sentence 120 rankings: 
+The government blames the bloodshed on armed gangs and extremists acting out a foreign plot to destabilize Syria.
+bloodshed
+['violence', 'slaughter', 'carnage', 'massacre', 'murder', 'crime', 'killings', 'situation', 'rampage', 'war', 'brutality', 'murders', 'disturbance', 'violent', 'conflict', 'defeat', 'devastation', 'fighting', 'struggle', 'fight']
+Sentence 121 rankings: 
+#6-18 Ernest said no, saying the information Snowden released was more dangerous to the U.S. public and pointed out that while Manning had gone through a formal trial and acknowledged wrongdoing, "Mr. Snowden fled into the arms of an adversary and has sought refuge in a country that most recently made a concerted effort to undermine confidence in our democracy."
+adversary
+['enemy', 'opponent', 'antagonist', 'ally', 'employer', 'foe', 'nemesis', 'evil', 'attacker', 'assassin', 'outsider', 'intruder', 'entity', 'villain', 'industrialist', 'enigma', 'alias', 'ancestor', 'attorney', 'enemies']
+Sentence 122 rankings: 
+Russian authorities should annul the parliamentary vote results and hold a new election, the ex-Soviet leader Mikhail Gorbachev has urged, as popular indignation grows over alleged election fraud.
+alleged
+['apparent', 'suspected', 'accused', 'claimed', 'supposed', 'perceived', 'attempted', 'implied', 'estimated', 'purported', 'intended', 'the', 'reputed', 'reported', 'exposed', 'potential', 'observed', 'evident', 'expected', 'assumed']
+Sentence 123 rankings: 
+The spectrum of the companion GD 165B was very red and enigmatic , showing none of the features expected of a low-mass red dwarf star .
+enigmatic
+['obscure', 'unclear', 'unknown', 'mysterious', 'unusual', 'cryptic', 'ambiguous', 'eccentric', 'incomplete', 'uncertain', 'mystery', 'bizarre', 'unexpected', 'obscured', 'elusive', 'intriguing', 'unidentified', 'unfamiliar', 'occult', 'unmarked']
+Sentence 124 rankings: 
+#36-16 Another had been to tether the nose cone to the car; Hunter-Reay mentioned renderings developed of a boomerang-like debris-deflector positioned in front of the driver.
+renderings
+['representations', 'depictions', 'illustrations', 'projections', 'photographs', 'pictures', 'perspectives', 'images', 'imagery', 'fantasies', 'portrayal', 'drawings', 'graphics', 'views', 'depiction', 'developments', 'sketches', 'simulations', 'elevations', 'considerations']
+Sentence 125 rankings: 
+Republicans warily saluted Obama's war-zone trip but accused him of craven politics nonetheless.
+warily
+['cautiously', 'tentatively', 'suspiciously', 'reluctantly', 'closely', 'stiffly', 'hesitantly', 'curiously', 'gingerly', 'eagerly', 'mildly', 'readily', 'gladly', 'lightly', 'carefully', 'affectionately', 'cheerfully', 'anxiously', 'scarcely', 'nervously']
+Sentence 126 rankings: 
+#36-8 Karam was able to walk away from the accident, and was evaluated for a right foot injury; he was released from the hospital the same day.
+evaluated
+['examined', 'assessed', 'inspected', 'identified', 'operated', 'treated', 'investigated', 'tested', 'reviewed', 'scanned', 'screened', 'acquired', 'checked', 'administered', 'educated', 'regarded', 'adjusted', 'analyzed', 'diagnosed', 'indicated']
+Sentence 127 rankings: 
+By the end of the 18th century , Tsarskoye Selo became a popular place of summer residence among the nobility .
+nobility
+['aristocracy', 'aristocratic', 'elite', 'affluent', 'gentry', 'wealthy', 'class', 'royalty', 'clergy', 'cavalry', 'elites', 'classes', 'peerage', 'poor', 'count', 'senators', 'youth', 'peers', 'monarchy', 'court']
+Sentence 128 rankings: 
+Schistosomiasis , caused by one genus of trematodes , is the second-most devastating of all human diseases caused by parasites , surpassed only by malaria .
+surpassed
+['exceeded', 'preceded', 'challenged', 'conquered', 'reached', 'overshadowed', 'succeeded', 'overwhelmed', 'bypassed', 'defeated', 'passed', 'outnumbered', 'measured', 'beaten', 'touched', 'experienced', 'introduced', 'replaced', 'approached', 'followed']
+Sentence 129 rankings: 
+Chinese officials, who refer to Scarborough Shoal as Huangyan Island, have in the past asserted Chinese sovereignty over the area.
+asserted
+['alleged', 'claimed', 'proclaimed', 'advocated', 'acknowledged', 'identified', 'extended', 'attempted', 'articulated', 'established', 'maintained', 'affirmed', 'indicated', 'demonstrated', 'emphasized', 'expressed', 'exhibited', 'declared', 'challenged', 'contested']
+Sentence 130 rankings: 
+#42-40 For this we basically put colonies on a diet of either food with medicine or without for a while.
+colonies
+['communities', 'settlements', 'islands', 'tribes', 'populations', 'civilizations', 'citizens', 'settlers', 'worlds', 'them', 'hundreds', 'villages', 'districts', 'cities', 'civilians', 'kingdoms', 'races', 'organisms', 'peoples', 'corporations']
+Sentence 131 rankings: 
+Battles first erupted on Saturday between residents of Jabal Mohsen and the nearby neighbourhood of Bab al-Tebbaneh -- populated mainly by Sunni Muslims opposed to Assad's regime -- after security forces arrested a Sunni Islamist on suspicion he was linked to a terrorist organisation.
+erupted
+['emerged', 'occurred', 'arose', 'exploded', 'raged', 'blazed', 'sparked', 'began', 'escalated', 'subsided', 'ignited', 'begun', 'ensued', 'appeared', 'originated', 'stemmed', 'surged', 'reigned', 'commenced', 'sprayed']
+Sentence 132 rankings: 
+#40-7 The national government has deployed several thousand paramilitary personnel to assist the state government.
+deployed
+['mobilized', 'released', 'dispatched', 'commissioned', 'hired', 'assigned', 'shipped', 'positioned', 'fielded', 'distributed', 'contributed', 'sent', 'performed', 'employed', 'volunteered', 'stationed', 'disbanded', 'posted', 'drafted', 'returned']
+Sentence 133 rankings: 
+Journalists Adem Ozkose and Hamit Coskun were abducted by militiamen who had blocked a road and were stopping cars and abducting passengers, Ozkose told reporters in Istanbul on Sunday.
+militiamen
+['soldiers', 'gunmen', 'bodyguards', 'warriors', 'fighters', 'guards', 'men', 'terrorists', 'police', 'nationalists', 'mercenaries', 'thugs', 'policemen', 'villagers', 'people', 'activists', 'youths', 'rebels', 'members', 'forces']
+Sentence 134 rankings: 
+European Union foreign ministers agreed Monday to impose fresh sanctions on Syria as a U.N.-backed peace plan -- along with all other diplomatic efforts -- has yet to stop the carnage that mounts every day.
+carnage
+['violence', 'mayhem', 'slaughter', 'massacre', 'horror', 'devastation', 'destruction', 'injustice', 'terror', 'brutality', 'holocaust', 'menace', 'fragmentation', 'havoc', 'famine', 'violation', 'atrocities', 'abuse', 'catastrophe', 'precipitation']
+Sentence 135 rankings: 
+#28-9 His most recent stint behind bars came last month, when he was arrested for allegedly slamming his girlfriend's head into a refrigerator in the same home involved on Saturday.
+stint
+['reign', 'spell', 'tenure', 'stay', 'scrape', 'interlude', 'period', 'run', 'time', 'session', 'appearance', 'placement', 'detention', 'resume', 'duration', 'presence', 'visit', 'term', 'reside', 'journey']
+Sentence 136 rankings: 
+Banks have until the end of the year to move their holdings of repossessed property into asset management firms for a fire sale, Economy Minister Luis de Guindos told a news conference.
+repossessed
+['the', 'real', 'their', 'defaulted', 'commercial', 'residential', 'surplus', 'listed', 'unused', 'seized', 'physical', 'industrial', 'government', 'distressed', 'its', 'abandoned', 'investment', 'rental', 'intellectual', 'bank']
+Sentence 137 rankings: 
+Gardai investigating a shooting in west Dublin last night have recovered a gun.
+investigating
+['examining', 'exploring', 'attacking', 'policing', 'following', 'searching', 'after', 'covering', 'arresting', 'digging', 'researching', 'reporting', 'escaping', 'solving', 'pursuing', 'finding', 'in', 'on', 'into', 'about']
+Sentence 138 rankings: 
+For years he had evaded capture and was one of the world's most wanted men, but his time on the run finally ended last year when he was arrested near Belgrade.The 70 year old will be brought before the UN Yugoslav War Crimes tribunal in the Hague later this morning accused with some of the worst atrocities in Europe since World War Two.
+atrocities
+['abuses', 'crimes', 'killings', 'horrors', 'offences', 'murders', 'assaults', 'punishments', 'brutality', 'offenses', 'executions', 'artworks', 'actions', 'violations', 'mayhem', 'activities', 'defeats', 'hostilities', 'incidents', 'events']
+Sentence 139 rankings: 
+#25-8 Wages have grown by 2.1% over the past year, below the Federal Reserve's target of 3.5% annual wage growth, and not much more than the underlying rate of inflation.
+underlying
+['root', 'overall', 'elementary', 'ultimate', 'prevailing', 'elemental', 'accompanying', 'inherent', 'implied', 'empirical', 'absolute', 'above', 'federal', 'implicit', 'ongoing', 'operating', 'actual', 'supporting', 'original', 'fundamental']
+Sentence 140 rankings: 
+It was introduced to Spain and Portugal in 1991 , and it became the official drink of the 1992 Summer Olympics in Barcelona .
+introduced
+['brought', 'reintroduced', 'presented', 'launched', 'added', 'established', 'released', 'passed', 'initiated', 'imported', 'started', 'promoted', 'developed', 'invented', 'opened', 'unveiled', 'offered', 'arrived', 'announced', 'implemented']
+Sentence 141 rankings: 
+#29-12 Martin adamantly opposes Bush because of the foreign policy of the candidate's brother, former President George W. Bush.
+adamantly
+['strongly', 'firmly', 'overwhelmingly', 'intensely', 'essentially', 'aggressively', 'fiercely', 'openly', 'actively', 'vigorously', 'violently', 'absolutely', 'bitterly', 'extremely', 'always', 'explicitly', 'exclusively', 'angrily', 'generally', 'entirely']
+Sentence 142 rankings: 
+#29-10 Although he described Trump's previous foray into politics as a "charade" during a 2011 interview with Wikinews, Martin now sees himself as Trump's "tag team" partner in attacking the Bush candidacy.
+candidacy
+['campaign', 'bid', 'nomination', 'cause', 'election', 'race', 'presidency', 'challenge', 'proposal', 'leadership', 'succession', 'effort', 'project', 'contention', 'plan', 'program', 'career', 'banner', 'administration', 'victory']
+Sentence 143 rankings: 
+#35-27 The report is known to contain some material disputed by Lin and Phyo.
+disputed
+['contested', 'questioned', 'contentious', 'controversial', 'claimed', 'debated', 'attributed', 'differed', 'challenged', 'cited', 'conflicting', 'confirmed', 'doubtful', 'agreed', 'problematic', 'troubled', 'related', 'shared', 'argued', 'derived']
+Sentence 144 rankings: 
+Banksy does not sell photographs or reproductions of his street graffiti , however , art auctioneers have been known to attempt to sell his street art on location and leave the problem of its removal in the hands of the winning bidder .
+auctioneers
+['dealers', 'collectors', 'agents', 'traders', 'vendors', 'merchants', 'artists', 'sellers', 'agencies', 'investors', 'retailers', 'buyers', 'galleries', 'experts', 'firms', 'analysts', 'enthusiasts', 'operators', 'accountants', 'attorneys']
+Sentence 145 rankings: 
+But the observers' presence hasn't stopped the bloodshed.
+bloodshed
+['violence', 'slaughter', 'fighting', 'carnage', 'murder', 'trouble', 'massacre', 'battle', 'fight', 'war', 'killing', 'crime', 'horror', 'pain', 'bleeding', 'death', 'combat', 'action', 'rage', 'struggle']
+Sentence 146 rankings: 
+#13-5 The filibuster is a last-ditch tactic in which parties opposed to a certain motion refuse to relinquish the floor until their opponents give in or compromise.
+relinquish
+['yield', 'surrender', 'leave', 'abandon', 'evacuate', 'return', 'take', 'share', 'maintain', 'lose', 'receive', 'retain', 'bear', 'keep', 'regain', 'hold', 'control', 'turn', 'declare', 'have']
+Sentence 147 rankings: 
+A witness described as a friend of Thomas' told police he received a text message from her indicating that she wanted to be cremated with her children.
+indicating
+['showing', 'signalling', 'stating', 'noting', 'suggesting', 'implying', 'marking', 'signaling', 'confirming', 'revealing', 'informing', 'requiring', 'declaring', 'signing', 'meaning', 'saying', 'demonstrating', 'proving', 'advising', 'explaining']
+Sentence 148 rankings: 
+However , the Blackpool bid organisers pledged to continue the work in getting government approval for a ` supercasino ' .
+organisers
+['planners', 'promoters', 'operators', 'developers', 'participants', 'leaders', 'committee', 'teams', 'writers', 'makers', 'owners', 'sponsors', 'authorities', 'activists', 'committees', 'winners', 'builders', 'supporters', 'managers', 'team']
+Sentence 149 rankings: 
+Libertyville, Illinois-based Motorola Mobility had said in a regulatory filing in February that only Chinese clearance was still required.
+clearance
+['approval', 'coverage', 'permission', 'passage', 'certification', 'ratification', 'authorization', 'classification', 'recognition', 'qualification', 'oversight', 'jurisdiction', 'accreditation', 'comprehension', 'documentation', 'relief', 'protection', 'separation', 'screening', 'consent']
+Sentence 150 rankings: 
+#18-12 As a result of his activity, since 1997 Adnan has been arrested reportedly around ten times, and has gone on several hunger strikes, one of which lasted 28 days, while another lasted 66 days and after his release he went on strike for another 12 days as a token of sympathy for the remaining Palestinian detainees in Israeli prisons.
+sympathy
+['solidarity', 'empathy', 'compassion', 'pity', 'support', 'gratitude', 'admiration', 'appreciation', 'concern', 'dignity', 'goodwill', 'apology', 'mercy', 'amnesty', 'affection', 'recognition', 'remorse', 'kindness', 'comfort', 'assistance']
+Sentence 151 rankings: 
+The American Federation of Musicians defines arranging as `` the art of preparing and adapting an already written composition for presentation in other than its original form .
+composition
+['creation', 'piece', 'work', 'music', 'melody', 'invention', 'conception', 'suite', 'arrangement', 'presentation', 'theme', 'application', 'passage', 'symphony', 'publication', 'calculation', 'movement', 'performance', 'collection', 'proposal']
+Sentence 152 rankings: 
+Fierce clashes between regime forces and armed rebels in central Syria Monday killed 23 Syrian soldiers and wounded dozens, a watchdog said, as the EU slapped fresh sanctions on the Damascus regime.
+sanctions
+['penalties', 'restrictions', 'provisions', 'constraints', 'demands', 'restraints', 'limitations', 'limits', 'pressures', 'measures', 'consequences', 'taxes', 'protections', 'curses', 'assaults', 'seals', 'strikes', 'impacts', 'mandates', 'challenges']
+Sentence 153 rankings: 
+A report published Wednesday by the Yonhap News Agency claims vice premier Choe Yong-gon of North Korea was executed in May.
+executed
+['beheaded', 'hanged', 'assassinated', 'killed', 'arrested', 'released', 'prosecuted', 'condemned', 'committed', 'appointed', 'murdered', 'dispatched', 'established', 'elected', 'launched', 'implemented', 'detained', 'imprisoned', 'acquitted', 'enacted']
+Sentence 154 rankings: 
+Part of the plan includes the deployment in flashpoint areas of around 300 UN military observers.
+flashpoint
+['focus', 'blast', 'the', 'tactical', 'crisis', 'these', 'such', 'ambush', 'target', 'point', 'emergency', 'fusion', 'detention', 'flicker', 'spike', 'battle', 'multiple', 'control', 'vulnerable', 'conflict']
+Sentence 155 rankings: 
+#41-14 "There was also a Syrian travel document found" police spokesman Hans Peter Doskozil told journalists "so of course our first assumption is that these people were migrants, and likely a group of Syrian migrants.
+assumption
+['inference', 'observation', 'expectation', 'impression', 'understanding', 'estimate', 'estimation', 'occupation', 'opinion', 'intention', 'attitude', 'agreement', 'suspicion', 'objective', 'induction', 'inclination', 'hypothesis', 'idea', 'explanation', 'belief']
+Sentence 156 rankings: 
+#39-14 Earlier today the company's website sported an apparent anti-immigration graphic, which has since been removed.
+apparent
+['alleged', 'obvious', 'evident', 'explicit', 'implied', 'unclear', 'evidence', 'indicated', 'allegedly', 'almost', 'important', 'acute', 'actual', 'obscure', 'offensive', 'effective', 'unidentified', 'incident', 'indication', 'absurd']
+Sentence 157 rankings: 
+Investigating officers have appealed for anyone with information about the incident to contact them.
+appealed
+['pleaded', 'looked', 'campaigned', 'rallied', 'called', 'urged', 'asked', 'cried', 'arranged', 'searched', 'motioned', 'pressed', 'declined', 'sought', 'begged', 'petitioned', 'addressed', 'allied', 'invited', 'offered']
+Sentence 158 rankings: 
+#7-7 The casualties are reported to have included children.
+casualties
+['fatalities', 'victims', 'survivors', 'deaths', 'losses', 'civilians', 'injuries', 'attendees', 'perpetrators', 'participants', 'incidents', 'outcomes', 'occupants', 'patients', 'recipients', 'attendants', 'symptoms', 'injured', 'residents', 'combatants']
+Sentence 159 rankings: 
+In April 2008 it was announced that Tallari would leave Manchester to sign for the Hockey Club Pustertal-Val Pusteria to try to qualify for the Italian national team .
+qualify
+['prepare', 'compete', 'reach', 'pass', 'fit', 'select', 'break', 'apply', 'get', 'meet', 'determine', 'participate', 'register', 'progress', 'rise', 'play', 'classify', 'run', 'mature', 'raise']
+Sentence 160 rankings: 
+The acquisition, announced last year, had already received approvals in Europe, the U.S. and other jurisdictions worldwide.
+acquisition
+['merger', 'purchase', 'investment', 'takeover', 'sale', 'absorption', 'engagement', 'amalgamation', 'ownership', 'agreement', 'transaction', 'deal', 'consolidation', 'announcement', 'integration', 'addition', 'incorporation', 'arrangement', 'transfer', 'initiative']
+Sentence 161 rankings: 
+In 1976 , the Spanish artist Agustín de la Herrán Matorras was commissioned by the religious order of the Oblates to build a 41 metres ( 135 ft ) - tall aluminum monument of a madonna , which was assembled on a high pedestal on the top of Panecillo .
+pedestal
+['podium', 'base', 'platform', 'foundation', 'plaque', 'bench', 'stool', 'massif', 'monument', 'shaft', 'framework', 'column', 'slab', 'statue', 'mount', 'superstructure', 'pole', 'trunk', 'container', 'landmark']
+Sentence 162 rankings: 
+Putin, meanwhile, officially registered on Wednesday to run for the presidency in March, but the unusually sustained protests of the past two days suggested his drive to retake the job he held from 2000-2008 may not go as smoothly as he had expected.
+sustained
+['persistent', 'prolonged', 'vigorous', 'repeated', 'renewed', 'strong', 'continued', 'significant', 'contracted', 'characterized', 'intensified', 'widespread', 'pronounced', 'conducted', 'robust', 'intensive', 'motivated', 'demonstrated', 'severe', 'accumulated']
+Sentence 163 rankings: 
+We do feel we are prevailing in this with our Afghan partners," he said.
+prevailing
+['circulating', 'reigning', 'competing', 'supreme', 'dominant', 'winning', 'ruling', 'dominating', 'voting', 'superior', 'victorious', 'standing', 'proceeding', 'succeeding', 'advancing', 'emerging', 'occurring', 'concentrating', 'consistent', 'progressing']
+Sentence 164 rankings: 
+In a telephone interview with the Times, Taliban spokesman Zabiullah Mujahid said, "As soon as the mujahedin learned about Obama's trip to Kabul we planned to conduct an operation at the heart of the city to send a message to Obama that instead of signing strategic partnerships and instead of imposing a corrupt and unpopular government over the people of Afghanistan, he should think of ways to withdraw his troops from Afghanistan."
+imposing
+['enforcing', 'placing', 'appointing', 'establishing', 'forcing', 'installing', 'introducing', 'enduring', 'governing', 'setting', 'executing', 'ordering', 'bringing', 'exercising', 'putting', 'inducing', 'ruling', 'holding', 'creating', 'mounting']
+Sentence 165 rankings: 
+#26-7 Initially, all three were considered victims, but the status of one has been changed to suspect.
+Initially
+['originally', 'previously', 'subsequently', 'generally', 'earlier', 'currently', 'although', 'additionally', 'immediately', 'ultimately', 'thereafter', 'traditionally', 'internally', 'early', 'broadly', 'however', 'briefly', 'typically', 'therefore', 'normally']
+Sentence 166 rankings: 
+An EU statement issued at a meeting of ministers said they adopted "sanctions against the Syrian regime" but gave no details.
+regime
+['government', 'state', 'system', 'rule', 'revolution', 'republic', 'situation', 'administration', 'order', 'ruler', 'empire', 'dictatorship', 'kingdom', 'tyrant', 'civilization', 'cause', 'people', 'rebellion', 'constitution', 'population']
+Sentence 167 rankings: 
+Sunday's parliamentary vote suggested Russians are tiring of Putin and his United Russia party, which has dominated all other political forces in the country for a dozen years and earned a reputation for corruption.
+dominated
+['controlled', 'overshadowed', 'ruled', 'conquered', 'ousted', 'manipulated', 'topped', 'led', 'blocked', 'influenced', 'cornered', 'piloted', 'played', 'destroyed', 'challenged', 'driven', 'held', 'faced', 'overwhelmed', 'gripped']
+Sentence 168 rankings: 
+#9-28 Reuters reported Alexandre de Moraes, minister of the Justice Department, recently authorized the state of Rio Grande do Norte to spend 13 million Brazilian reals to upgrade and expand prison equipment.
+authorized
+['instructed', 'allowed', 'permitted', 'ordered', 'approved', 'empowered', 'enabled', 'directed', 'initiated', 'requested', 'asked', 'endowed', 'commissioned', 'informed', 'appointed', 'invited', 'advised', 'funded', 'encouraged', 'enrolled']
+Sentence 169 rankings: 
+Israel's foreign ministry said Levanon is slated to retire shortly and that this visit is merely a farewell for him.
+slated
+['scheduled', 'destined', 'targeted', 'expected', 'pinned', 'contracted', 'projected', 'designated', 'customary', 'positioned', 'intended', 'standardized', 'deemed', 'pursuant', 'lined', 'geared', 'terminal', 'accredited', 'configured', 'due']
+Sentence 170 rankings: 
+#2-15 President Muhammadu Buhari said he was saddened by "this regrettable operational mistake" and sought calm.
+regrettable
+['fatal', 'tragic', 'significant', 'notable', 'noticeable', 'unfortunate', 'sorry', 'sad', 'profound', 'severe', 'blamed', 'memorable', 'notorious', 'serious', 'responsible', 'decided', 'costly', 'cumulative', 'dreadful', 'devastating']
+Sentence 171 rankings: 
+He said most of the village's residents had fled and regime forces were setting fire to houses and looting shops.
+regime
+['government', 'security', 'revolution', 'state', 'rebel', 'the', 'commune', 'administration', 'rule', 'army', 'rebellion', 'party', 'police', 'coup', 'republic', 'resistance', 'authority', 'revolutionary', 'taliban', 'power']
+Sentence 172 rankings: 
+The demonstrations on Monday and Tuesday were an unusually sustained show of support for the Russian opposition.
+demonstrations
+['protests', 'rallies', 'gatherings', 'movements', 'activities', 'cheers', 'meetings', 'disturbances', 'marches', 'protesters', 'events', 'parades', 'advertisements', 'crowds', 'prayers', 'walks', 'newspapers', 'actions', 'arrests', 'stands']
+Sentence 173 rankings: 
+#12-2 The unidentified man has been summonsed to appear at Maidstone Magistrates' Court on February 17.
+summonsed
+['requested', 'compelled', 'called', 'directed', 'scheduled', 'petitioned', 'filed', 'invited', 'required', 'declined', 'drawn', 'driven', 'bound', 'ordered', 'challenged', 'designated', 'urged', 'sought', 'recalled', 'cited']
+Sentence 174 rankings: 
+Anti-Israeli sentiment, muted before President Hosni Mubarak was overthrown in February, has become more vocal.
+sentiment
+['feeling', 'attitude', 'tendency', 'resentment', 'opinion', 'resistance', 'thought', 'behavior', 'suspicion', 'mood', 'policy', 'agitation', 'reaction', 'feelings', 'controversy', 'prejudice', 'desire', 'emotion', 'content', 'criticism']
+Sentence 175 rankings: 
+The Philippine government says its navy tried to detain Chinese fishermen but was prevented by the Chinese surveillance craft.
+surveillance
+['monitoring', 'observation', 'security', 'patrol', 'reconnaissance', 'interception', 'spy', 'pursuit', 'spying', 'search', 'monitor', 'espionage', 'safety', 'tracking', 'tracker', 'protection', 'screening', 'stealth', 'intelligence', 'secrecy']
+Sentence 176 rankings: 
+Prime Minister Vladimir Putin's United Russia party won less than 50 percent of Sunday's vote, a steep fall from its earlier two-thirds majority, according to preliminary results.
+preliminary
+['final', 'provisional', 'formal', 'primary', 'partial', 'consolidated', 'detailed', 'official', 'revised', 'tentative', 'initial', 'parliamentary', 'public', 'advanced', 'modified', 'early', 'secondary', 'basic', 'party', 'prior']
+Sentence 177 rankings: 
+In addition to its dominant search engine, it offers a plethora of online tools and platforms including: Gmail, Maps, YouTube, and Google+, the company's extension into the social space.
+plethora
+['variety', 'pl', 'multitude', 'range', 'diversity', 'list', 'number', 'choice', 'mesh', 'pan', 'blend', 'parade', 'portfolio', 'raft', 'web', 'array', 'cloud', 'myriad', 'collection', 'catalog']
+Sentence 178 rankings: 
+Ben-Dor said that Levanon's recently named successor, Ya'akov Amitai, would leave for Cairo "as soon as proper security arrangements" are agreed upon and implemented.
+implemented
+['executed', 'enacted', 'initiated', 'accomplished', 'achieved', 'installed', 'applied', 'delivered', 'employed', 'established', 'performed', 'adopted', 'outlined', 'completed', 'received', 'dispatched', 'undertaken', 'conducted', 'instituted', 'invested']
+Sentence 179 rankings: 
+Under the terms of the Gambling Act the Secretary of State is able to define each type of casino , with reference to any matter he or she chooses ; although the act specifically mentions as facts to consider the number , location and concentration of gaming tables , and the floor area designated for a specific purpose .
+concentration
+['location', 'distribution', 'number', 'circulation', 'density', 'position', 'focus', 'presence', 'collection', 'cluster', 'volume', 'intensity', 'majority', 'composition', 'abundance', 'direction', 'classification', 'division', 'placement', 'quantity']
+Sentence 180 rankings: 
+#36-15 The topic had been controversial: while some supported it for safety reasons, others opposed it because of history, possibly affecting the aerodynamics of the car, limiting one's peripheral vision and movement inside the car, and worry about escaping an upside-down or burning car.
+controversial
+['problematic', 'popular', 'disputed', 'debated', 'unpopular', 'politically', 'influential', 'critical', 'questionable', 'prominent', 'difficult', 'passionate', 'significant', 'political', 'criticized', 'provocative', 'subjective', 'notable', 'varied', 'questioned']
+Sentence 181 rankings: 
+Google on Saturday said that Chinese regulators approved its $12.5 billion deal to buy Motorola Mobility, clearing the path for the Internet titan to complete the acquisition early next week.
+acquisition
+['purchase', 'merger', 'investment', 'transaction', 'sale', 'conquest', 'deal', 'takeover', 'unification', 'loss', 'transfer', 'modernization', 'announcement', 'change', 'conversion', 'absorption', 'piece', 'integration', 'discovery', 'replacement']
+Sentence 182 rankings: 
+President Barack Obama made a surprise visit on Tuesday to Afghanistan, where he will sign an agreement outlining the U.S.' role in the country as the decade-long war there winds down.
+outlining
+['explaining', 'detailing', 'stating', 'emphasizing', 'offering', 'expanding', 'describing', 'indicating', 'ending', 'discussing', 'on', 'highlighting', 'establishing', 'showing', 'announcing', 'declaring', 'about', 'organizing', 'extending', 'encompassing']
+Sentence 183 rankings: 
+#26-15 Västerås is in central Sweden, approximately 115 km (70 miles) west from the capital Stockholm.
+approximately
+['about', 'almost', 'around', 'initially', 'extremely', 'adjacent', 'over', 'ultimately', 'roughly', 'exactly', 'within', 'located', 'immediately', 'currently', 'exceeding', 'essentially', 'entirely', 'estimated', 'additionally', 'upon']
+Sentence 184 rankings: 
+It is the tallest building in California , the tenth tallest in the United States , the tallest west of the Mississippi River , and the 56th tallest building in the world , by pinnacle height .
+pinnacle
+['spire', 'peak', 'loft', 'sheer', 'silhouette', 'total', 'maximum', 'tower', 'crest', 'substantive', 'nominal', 'walkway', 'summit', 'lighthouse', 'skyscraper', 'apex', 'ladder', 'structural', 'keystone', 'deposition']
+Sentence 185 rankings: 
+Syrian authorities say more than 2,500 members of the security forces have been killed since the uprising began in March last year.
+uprising
+['unrest', 'revolution', 'rebellion', 'revolt', 'insurgency', 'outbreak', 'movement', 'exodus', 'assembly', 'insurrection', 'awakening', 'election', 'enclave', 'regime', 'invasion', 'spring', 'expedition', 'evacuation', 'attack', 'terror']
+Sentence 186 rankings: 
+Most of Shakespeare 's comedies include instances of overt cross-dressing , such as Francis Flute in A Midsummer Night 's Dream .
+overt
+['explicit', 'extensive', 'extreme', 'excessive', 'implied', 'exaggerated', 'intense', 'actual', 'obvious', 'heavy', 'apparent', 'external', 'extended', 'active', 'explicitly', 'intentional', 'extravagant', 'official', 'animal', 'alleged']
+Sentence 187 rankings: 
+The Russian Union of Journalists condemned police violence and called for a probe into the dozens of attacks and arrests of journalists, describing them as "an attempt to gag and intimidate society."
+probe
+['look', 'investigate', 'search', 'spill', 'scrutiny', 'investigation', 'review', 'poke', 'peek', 'survey', 'poll', 'spotlight', 'query', 'glimpse', 'inquiry', 'research', 'dive', 'commission', 'plunge', 'check']
+Sentence 188 rankings: 
+PRESIDENT Barack Obama, speaking to a US television audience  from Bagram Air Base, said he had travelled there to herald a new era in the relationship between the US and Afghanistan, ''a future in which war ends, and a new chapter begins''.
+herald
+['sign', 'celebrate', 'promote', 'commemorate', 'announce', 'seal', 'document', 'welcome', 'headline', 'demonstrate', 'signal', 'predict', 'wake', 'mark', 'bring', 'declare', 'denote', 'warn', 'greet', 'usher']
+Sentence 189 rankings: 
+In the ancient Greece and Rome and the medieval world , it was considered disgraceful for a woman to go on the stage , and this belief persisted until the 17th century , when in Venice it was broken .
+disgraceful
+['unacceptable', 'harmful', 'inappropriate', 'desirable', 'hazardous', 'terrible', 'hideous', 'improper', 'painful', 'humiliating', 'appropriate', 'acceptable', 'difficult', 'awful', 'horrible', 'unsafe', 'unsuitable', 'necessary', 'ridiculous', 'wrong']
+Sentence 190 rankings: 
+The text was ominous that said she wanted to be cremated with her children.
+ominous
+['menacing', 'urgent', 'sinister', 'bulky', 'terrifying', 'threatening', 'cryptic', 'creepy', 'atmospheric', 'one', 'unpleasant', 'apocalyptic', 'mysterious', 'dire', 'horrific', 'intimidating', 'intriguing', 'vague', 'uncertain', 'shadowy']
+Sentence 191 rankings: 
+The text is an indication that it was premeditated, Goodyear said.
+indication
+['evidence', 'implication', 'assessment', 'identification', 'endorsement', 'announcement', 'expression', 'impression', 'example', 'explanation', 'illustration', 'appearance', 'inference', 'estimate', 'abbreviation', 'assurance', 'adaptation', 'argument', 'assertion', 'injury']
+Sentence 192 rankings: 
+#2-4 The BBC estimates at least 52 dead, while one Borno State official is attributed by AP as saying over 100 are dead.
+attributed
+['accredited', 'credited', 'identified', 'assigned', 'accused', 'ascribed', 'quoted', 'cited', 'alleged', 'estimated', 'implicated', 'associated', 'acknowledged', 'referred', 'blamed', 'affiliated', 'issued', 'reported', 'acclaimed', 'linked']
+Sentence 193 rankings: 
+#37-1 Guatemalan Supreme Court approves impeachment of President Molina Yesterday in Guatemala, the Supreme Court approved the attorney general's request to impeach President Otto Pérez Molina.
+impeachment
+['arrest', 'resignation', 'indictment', 'investigation', 'conviction', 'suspension', 'removal', 'assassination', 'trial', 'execution', 'deposition', 'pardon', 'election', 'detention', 'nomination', 'dismissal', 'appointment', 'sentence', 'downfall', 'prosecution']
+Sentence 194 rankings: 
+He has denied charges of genocide, murder acts of terror and other crimes against humanity.The most infamous of the charges accuses Mladic of overseeing the massacre  of 8 thousand Muslim boys and men in Srebrenica in Eastern Bosnia in 1995.
+infamous
+['notorious', 'famous', 'iconic', 'important', 'illustrious', 'amusing', 'alleged', 'eponymous', 'unpopular', 'obscene', 'ancient', 'outrageous', 'eminent', 'oppressive', 'dubious', 'absurd', 'incredible', 'insulting', 'aristocratic', 'famed']
+Sentence 195 rankings: 
+Ex-Soviet leader Mikhail Gorbachev says Russian authorities must annul the parliamentary vote results and hold a new election.
+annul
+['cancel', 'void', 'change', 'end', 'alter', 'dissolve', 'appeal', 'reverse', 'invalid', 'stop', 'abandon', 'reject', 'fix', 'ignore', 'collapse', 'review', 'investigate', 'outlaw', 'null', 'recognise']
+Sentence 196 rankings: 
+The Art Nouveau style however , was one that Mucha attempted to disassociate himself from throughout his life ; he always insisted that rather than maintaining any fashionable stylistic form , his paintings were entirely a product of himself and Czech art .
+disassociate
+['separate', 'remove', 'depart', 'define', 'flee', 'recover', 'isolate', 'pull', 'exclude', 'free', 'destroy', 'differentiate', 'clear', 'deny', 'portray', 'break', 'leave', 'release', 'retreat', 'recoil']
+Sentence 197 rankings: 
+#29-7 For 2016, Martin does not harbor high expectations of electoral success, though he hopes to receive an invitation to the debates.
+electoral
+['legislative', 'political', 'presidential', 'democratic', 'gubernatorial', 'congressional', 'educational', 'academic', 'his', 'reelection', 'agricultural', 'parliamentary', 'military', 'executive', 'national', 'the', 'voter', 'federal', 'office', 'economic']
+Sentence 198 rankings: 
+Their strongest emissions are in the infrared ( IR ) spectrum , and ground-based IR detectors were too imprecise at that time to readily identify any brown dwarfs .
+emissions
+['observations', 'effects', 'outputs', 'gases', 'broadcasts', 'contributions', 'sources', 'output', 'spectra', 'entries', 'predictions', 'episodes', 'ions', 'events', 'energies', 'signals', 'alarms', 'elements', 'activities', 'aspects']
+Sentence 199 rankings: 
+#40-9 However, they want their community to be given the status of Other Backward Class, which would result in eligibility for reserved jobs.
+eligibility
+['availability', 'access', 'qualification', 'allowance', 'exemption', 'allocation', 'engagement', 'enrollment', 'endorsement', 'coverage', 'application', 'acceptance', 'clearance', 'integration', 'authorization', 'opportunity', 'accommodation', 'employment', 'exclusion', 'funding']
+Sentence 200 rankings: 
+Nine people were reportedly killed in the bombardment.
+bombardment
+['blast', 'contamination', 'barrage', 'holocaust', 'siege', 'blasts', 'battle', 'mayhem', 'tempest', 'construction', 'takeoff', 'pursuit', 'assault', 'occupation', 'separation', 'attack', 'explosion', 'interrogation', 'gunfire', 'destruction']
+Sentence 201 rankings: 
+Bankia, in which the state is taking a 45-per cent stake as a crisis measure to save it from crippling bad loans, had 37.5bn euros in exposure to the property sector at the end of 2011.
+crippling
+['crushing', 'paying', 'severe', 'mounting', 'taking', 'catastrophic', 'weakening', 'suffering', 'collapsing', 'cooling', 'losing', 'breaking', 'sinking', 'damaging', 'serious', 'destroying', 'devastating', 'blowing', 'challenging', 'major']
+Sentence 202 rankings: 
+A cease-fire that was supposed to begin on April 12 has had only a limited effect, throwing into doubt the rest of the plan that calls for talks between Assad's regime and those seeking to end his rule.
+regime
+['government', 'rule', 'administration', 'dictatorship', 'family', 'empire', 'order', 'dynasty', 'republic', 'party', 'leadership', 'people', 'authority', 'state', 'group', 'reign', 'era', 'cabinet', 'revolution', 'sultan']
+Sentence 203 rankings: 
+#21-15 Eventually, F1 mandated the use of the "virtual safety car", which requires drivers to enter the pit lane at slower speeds instead of proceeding around the track.
+mandated
+['dictated', 'required', 'permitted', 'instituted', 'compelled', 'demanded', 'commissioned', 'prompted', 'forced', 'requested', 'began', 'necessitated', 'specified', 'decreed', 'prescribed', 'enforced', 'featured', 'implemented', 'supported', 'sponsored']
+Sentence 204 rankings: 
+#6-3 Artist's rendition of Manning as she views herself.
+rendition
+['portrayal', 'conception', 'depiction', 'recreation', 'reproduction', 'draft', 'participation', 'representation', 'transcription', 'formulation', 'portion', 'performance', 'version', 'characterization', 'concept', 'interpretation', 'session', 'composition', 'incarnation', 'composite']
+Sentence 205 rankings: 
+Tensions stemming from the 14-month-old uprising against President Bashar Assad also touched off clashes across the border in Lebanon as the revolt threatened to morph into a broader conflict.
+morph
+['turn', 'transform', 'develop', 'mesh', 'grow', 'fragment', 'change', 'convert', 'shift', 'evolve', 'manifest', 'merge', 'feed', 'spawn', 'blend', 'form', 'shape', 'slide', 'mold', 'transformation']
+Sentence 206 rankings: 
+The official spoke on condition of anonymity because he was not authorized to speak to the press.
+authorized
+['allowed', 'permitted', 'eligible', 'empowered', 'approved', 'licensed', 'entitled', 'unauthorized', 'able', 'forbidden', 'available', 'designated', 'experienced', 'appointed', 'elected', 'permission', 'initiated', 'equipped', 'funded', 'intended']
+Sentence 207 rankings: 
+#42-22 After a while I needed to start thinking about an internship for my M.Sc.
+internship
+['apprenticeship', 'apprentice', 'endowment', 'endorsement', 'opportunity', 'application', 'overhaul', 'appointment', 'allocation', 'employment', 'assignment', 'attraction', 'orientation', 'orphanage', 'audition', 'advancement', 'illustration', 'angle', 'advertisement', 'assistant']
+Sentence 208 rankings: 
+#28-18 Once again, a tragedy has struck…our city.
+tragedy
+['disaster', 'catastrophe', 'horror', 'sadness', 'famine', 'sorrow', 'massacre', 'terror', 'miracle', 'crisis', 'curse', 'destiny', 'dagger', 'crime', 'beauty', 'terrible', 'blessing', 'darkness', 'danger', 'disasters']
+Sentence 209 rankings: 
+#27-9 South Korea's Ministry of Unification told both Reuters and BBC it was monitoring the situation but Choe has not been seen publicly since December.
+monitoring
+['watching', 'tracking', 'observing', 'reporting', 'filming', 'surveying', 'recording', 'patrolling', 'documenting', 'reviewing', 'checking', 'measuring', 'viewing', 'logging', 'planning', 'catching', 'studying', 'covering', 'learning', 'mapping']
+Sentence 210 rankings: 
+Spanish bank restructuring is a moving target: the deeper the economic downturn, the greater the uncertainty about the size of the sector's provisioning needs.
+provisioning
+['servicing', 'funding', 'financing', 'catering', 'delivery', 'service', 'financial', 'operating', 'supply', 'infrastructure', 'contracting', 'supplying', 'accommodation', 'equipment', 'training', 'serving', 'trading', 'payment', 'distribution', 'replacement']
+Sentence 211 rankings: 
+Although Sunday's election results signal Putin's return to the presidency in next March's poll may not be as easy as he expected, he has downplayed the reduced majority.
+downplayed
+['exaggerated', 'dismissed', 'disguised', 'hidden', 'concealed', 'reduced', 'acknowledged', 'ignored', 'lowered', 'diminished', 'emphasized', 'mentioned', 'covered', 'highlighted', 'denied', 'attributed', 'criticized', 'explained', 'conceded', 'obscured']
+Sentence 212 rankings: 
+The family have asked me to appeal to the media for privacy as they seek to come to terms with this tragedy in the coming days.
+tragedy
+['disaster', 'horror', 'loss', 'victim', 'catastrophe', 'sadness', 'massacre', 'destiny', 'crisis', 'disease', 'gift', 'history', 'revelation', 'grief', 'event', 'nightmare', 'discovery', 'news', 'pain', 'heritage']
+Sentence 213 rankings: 
+Putin was expected to formally register on Wednesday to run for president, a position he held from 2000-2008, a period in which he grew more authoritarian.
+authoritarian
+['oppressive', 'ruthless', 'violent', 'severe', 'imposing', 'unpopular', 'influential', 'abusive', 'arrogant', 'erratic', 'rigid', 'strict', 'eccentric', 'sovereign', 'regime', 'restrictive', 'aggressive', 'brutal', 'dominant', 'turbulent']
+Sentence 214 rankings: 
+#30-18 The part of the law which prohibits "the unauthorized use of images of police officers that might jeopardize their or their family's safety" is cited as the reason for the fine, however, police spokesperson Fernando Portillo said it was up to police officers involved and under the new law they could do this.
+prohibits
+['prevents', 'permits', 'blocks', 'regulates', 'surrounds', 'addresses', 'forbade', 'removes', 'allows', 'supports', 'controls', 'decrees', 'destroys', 'translates', 'licenses', 'outlaws', 'opposes', 'enables', 'encourages', 'describes']
+Sentence 215 rankings: 
+We do feel we are prevailing in this with our Afghan partners, he said.
+prevailing
+['circulating', 'reigning', 'dominating', 'ruling', 'dominant', 'voting', 'competing', 'commanding', 'winning', 'concentrating', 'supreme', 'occurring', 'superior', 'contrary', 'favorable', 'settling', 'campaigning', 'standing', 'agreeing', 'deteriorating']
+Sentence 216 rankings: 
+The agreement was long sought by the U.S.-backed government of Afghan President Hamid Karzai, the perpetually skittish leader who has publicly voiced fears of what would befall his country if the United States quickly packed up and left.
+skittish
+['silent', 'anxious', 'quiet', 'paranoid', 'nervous', 'shaky', 'unpredictable', 'severe', 'impatient', 'troubled', 'uncertain', 'stubborn', 'passive', 'defiant', 'restless', 'frozen', 'stable', 'confused', 'paralyzed', 'skeptical']
+Sentence 217 rankings: 
+Earlier this year, the government had obliged Spanish banks to find 54 billion euros of extra capital to shield against bad loans.
+obliged
+['forced', 'compelled', 'rendered', 'contracted', 'furnished', 'tasked', 'instructed', 'undertaken', 'authorised', 'enabled', 'required', 'permitted', 'commanded', 'asked', 'constrained', 'mandated', 'consulted', 'encouraged', 'decreed', 'ordered']
+Sentence 218 rankings: 
+Regime forces launched an offensive on Rastan at the weekend but met with sharp resistance from rebels seeking the ouster of the regime of President Bashar al-Assad.
+ouster
+['overthrow', 'removal', 'regime', 'replacement', 'end', 'downfall', 'fall', 'return', 'establishment', 'dismissal', 'change', 'resignation', 'restoration', 'departure', 'collapse', 'ruin', 'abolition', 'ou', 'expulsion', 'replace']
+Sentence 219 rankings: 
+In April 2003 , Apple brought mainstream attention to AAC by announcing that its iTunes and iPod products would support songs in MPEG-4 AAC format ( via a firmware update for older iPods ) .
+mainstream
+['widespread', 'mass', 'popular', 'public', 'wider', 'press', 'media', 'direct', 'contemporary', 'societal', 'broad', 'moderate', 'significant', 'general', 'serious', 'heavy', 'major', 'conventional', 'social', 'broader']
+Sentence 220 rankings: 
+Police are appealing for information about anyone seen acting suspiciously lately at Bidston Hill, Bidston, to come forward.
+appealing
+['pleading', 'asking', 'advertising', 'campaigning', 'looking', 'pressing', 'seeking', 'inviting', 'calling', 'lobbying', 'exploring', 'searching', 'issuing', 'aspiring', 'urging', 'raising', 'eager', 'emerging', 'declining', 'begging']
+Sentence 221 rankings: 
+That prompted the Chinese surveillance ships to insert themselves into the situation.
+surveillance
+['observation', 'patrol', 'reconnaissance', 'monitoring', 'security', 'intelligence', 'spy', 'monitor', 'interception', 'pursuit', 'search', 'screening', 'swat', 'stealth', 'invasion', 'spying', 'espionage', 'escort', 'exploration', 'service']
+Sentence 222 rankings: 
+#9-18 PCC and Comando Vermelho cooperated on drug trade from mid-1990s to reportedly summer 2016.
+cooperated
+['collaborated', 'participated', 'worked', 'assisted', 'partnered', 'agreed', 'competed', 'corresponded', 'helped', 'operated', 'consulted', 'collaborators', 'appeared', 'combined', 'collaborative', 'joined', 'existed', 'teamed', 'involved', 'aided']
+Sentence 223 rankings: 
+A Florida mother who fatally shot her four children before killing herself Tuesday called three of the kids who had sought help from a neighbor back to the house before firing the fatal shots, authorities said.
+sought
+['received', 'seek', 'seeking', 'requested', 'found', 'obtained', 'pursued', 'gained', 'seeks', 'derived', 'provided', 'gathered', 'fled', 'considered', 'brought', 'wanted', 'feared', 'asked', 'garnered', 'drawn']
+Sentence 224 rankings: 
+#24-13 According to the resort's manager Mr. Naseem, the bigger pieces of debris and other waste were taken away and disposed of in the usual way.
+debris
+['rubble', 'wreckage', 'junk', 'dust', 'garbage', 'litter', 'rubbish', 'trash', 'crap', 'gravel', 'dirt', 'fragment', 'rock', 'waste', 'equipment', 'glass', 'destruction', 'hopper', 'noise', 'fragmentation']
+Sentence 225 rankings: 
+In the latest effort to isolate Syria internationally, European Union foreign ministers agreed fresh sanctions against the country on Monday, the 15th round so far to protest against the repression of dissidents.
+sanctions
+['measures', 'restrictions', 'penalties', 'provisions', 'limitations', 'strikes', 'regulations', 'conditions', 'taxes', 'constraints', 'limits', 'pressures', 'tariffs', 'standards', 'punishments', 'restraints', 'challenges', 'guidelines', 'demands', 'resolutions']
+Sentence 226 rankings: 
+In announcing the Motorola Mobility acquisition in August, Google chief executive Larry Page said it will "enable us to better protect Android from anti-competitive threats from Microsoft, Apple and other companies."
+acquisition
+['merger', 'takeover', 'purchase', 'deal', 'engagement', 'sale', 'investment', 'absorption', 'administration', 'amalgamation', 'announcement', 'ownership', 'estate', 'agreement', 'procurement', 'transaction', 'alliance', 'loss', 'consolidation', 'interception']
+Sentence 227 rankings: 
+The agreement pledges ongoing U.S. support for Afghanistan after 88,000 U.S. combat forces leave.
+pledges
+['promises', 'guarantees', 'vows', 'commits', 'declares', 'establishes', 'promotes', 'outlines', 'maintains', 'proposes', 'contracts', 'commitments', 'asserts', 'provides', 'bonds', 'mentions', 'states', 'mandates', 'acknowledges', 'implies']
+Sentence 228 rankings: 
+#24-8 That prompted authorities to launch an investigation into the debris, but before it could be examined, it had already been sent away for disposal.
+debris
+['wreckage', 'fragment', 'rubble', 'dust', 'artifact', 'junk', 'object', 'evidence', 'cargo', 'data', 'destruction', 'accident', 'fragments', 'wreck', 'material', 'garbage', 'crash', 'catastrophe', 'activity', 'hazard']
+Sentence 229 rankings: 
+#41-6 Roadworkers became suspicious of dark liquid seeping from the vehicle, and responding police found the bodies.
+suspicious
+['nervous', 'curious', 'dubious', 'paranoid', 'concerned', 'worried', 'questioning', 'tired', 'convinced', 'wary', 'conscious', 'jealous', 'uncertain', 'certain', 'cautious', 'puzzled', 'alerted', 'accusing', 'criminal', 'questioned']
+Sentence 230 rankings: 
+#21-18 Upon the news of his death, many drivers sent their condolences through social media.
+condolences
+['regrets', 'apologies', 'thanks', 'prayers', 'sentiments', 'blessings', 'messages', 'thoughts', 'sympathy', 'comments', 'support', 'grief', 'feelings', 'donations', 'statements', 'regards', 'reservations', 'updates', 'hearts', 'hopes']
+Sentence 231 rankings: 
+#37-1 Guatemalan Supreme Court approves impeachment of President Molina Yesterday in Guatemala, the Supreme Court approved the attorney general's request to impeach President Otto Pérez Molina.
+impeach
+['arrest', 'accuse', 'investigate', 'convict', 'suspend', 'pardon', 'execute', 'assassinate', 'crown', 'overthrow', 'stop', 'punish', 'dismiss', 'elect', 'interview', 'remove', 'audit', 'approve', 'challenge', 'appoint']
+Sentence 232 rankings: 
+But Crocker said there would be no repeat of the 1990s when a withdrawal of Western backers in the wake of the Soviet withdrawal unleashed a vicious civil war out of which the Taliban and al Qaeda support bases arose.
+unleashed
+['spurred', 'triggered', 'enraged', 'ignited', 'released', 'wrought', 'erupted', 'enacted', 'discharged', 'awakened', 'fueled', 'inaugurated', 'bestowed', 'infused', 'inflicted', 'seeded', 'provoked', 'embarked', 'inspired', 'informed']
+Sentence 233 rankings: 
+#21-10 Bianchi, the 2007 French Formula Renault and 2009 Formula 3 Euro Series champion, was the inaugural member of the Ferrari Driver Academy.
+inaugural
+['initial', 'first', 'original', 'induction', 'earliest', 'eponymous', 'opening', 'pioneer', 'founding', 'onset', '18th', 'eighteenth', 'innovative', 'annual', 'introductory', 'pioneering', 'experimental', 'establishment', 'eventual', 'only']
+Sentence 234 rankings: 
+It has been an ongoing problem on our street with them, Hudson said.
+ongoing
+['emerging', 'enduring', 'evolving', 'continuing', 'increasing', 'outstanding', 'active', 'ending', 'existing', 'operating', 'airing', 'additional', 'initial', 'unfinished', 'upcoming', 'intensive', 'expanding', 'underlying', 'entire', 'annual']
+Sentence 235 rankings: 
+Many Egyptians view Israel, which signed a peace treaty with Egypt in 1979 after four wars between the two countries, with hostility.
+hostility
+['hatred', 'malice', 'jealousy', 'suspicion', 'skepticism', 'displeasure', 'resentment', 'tolerance', 'indifference', 'aggression', 'brutality', 'homosexuality', 'resistance', 'betrayal', 'criticism', 'kindness', 'violence', 'disdain', 'cruelty', 'fury']
+Sentence 236 rankings: 
+In the latest Washington Post-ABC News poll, two-thirds of Americans said they think the decade-long battle there has not been worth the costs it has incurred; nearly half the country feels strongly that way.
+incurred
+['accumulated', 'inflicted', 'sustained', 'borne', 'imposed', 'instituted', 'wrought', 'garnered', 'attained', 'earned', 'committed', 'acquired', 'amassed', 'caused', 'undergone', 'suffered', 'experienced', 'undertaken', 'conferred', 'generated']
+Sentence 237 rankings: 
+#9-7 It continued until the security forces quelled the riot on Sunday at around 7:15 a.m..
+quelled
+['suppressed', 'contained', 'silenced', 'crushed', 'resolved', 'stifled', 'ended', 'reversed', 'subsided', 'stopped', 'halted', 'dissolved', 'defeated', 'conquered', 'quiet', 'overcame', 'eased', 'cleared', 'prevented', 'suppress']
+Sentence 238 rankings: 
+Hundreds were beaten and detained.
+detained
+['incarcerated', 'imprisoned', 'seized', 'interned', 'arrested', 'displayed', 'interred', 'displaced', 'jailed', 'captured', 'restrained', 'held', 'punished', 'lodged', 'transported', 'convicted', 'suspended', 'confined', 'hung', 'placed']
+Sentence 239 rankings: 
+#31-7 Military authorities said Muslim insurgents from the country's southern provinces are unlikely to be behind the attack.
+insurgents
+['militants', 'rebels', 'elements', 'invaders', 'terrorists', 'fighters', 'revolutionaries', 'remnants', 'factions', 'activists', 'attacks', 'mercenaries', 'guerrillas', 'enthusiasts', 'taliban', 'attackers', 'individuals', 'activities', 'radicals', 'militias']
+Sentence 240 rankings: 
+Alfons Maria Mucha ( Czech pronunciation : ( ˈalfons ˈmuxa ) ( listen ) ; 24 July 1860 - 14 July 1939 ) , known in English as Alphonse Mucha , was a Czech Art Nouveau painter and decorative artist , known best for his distinct style .
+distinct
+['unique', 'recognizable', 'diverse', 'differentiated', 'different', 'characteristic', 'masculine', 'prominent', 'single', 'separate', 'signature', 'derived', 'differing', 'individual', 'contrasting', 'unified', 'determined', 'specific', 'memorable', 'own']
+Sentence 241 rankings: 
+A lieutenant who had defected was also killed in the clashes.
+defected
+['deserted', 'fled', 'surrendered', 'resigned', 'flown', 'leaped', 'escaped', 'emigrated', 'volunteered', 'shifted', 'jumped', 'returned', 'quit', 'transferred', 'leaked', 'betrayed', 'landed', 'evacuated', 'translated', 'migrated']
+Sentence 242 rankings: 
+Her 21-year-old sister remains critically ill in hospital.
+critically
+['seriously', 'gravely', 'severely', 'deeply', 'fatally', 'mortally', 'highly', 'dangerously', 'greatly', 'incredibly', 'permanently', 'extremely', 'closely', 'significantly', 'similarly', 'physically', 'badly', 'sadly', 'potentially', 'horribly']
+Sentence 243 rankings: 
+#9-4 Prison authorities said that some victims were decapitated.
+authorities
+['officials', 'administrations', 'officers', 'administrators', 'personnel', 'facilities', 'investigators', 'forces', 'supervisors', 'commanders', 'police', 'survivors', 'administration', 'subjects', 'troops', 'guards', 'workers', 'owners', 'operators', 'people']
+Sentence 244 rankings: 
+Street battles pitting Lebanese Sunnis — who generally support the Syrian uprising — against Alawite supporters of Assad's regime killed one person Monday, raising the death toll to four since Sunday.
+regime
+['government', 'rule', 'dictatorship', 'administration', 'revolution', 'reign', 'order', 'dynasty', 'empire', 'state', 'monarchy', 'security', 'ruler', 'presidency', 'republic', 'schedule', 'cause', 'system', 'coup', 'authority']
+Sentence 245 rankings: 
+The pact envisions wide-ranging U.S. involvement in Afghan economic and security affairs for a decade, if only as an adviser or underwriter.
+envisions
+['proposes', 'involves', 'implies', 'outlines', 'suggests', 'plans', 'covers', 'offers', 'promises', 'includes', 'supports', 'depicts', 'assumes', 'models', 'creates', 'illustrates', 'discusses', 'addresses', 'estimates', 'describes']
+Sentence 246 rankings: 
+#2-3 The lowest estimate from Médecins Sans Frontières (MSF) is of 50 dead.
+estimate
+['risk', 'account', 'elevation', 'average', 'guess', 'expect', 'amount', 'observation', 'count', 'entry', 'level', 'claim', 'incidence', 'assessment', 'expectation', 'note', 'interval', 'attempt', 'approximation', 'report']
+Sentence 247 rankings: 
+Playing down the significance of Yitzhak Levanon's trip, the official, who asked not to be identified, said the ambassador went to Egypt on Saturday for farewell meetings with foreign and Egyptian diplomats before his retirement.
+significance
+['importance', 'value', 'symbolism', 'meaning', 'scale', 'prominence', 'relevance', 'impact', 'utility', 'complexity', 'consequence', 'emphasis', 'irony', 'history', 'magnitude', 'status', 'implications', 'prestige', 'responsibility', 'notoriety']
+Sentence 248 rankings: 
+#2-17 The Red Cross said it has staff and facilities ready in neighbouring Cameroon and Chad to assist.
+neighbouring
+['surrounding', 'both', 'adjoining', 'nearby', 'flanking', 'intervening', 'rival', 'supporting', 'contrasting', 'opposing', 'sponsoring', 'visiting', 'invading', 'merging', 'reigning', 'reassuring', 'approaching', 'participating', 'bordering', 'attending']
+Sentence 249 rankings: 
+Even after the U.S. combat mission is concluded in 2014, it is likely that thousands of U.S. troops will remain for some years to conduct counterterrorism strikes and otherwise train and advise Afghan forces, and help the Afghans collect and exploit intelligence on insurgents and other military targets.
+insurgents
+['militants', 'terrorists', 'taliban', 'rebels', 'isis', 'attackers', 'attacks', 'ins', 'fighters', 'invaders', 'elements', 'remnants', 'enemies', 'operators', 'revolutionaries', 'guerrillas', 'communists', 'civilians', 'mercenaries', 'afghanistan']
+Sentence 250 rankings: 
+#6-16 Manning is among more than 1,500 individuals whom President Obama has granted clemency during his tenure.
+clemency
+['parole', 'pardon', 'amnesty', 'freedom', 'detention', 'asylum', 'protection', 'mercy', 'closure', 'citizenship', 'relief', 'justice', 'assistance', 'tenure', 'sanctuary', 'redemption', 'commendation', 'counsel', 'consideration', 'permission']
+Sentence 251 rankings: 
+Brevard County Sheriff's deputies say Tanya Thomas shot and killed her four children who ranged in age from 12 to 17 A Florida mother who fatally shot her four children before killing herself Tuesday called three of the kids who had sought help from a neighbor back to the house before firing the fatal shots, authorities said.
+authorities
+['officials', 'investigators', 'agencies', 'officers', 'police', 'experts', 'administrators', 'administrations', 'issues', 'events', 'administration', 'they', 'investigations', 'agents', 'operators', 'owners', 'activities', 'individuals', 'citizens', 'prosecutors']
+Sentence 252 rankings: 
+An account with a username that uses hateful or obscene language or otherwise indicates disruptive or provocative intent will be hard blocked , meaning that an unblock request will be required .
+obscene
+['offensive', 'abusive', 'explicit', 'vulgar', 'insulting', 'provocative', 'adult', 'inflammatory', 'amusing', 'pornographic', 'inappropriate', 'erotic', 'ignorant', 'unlawful', 'outrageous', 'disgusting', 'illegal', 'illicit', 'unpleasant', 'malicious']
+Sentence 253 rankings: 
+The festival is now operated by Aldeburgh Music , which also runs the Britten-Pears Young Artist Programme ( formerly the Britten-Pears School for Advanced Musical Studies ) , Aldeburgh Residencies - a program offering bespoke training and development opportunities to UK and international artists - as well as an extensive education program .
+bespoke
+['customized', 'tailored', 'specialist', 'custom', 'practical', 'specialized', 'flexible', 'professional', 'special', 'composite', 'exclusive', 'specialised', 'specific', 'creative', 'workshop', 'premiere', 'extensive', 'offer', 'new', 'intensive']
+Sentence 254 rankings: 
+The state will have to raise money on debt markets for the loans to the banks, which will be made through an instrument known as contingent convertibles, or CoCos, which carry the risk that the state ends up with ownership of still-troubled banks.
+instrument
+['obligation', 'agreement', 'organ', 'entity', 'expression', 'item', 'arrangement', 'issue', 'equation', 'amendment', 'investment', 'accord', 'offering', 'indicator', 'option', 'amount', 'implement', 'enactment', 'asset', 'document']
+Sentence 255 rankings: 
+As the front pair wears down and drops out in pieces , the back pair shifts forward , and two new molars emerge in the back of the mouth .
+emerge
+['appear', 'enter', 'arise', 'expand', 'escape', 'rise', 'extract', 'occur', 'develop', 'begin', 'remain', 'grow', 'establish', 'insert', 'introduce', 'conclude', 'become', 'exist', 'open', 'erect']
+Sentence 256 rankings: 
+The assault raises fresh concern about the resilience of the insurgency on the anniversary of Osama bin Laden's death as NATO winds down its combat presence in the next two years and hands over responsibility for security to Afghan forces.
+insurgency
+['rebellion', 'taliban', 'conflict', 'resistance', 'uprising', 'opposition', 'province', 'organization', 'resurgence', 'invasion', 'militia', 'infection', 'regime', 'aggression', 'environment', 'independence', 'population', 'attack', 'onslaught', 'unrest']
+Sentence 257 rankings: 
+As we emerge from a decade of conflict abroad and economic crisis at home, it's time to renew America, Obama said, speaking against a backdrop of armored vehicles and a U.S. flag.
+emerge
+['flee', 'arise', 'enter', 'escape', 'abstract', 'learn', 'inherit', 'operate', 'embark', 'exit', 'evolve', 'recover', 'adapt', 'approach', 'return', 'expand', 'transition', 'rise', 'appear', 'extract']
+Sentence 258 rankings: 
+#38-7 A brief police chase ensued several hours later when law enforcement attempted unsuccessfully to pull Flanagan over on Interstate 66 in Fauquier County.
+ensued
+['occurred', 'erupted', 'resulted', 'proceeded', 'reigned', 'followed', 'concluded', 'emerged', 'arose', 'lasted', 'commenced', 'began', 'culminated', 'endured', 'pursued', 'conducted', 'ended', 'materialized', 'appeared', 'raged']
+Sentence 259 rankings: 
+The EU ministers agreed to an assets freeze and visa ban on two firms and three people believed to provide funding for the regime, according to the office of EU foreign policy chief Catherine Ashton.
+regime
+['system', 'scheme', 'rule', 'arrangement', 'market', 'suspension', 'freeze', 'program', 'situation', 'framework', 'industry', 'protection', 'society', 'rub', 'protectorate', 'operation', 'agreement', 'fix', 'security', 'project']
+Sentence 260 rankings: 
+The bean was first unearthed at Awazu-kotei Ruin of Japanese mid Jōmon period in 4000BC , and later it was commonly found on many Jomon ruins in 4000BC to 2000BC in Japan .
+unearthed
+['excavated', 'discovered', 'recovered', 'uncovered', 'found', 'extracted', 'interred', 'archaeological', 'emerged', 'located', 'investigated', 'encountered', 'archaeologist', 'identified', 'examined', 'rediscovered', 'looted', 'retrieved', 'archaeology', 'excavation']
+Sentence 261 rankings: 
+The Taliban said it was in response to Obama's visit and to the strategic partnership deal he signed with Afghan President Hamid Karzai, a pact that sets out a long-term U.S. role after most foreign combat troops leave by the end of 2014.
+strategic
+['sigma', 'security', 'sustainable', 'special', 'secure', 'tactical', 'supportive', 'southern', 'military', 'symbolic', 'global', 'balanced', 'new', 'mutual', 'solid', 'secondary', 'defensive', 'superior', 'systemic', 'selective']
+Sentence 262 rankings: 
+Angers proper has a population of 157,000 inhabitants , while c. 283,000 live in its metropolitan area .
+metropolitan
+['suburban', 'urban', 'territorial', 'regional', 'commuter', 'statistical', 'greater', 'mobile', 'historic', 'ms', 'municipal', 'mass', 'commercial', 'capital', 'local', 'spatial', 'meridian', 'midtown', 'μ', 'geographical']
+Sentence 263 rankings: 
+The original intention was to provide a home for their opera company , the English Opera Group , but the vision was soon widened to include readings of poetry , literature , drama , lectures and exhibitions of art .
+exhibitions
+['displays', 'shows', 'demonstrations', 'presentations', 'museums', 'images', 'events', 'galleries', 'assemblies', 'works', 'fairs', 'attractions', 'gatherings', 'appearances', 'representations', 'installations', 'ideas', 'items', 'industries', 'engravings']
+Sentence 264 rankings: 
+National security expert Michael O'Hanlon of the Brookings Institution said he is more encouraged about the prospects for success in Afghanistan after President Obama's speech.
+prospects
+['possibilities', 'chances', 'opportunities', 'risks', 'developments', 'pathways', 'conditions', 'potential', 'plans', 'implications', 'scenarios', 'futures', 'candidates', 'perspectives', 'outcomes', 'storylines', 'bids', 'debates', 'approaches', 'celebrations']
+Sentence 265 rankings: 
+The DFA said a Philippine Navy surveillance aircraft monitored eight Chinese fishing vessels anchored inside the Panatag (Scarborough) Shoal in the West Philippine Sea on Sunday, April 8.
+surveillance
+['patrol', 'observation', 'reconnaissance', 'search', 'monitoring', 'interception', 'pursuit', 'monitor', 'photography', 'interceptor', 'swat', 'bombardment', 'patrolling', 'safety', 'intelligence', 'espionage', 'warfare', 'security', 'weather', 'tracker']
+Sentence 266 rankings: 
+#30-15 All opinion polls indicate that the Spanish society is not at all preoccupied by security but by the economic situation and political corruption."
+preoccupied
+['distracted', 'concerned', 'motivated', 'occupied', 'tormented', 'engaged', 'pursued', 'consumed', 'fascinated', 'intrigued', 'confronted', 'troubled', 'scrambled', 'surrounded', 'encompassed', 'obsessed', 'bothered', 'satisfied', 'possessed', 'plagued']
+Sentence 267 rankings: 
+A local witness said a separate group of attackers disguised in burqas — the head-to-toe robes worn by conservative Afghan women — then tried to storm the compound.
+conservative
+['traditional', 'orthodox', 'traditionally', 'islamic', 'prominent', 'devout', 'religious', 'christian', 'strict', 'southern', 'senior', 'muslim', 'liberal', 'local', 'minority', 'certain', 'mainstream', 'republican', 'classical', 'secular']
+Sentence 268 rankings: 
+#42-75 I have no doubt that as time goes on, there will be more and more cases documented.
+documented
+['publicized', 'recorded', 'investigated', 'certified', 'witnessed', 'reported', 'detailed', 'marked', 'noted', 'described', 'logged', 'filed', 'verified', 'preserved', 'realized', 'scheduled', 'defined', 'written', 'diagnosed', 'recognized']
+Sentence 269 rankings: 
+Brevard County Sheriff's Lt Tod Goodyear said the neighbour called 911 after being awoken by gunshots coming from a home in Port St John, east of Orlando, at 4.50am local time.
+awoken
+['woken', 'awakened', 'woke', 'alerted', 'stirred', 'awake', 'startled', 'waking', 'surprised', 'frightened', 'wake', 'risen', 'greeted', 'aroused', 'disturbed', 'contacted', 'confronted', 'raised', 'awakening', 'fired']
+Sentence 270 rankings: 
+The following day, child welfare investigators visited the house to look into allegations of inadequate supervision of the children.
+inadequate
+['adequate', 'insufficient', 'ineffective', 'adequately', 'incorrect', 'unacceptable', 'unsuitable', 'unreliable', 'incomplete', 'improper', 'outdated', 'inconsistent', 'effective', 'lacking', 'improved', 'informal', 'inferior', 'impaired', 'faulty', 'sufficient']
+Sentence 271 rankings: 
+#1-11 Next week, on January 24, the Supreme Court is due to deliver a decision in a case challenging the government's right to issue Article 50—which starts the Brexit negotiations—without the consultation of Parliament.
+challenging
+['asserting', 'defending', 'opposing', 'battling', 'involving', 'regarding', 'alleging', 'examining', 'debating', 'threatening', 'testing', 'proving', 'about', 'against', 'demonstrating', 'surrounding', 'attacking', 'protesting', 'questioning', 'enforcing']
+Sentence 272 rankings: 
+The cleric was assassinated by unidentified gunmen in Damascus, the Observatory said.
+assassinated
+['killed', 'murdered', 'slain', 'executed', 'stabbed', 'strangled', 'beheaded', 'shot', 'poisoned', 'abducted', 'attacked', 'died', 'injured', 'hanged', 'slaughtered', 'ambushed', 'targeted', 'hung', 'murder', 'delivered']
+Sentence 273 rankings: 
+Aviation altitude is measured using either Mean Sea Level ( MSL ) or local ground level ( Above Ground Level , or AGL ) as the reference datum .
+datum
+['level', 'point', 'value', 'reference', 'standard', 'base', 'location', 'ground', 'coordinate', 'measurement', 'norm', 'condition', 'setting', 'points', 'conditions', 'zero', 'height', 'dimension', 'system', 'grid']
+Sentence 274 rankings: 
+In 1964 , to support children who were not eligible for adoption , Buck established the Pearl S. Buck Foundation ( now called Pearl S. Buck International ) to `` address poverty and discrimination faced by children in Asian countries . ''
+eligible
+['available', 'ineligible', 'suitable', 'applicable', 'approved', 'able', 'liable', 'responsible', 'ready', 'appropriate', 'allowed', 'acceptable', 'affordable', 'accountable', 'appealing', 'unfit', 'possible', 'immune', 'unavailable', 'entitled']
+Sentence 275 rankings: 
+Thousands of security forces were out in the Russian capital and helicopters roamed the sky Wednesday, a show of force following protests over scandal-marred elections that saw Prime Minister Vladimir Putin's party struggle to keep a majority.
+roamed
+['wandered', 'searched', 'spun', 'ran', 'rode', 'filled', 'walked', 'fled', 'in', 'sought', 'ruled', 'shook', 'danced', 'howled', 'bounded', 'were', 'rang', 'paced', 'called', 'strolled']
+Sentence 276 rankings: 
+The Philippines foreign secretary has said he and the Chinese ambassador have agreed to resolve diplomatically a stand-off involving a Philippine warship and two Chinese surveillance vessels in a disputed area of the South China Sea.
+diplomatically
+['politically', 'peacefully', 'formally', 'successfully', 'legally', 'positively', 'officially', 'calmly', 'finally', 'later', 'historically', 'emotionally', 'permanently', 'physically', 'internationally', 'personally', 'professionally', 'eventually', 'today', 'also']
+Sentence 277 rankings: 
+In an election-year address, Obama presented himself as a commander-in-chief capable of ending two long wars, following the US withdrawal from Iraq, and crushing Al-Qaeda, and tried to conjure up a new dawn for a US public exhausted by conflict and recession.
+conjure
+['stir', 'summon', 'bring', 'create', 'build', 'shape', 'make', 'dream', 'work', 'bright', 'wake', 'fire', 'imagine', 'rig', 'vivid', 'cook', 'fan', 'paint', 'sum', 'show']
+Sentence 278 rankings: 
+#15-30 The flight was carrying high-profile political figures to attend a ceremony commemorating the 70th anniversary of the Katyn massacre, when thousands of Polish prisoners of war and civilians were killed by the Soviets.
+commemorating
+['marking', 'celebrating', 'honoring', 'concerning', 'involving', 'of', 'recalling', 'covering', 'featuring', 'representing', 'following', 'detailing', 'regarding', 'preceding', 'surrounding', 'discussing', 'on', 'remembering', 'for', 'noting']
+Sentence 279 rankings: 
+The passing of Aboriginal land rights legislaton in Australia was preceded by a number of important Aboriginal protests , including the 1946 Aboriginal Stockmen 's Strike , the 1963 Yolngu Bark Petition , and the 1966 Wave Hill Walk-Off , as well as the Aboriginal Lands Trust Act 1966 ( SA ) , which established the South Australian Aboriginal Lands Trust .
+legislaton
+['law', 'laws', 'justice', 'jurisprudence', 'litigation', 'constitution', 'statute', 'writ', 'judgement', 'rights', 'history', 'rule', 'status', 'policy', 'decision', ',', 'determination', 'parliament', 'jurisdiction', 'logic']
+Sentence 280 rankings: 
+In the latest effort to isolate Syria internationally, European Union foreign ministers agreed fresh sanctions against the country on Monday, the 15th round so far to protest against the repression of dissidents.
+dissidents
+['detainees', 'rebels', 'refugees', 'prisoners', 'protesters', 'critics', 'activists', 'exiles', 'opposition', 'politicians', 'criminals', 'minorities', 'revolutionaries', 'democracy', 'terrorists', 'journalists', 'survivors', 'opponents', 'civilians', 'children']
+Sentence 281 rankings: 
+Of that total €31.8bn were classed as problematic.
+problematic
+['difficult', 'unacceptable', 'unsafe', 'contentious', 'doubtful', 'controversial', 'cloudy', 'dubious', 'feasible', 'critical', 'unsuitable', 'challenging', 'possible', 'dangerous', 'troubled', 'common', 'serious', 'complicated', 'diagnostic', 'desirable']
+Sentence 282 rankings: 
+#42-44 We measured the ROS-concentration in the bodies of ants after they ingested the food with the medicine using a spectrophotometer.
+ingested
+['ate', 'absorbed', 'eaten', 'swallowed', 'consumed', 'administered', 'tasted', 'acquired', 'inhaled', 'drank', 'infused', 'incorporated', 'infected', 'injected', 'chewed', 'entered', 'examined', 'exposed', 'imported', 'assaulted']
+Sentence 283 rankings: 
+A definitive clean-up of troubled banks, as well as an accelerated 2014 budget, are among a package of reforms that could win centre-right Prime Minister Mariano Rajoy more time from the European Union to hit tough deficit targets, EU sources have told Reuters.
+definitive
+['complete', 'preliminary', 'partial', 'final', 'detailed', 'comprehensive', 'virtual', 'precise', 'dramatic', 'substantial', 'check', 'forceful', 'permanent', 'directive', 'descriptive', 'tentative', 'quantitative', 'practical', 'careful', 'satisfactory']
+Sentence 284 rankings: 
+The acquisition is the largest wireless-equipment deal in at least a decade, according to data compiled by Bloomberg.
+compiled
+['collected', 'posted', 'assembled', 'produced', 'gathered', 'synthesized', 'published', 'set', 'accumulated', 'curated', 'scored', 'rendered', 'shuffled', 'formulated', 'developed', 'issued', 'sourced', 'amassed', 'contributed', 'stored']
+Sentence 285 rankings: 
+#23-6 Fox News claims Everson fails to meet the criteria it established for Thursday's two debates.
+criteria
+['requirements', 'profiles', 'conditions', 'standards', 'specifications', 'qualifications', 'characteristics', 'goals', 'protocols', 'guidelines', 'categories', 'factors', 'parameters', 'ideals', 'points', 'concepts', 'constraints', 'targets', 'scenarios', 'threshold']
+Sentence 286 rankings: 
+Companies must raise £28 trillion Chinese sovereign wealth fund stops buying Euro debt Surprise weakening in China import and exports Spain nationalises Bankia as euro crisis escalates Germany warns Greece 'no bailout agreement, no aid' Bankia, in which the state is taking a 45pc stake as a crisis measure to save    it from crippling bad loans, had €37.5bn in exposure to the property sector    at the end of 2011.
+crippling
+['crushing', 'severe', 'devastating', 'collapsing', 'cooling', 'serious', 'beating', 'breaking', 'weakening', 'suffering', 'destroying', 'creating', 'mounting', 'causing', 'the', 'catastrophic', 'falling', 'sustaining', 'killing', 'damaging']
+Sentence 287 rankings: 
+Russian news agencies reported about demonstrators d200 were arrested at a similar attempt to hold an unsanctioned rally in St Petersburg and another 25 in the southern city of Rostov-on-Don.
+unsanctioned
+['illegal', 'opposition', 'unauthorized', 'unlawful', 'organized', 'open', 'impromptu', 'election', 'alternative', 'unarmed', 'armed', 'annual', 'independent', 'outdoor', 'unofficial', 'unconstitutional', 'organised', 'emergency', 'indefinite', 'underground']
+Sentence 288 rankings: 
+He said: "This family is clearly deeply shocked and traumatised by what has happened over the weekend.
+traumatised
+['distressed', 'scarred', 'frightened', 'disturbed', 'injured', 'troubled', 'wounded', 'battered', 'isolated', 'affected', 'impacted', 'devastated', 'damaged', 'tormented', 'distraught', 'shaken', 'stressed', 'stricken', 'displaced', 'terrified']
+Sentence 289 rankings: 
+Mature kauri trees have characteristically large trunks , forming a bole with little or no branching below the crown .
+bole
+['bo', 'base', 'canopy', 'cluster', 'stem', 'plateau', 'belt', 'crown', 'bed', 'shrub', 'raft', 'beam', 'bog', 'pile', 'frame', 'ball', 'platform', 'structure', 'mat', 'cane']
+Sentence 290 rankings: 
+Clashes that began Sunday in Lebanon ignited over the arrest of Islamist activist Chadi Mawlawi, who the Lebanese government accuses of being an operative in Al-Qaeda-inspired group.
+ignited
+['sparked', 'erupted', 'triggered', 'exploded', 'escalated', 'blazed', 'intensified', 'inspired', 'initiated', 'spurred', 'raged', 'surged', 'emerged', 'began', 'opened', 'fueled', 'led', 'started', 'originated', 'heated']
+Sentence 291 rankings: 
+He said authorities have received previous calls from Thomas' home pertaining to domestic violence.
+pertaining
+['relating', 'pursuant', 'referring', 'regarding', 'owing', 'concerning', 'proceeding', 'related', 'contributing', 'detailing', 'challenging', 'converting', 'corresponding', 'relevant', 'wherein', 'committing', 'yielding', 'clinging', 'progressing', 'involving']
+Sentence 292 rankings: 
+Clashes that began Sunday in Lebanon ignited over the arrest of Islamist activist Chadi Mawlawi, who the Lebanese government accuses of being an operative in Al-Qaeda-inspired group.
+operative
+['agent', 'official', 'executive', 'officer', 'activist', 'employee', 'associate', 'organizer', 'administrator', 'inmate', 'instructor', 'individual', 'affiliate', 'opponent', 'actor', 'engineer', 'advisor', 'investigator', 'expert', 'instrumental']
+Sentence 293 rankings: 
+On the anniversary of bin Laden's killing, Crocker said he did not believe there would be a sole turning point in the war.
+sole
+['single', 'lone', 'singular', 'secondary', 'supreme', 'primary', 'fifteenth', 'unitary', 'second', 'maiden', 'one', 'collective', 'residual', 'last', 'minimum', 'standalone', 'principal', 'par', 'simultaneous', 'third']
+Sentence 294 rankings: 
+He decorated the Bosnia and Herzegovina Pavilion and collaborated with decorating the Austrian Pavilion .
+collaborated
+['assisted', 'contributed', 'participated', 'worked', 'accompanied', 'partnered', 'credited', 'commissioned', 'disagreed', 'tasked', 'helped', 'complied', 'experimented', 'impressed', 'teamed', 'coincided', 'proceeded', 'associated', 'differed', 'struggled']
+Sentence 295 rankings: 
+#8-8 I want to continue playing at the highest level and win as many trophies as possible."
+trophies
+['prizes', 'titles', 'tournaments', 'cups', 'championships', 'competitions', 'awards', 'goals', 'challenges', 'champions', 'points', 'scores', 'records', 'honors', 'medals', 'honours', 'matches', 'accolades', 'winners', 'teams']
+Sentence 296 rankings: 
+The two sides are the legacy of, and backlash against, Syria's virtual rule over Lebanon from 1976 to 2005 and its continued influence since.
+backlash
+['response', 'counterattack', 'rebellion', 'protest', 'resentment', 'resistance', 'rebound', 'reaction', 'counter', 'criticism', 'boycott', 'push', 'recoil', 'fallout', 'drive', 'fight', 'reflection', 'combat', 'sentiment', 'battle']
+Sentence 297 rankings: 
+#34-8 "Commanders of the Korean People's Army were hastily dispatched to the front-line troops to command military operations to destroy psychological warfare tools if the enemy does not stop the propaganda broadcast within 48 hours and prepare against the enemy's possible counteractions," added KCNA.
+counteractions
+['defenses', 'attacks', 'responses', 'actions', 'retaliation', 'advances', 'objections', 'resistance', 'measures', 'maneuvers', 'reactions', 'reinforcements', 'threats', 'consequences', 'offenses', 'tactics', 'response', 'replies', 'approaches', 'assaults']
+Sentence 298 rankings: 
+Mr Del Rosario said that despite the impasse, "we resolved to seek a diplomatic solution to the issue".
+impasse
+['issue', 'opposition', 'interruption', 'evidence', 'apparent', 'apprehension', 'argument', 'situation', 'gap', 'difficulty', 'challenger', 'contradiction', 'void', 'problem', 'agreement', 'crisis', 'alternative', 'cord', 'audience', 'event']
+Sentence 299 rankings: 
+Taliban bombers attacked a heavily fortified guesthouse used by Westerners in Kabul on Wednesday, announcing the start of their annual in defiance of calls from visiting US President Barack Obama that the war was ending.
+defiance
+['spite', 'protest', 'violation', 'ignorance', 'refusal', 'compliance', 'obedience', 'denial', 'contempt', 'rebellion', 'fear', 'opposition', 'response', 'disregard', 'contradiction', 'pursuit', 'despair', 'demand', 'possession', 'restraint']
+Sentence 300 rankings: 
+#15-41 Rex Tillerson, proposed Secretary of State for the Trump administration, implied the troops would be staying put.
+implied
+['assumed', 'suggested', 'indicated', 'expressed', 'presumed', 'said', 'hinted', 'alleged', 'concluded', 'acknowledged', 'speculated', 'stated', 'asserted', 'interpreted', 'elaborated', 'believed', 'added', 'anticipated', 'perceived', 'emphasized']
+Sentence 301 rankings: 
+But opposition parties and international observers said the vote was marred by widespread reports of vote-rigging.
+marred
+['tainted', 'disrupted', 'informed', 'plagued', 'preceded', 'troubled', 'inflicted', 'implicated', 'strewn', 'wrought', 'overshadowed', 'flawed', 'fractured', 'jolted', 'fragmented', 'witnessed', 'adorned', 'contested', 'rigged', 'hampered']
+Sentence 302 rankings: 
+#32-3 After his departure, he briefly served as CEO of the American Red Cross, worked in the cabinet of Indiana governor Mitch Daniels, and worked for the tax consulting firm alliantgroup.
+departure
+['leave', 'dismissal', 'resignation', 'exit', 'leaving', 'release', 'return', 'absence', 'separation', 'takeoff', 'rejection', 'discharge', 'expulsion', 'graduation', 'removal', 'farewell', 'termination', 'withdrawal', 'retirement', 'left']
+Sentence 303 rankings: 
+A suicide attacker detonated a bomb at the gates of a compound used by foreigners in Kabul, Afghanistan, Wednesday, killing seven Afghans, officials said.
+compound
+['facility', 'courtyard', 'trailer', 'residence', 'premise', 'retreat', 'location', 'property', 'cluster', 'structure', 'mansion', 'premises', 'settlement', 'neighborhood', 'building', 'group', 'monastery', 'plot', 'subdivision', 'unit']
+Sentence 304 rankings: 
+Iran supports the Damascus regime, which since 15 March 2011 has faced an unprecedented popular revolt.
+unprecedented
+['exceptional', 'enormous', 'unbelievable', 'extraordinary', 'unacceptable', 'ongoing', 'extravagant', 'impressive', 'unbroken', 'unexpectedly', 'unusual', 'increased', 'expansive', 'unexpected', 'impossible', 'innovative', 'elementary', 'extremely', 'isolated', 'overwhelming']
+Sentence 305 rankings: 
+#13-7 Although president-elect Donald Trump has called for a "repeal and replace" plan, saying that a new health care system would be enacted "almost simultaneously," many in government and the press have expressed doubts about whether this would actually happen.
+enacted
+['implemented', 'instituted', 'executed', 'introduced', 'adopted', 'elected', 'established', 'enforced', 'approved', 'initiated', 'launched', 'accomplished', 'repealed', 'attempted', 'installed', 'overturned', 'delivered', 'released', 'realized', 'embraced']
+Sentence 306 rankings: 
+#30-11 Even before its enactment it saw widespread criticism.
+enactment
+['passage', 'implementation', 'adoption', 'authorization', 'inception', 'execution', 'legislation', 'enforcement', 'introduction', 'inauguration', 'repeal', 'advent', 'institution', 'amendment', 'ordinance', 'implement', 'enrollment', 'proclamation', 'activation', 'initiation']
+Sentence 307 rankings: 
+Israel's outgoing ambassador to Egypt arrived in Cairo on Sunday to bid farewell to former colleagues, after an attack on the Israeli mission in September forced its evacuation, according to a spokesman at Israel's Foreign Ministry in Jerusalem.
+evacuation
+['departure', 'abandonment', 'exit', 'removal', 'asylum', 'withdrawal', 'escape', 'occupation', 'relocation', 'dismissal', 'emigration', 'elimination', 'expulsion', 'retreat', 'disposal', 'displacement', 'separation', 'internment', 'assessment', 'assistance']
+Sentence 308 rankings: 
+In Spain, one in four of its workforce is without a job, and the latest prediction from the EU says Spain is going to stay in recession for some time to come.
+prediction
+['forecast', 'warning', 'prophecy', 'report', 'projection', 'promise', 'declaration', 'diagnosis', 'expectation', 'threat', 'announcement', 'graduation', 'outcome', 'proposal', 'learning', 'assessment', 'vision', 'scenario', 'data', 'publication']
+Sentence 309 rankings: 
+Google says authorities in China have approved its acquisition of Motorola Mobility.
+acquisition
+['purchase', 'absorption', 'takeover', 'interception', 'ownership', 'investment', 'merger', 'enrollment', 'engagement', 'integration', 'amalgamation', 'incorporation', 'procurement', 'owner', 'employment', 'administration', 'assessment', 'invasion', 'introduction', 'endowment']
+Sentence 310 rankings: 
+#12-6 Kent Police continue to investigate; Highways England have said they will await that probe's results before deciding if they will launch their own.
+investigate
+['examine', 'search', 'consider', 'explore', 'inspect', 'probe', 'suspect', 'inspector', 'inquiry', 'review', 'report', 'explain', 'discuss', 'account', 'look', 'query', 'interview', 'echo', 'question', 'evaluate']
+Sentence 311 rankings: 
+By late morning, Santander, the eurozone's biggest bank by capital, had slumped 2.97 percent to 4.774 euros, number-two BBVA slid 2.62 percent to 5.171 euros and Banco Popular skidded 3.75 percent to 2.08 euros.
+slumped
+['dropped', 'fallen', 'sunk', 'slipped', 'plunged', 'sagged', 'collapsed', 'slid', 'toppled', 'declined', 'tumbled', 'crumpled', 'downed', 'sank', 'tilted', 'flopped', 'hunched', 'bowed', 'yielded', 'lurched']
+Sentence 312 rankings: 
+The incident followed the killing in August of five Egyptian security guards by Israeli soldiers pursuing militants who had ambushed and killed eight Israelis along the Israeli-Egyptian border.
+ambushed
+['attacked', 'intercepted', 'surprised', 'abducted', 'insulted', 'robbed', 'kidnapped', 'interrupted', 'encountered', 'routed', 'injured', 'abandoned', 'overwhelmed', 'assassinated', 'killed', 'imprisoned', 'stolen', 'compromised', 'upset', 'observed']
+Sentence 313 rankings: 
+He said the United States must see this battle through to a successful conclusion, although not one that involves nation-building.
+conclusion
+['termination', 'outcome', 'end', 'completion', 'finale', 'climax', 'result', 'ending', 'realization', 'closure', 'terminus', 'finish', 'development', 'comprehension', 'premise', 'demise', 'beginning', 'final', 'solution', 'decision']
+Sentence 314 rankings: 
+#25-7 Average hourly earnings rose 0.2%, marking a rebound after growth stalled in June.
+rebound
+['recover', 'recovery', 'return', 'spur', 'bounce', 'rise', 'fall', 'cushion', 'revival', 'dodge', 'response', 'turn', 'transition', 'roar', 'rally', 'growth', 'retreat', 'roll', 'yield', 'bow']
+Sentence 315 rankings: 
+Analysts welcome the measures but accuse the government of reacting too late to a problem that was diagnosed years ago.
+diagnosed
+['identified', 'pronounced', 'discovered', 'determined', 'detected', 'described', 'recognized', 'discharged', 'predicted', 'observed', 'classified', 'declared', 'established', 'developed', 'located', 'concluded', 'committed', 'noticed', 'noted', 'announced']
+Sentence 316 rankings: 
+But members of the opposition had urged Syrians to boycott the elections, saying a vote for any of the candidates amounted to a vote for al-Assad, whose family has ruled the country for 42 years.
+boycott
+['cancel', 'bypass', 'ignore', 'attend', 'refuse', 'hold', 'abandon', 'avoid', 'throw', 'skip', 'blockade', 'void', 'block', 'ban', 'reject', 'suspend', 'disregard', 'sabotage', 'suppress', 'stop']
+Sentence 317 rankings: 
+Fearing the prospect of facing other large armies and exhausted by years of campaigning , Alexander 's army mutinied at the Hyphasis River , refusing to march further east .
+campaigning
+['warfare', 'travelling', 'marching', 'battling', 'spending', 'fighting', 'serving', 'waiting', 'patrolling', 'touring', 'expenditure', 'war', 'working', 'ruling', 'foraging', 'bidding', 'warring', 'searching', 'contention', 'riding']
+Sentence 318 rankings: 
+Alexander succeeded his father , Philip II of Macedon , to the throne in 336 BC after Philip was assassinated .
+assassinated
+['murdered', 'slain', 'killed', 'poisoned', 'deposed', 'ambushed', 'stabbed', 'strangled', 'executed', 'beheaded', 'paralyzed', 'exiled', 'widowed', 'abducted', 'appointed', 'injured', 'died', 'deceased', 'elected', 'knighted']
+Sentence 319 rankings: 
+#5-1 Bomb kills at least 50 in Gao, Mali A vehicle packed with explosives was detonated this morning in Gao, Mali.
+detonated
+['bombed', 'tested', 'launched', 'exploded', 'released', 'ignited', 'cocked', 'blown', 'blasted', 'executed', 'flown', 'rocked', 'triggered', 'placed', 'spent', 'discovered', 'delivered', 'deployed', 'planted', 'sparked']
+Sentence 320 rankings: 
+This is not the definitive clean-up framework that the market is clamoring for, said Nicholas Spiro from Spiro Sovereign Strategy.
+clamoring
+['pushing', 'screaming', 'campaigning', 'pressing', 'yearning', 'bargaining', 'begging', 'grasping', 'waiting', 'asking', 'desperate', 'eager', 'praying', 'searching', 'longing', 'panting', 'struggling', 'rushing', 'looking', 'bidding']
+Sentence 321 rankings: 
+The successive rounds of financial system reform have not helped to build the necessary credibility for the system, and short of a big bang solution that specifies where the money to recapitalize the banks is going to come from, today's (Friday's) reforms might disappoint markets, Barroso said in a note.
+credibility
+['legitimacy', 'prestige', 'confidence', 'loyalty', 'authenticity', 'stability', 'faith', 'reputation', 'solidarity', 'significance', 'validity', 'evidence', 'recognition', 'popularity', 'relevance', 'validation', 'dignity', 'respect', 'momentum', 'support']
+Sentence 322 rankings: 
+The Britain-based monitoring group said initial reports indicated that three troop carriers were destroyed in the clashes that began at dawn on the outskirts of the rebel-held city, located in Homs province.
+outskirts
+['edges', 'suburbs', 'edge', 'periphery', 'borders', 'perimeter', 'fringe', 'remnants', 'streets', 'verge', 'frontiers', 'margins', 'boundaries', 'confines', 'surroundings', 'grounds', 'foothills', 'limits', 'plains', 'estates']
+Sentence 323 rankings: 
+Syria is overwhelmingly Sunni, but President Bashar Assad and the ruling elite belong to the minatory Alawite sect.
+elite
+['class', 'aristocracy', 'aristocratic', 'affluent', 'minority', 'nobility', 'power', 'regime', 'gentry', 'dynasty', 'leadership', 'family', 'executive', 'classes', 'government', 'administration', 'circle', 'group', 'official', 'order']
+Sentence 324 rankings: 
+Suicide bombers attacked a compound housing Westerners in Kabul on Wednesday hours after U.S. President Barack Obama signed a security pact during a short visit to a city that remains vulnerable to a resilient insurgency.
+vulnerable
+['susceptible', 'prone', 'critical', 'sensitive', 'vital', 'robust', 'linked', 'exposed', 'fragile', 'hostile', 'closed', 'unstable', 'stable', 'scarce', 'key', 'stressed', 'crucial', 'subject', 'mined', 'lost']
+Sentence 325 rankings: 
+Albert Del Rosario said he met ambassador Ma Keqing and both reaffirmed their governments' positions that the Scarborough Shoal where the ships are facing off was part of their own country's territory.
+reaffirmed
+['reiterated', 'affirmed', 'confirmed', 'maintained', 'reinforced', 'strengthened', 'upheld', 'renewed', 'resumed', 'confirm', 'repeated', 'clarified', 'stated', 'consolidated', 'defended', 'continued', 'stressed', 'shared', 'sustained', 'emphasized']
+Sentence 326 rankings: 
+In a statement on Wednesday, the Chinese Embassy said the two Chinese Marine Surveillance ships were sent in the area to safeguard China's maritime rights and interests after Philippine soldiers harassed the Chinese fishermen.
+harassed
+['tormented', 'attacked', 'tortured', 'pursued', 'threatened', 'persecuted', 'stalked', 'assaulted', 'chased', 'targeted', 'criticized', 'challenged', 'pressured', 'abused', 'plagued', 'barred', 'questioned', 'mocked', 'lashed', 'ambushed']
+Sentence 327 rankings: 
+Two Chinese marine surveillance ships are in this area fulfilling the duties of safeguarding Chinese maritime rights and interests, it said in a statement.
+safeguarding
+['protecting', 'securing', 'defending', 'guarding', 'ensuring', 'maintaining', 'preserving', 'policing', 'shielding', 'patrolling', 'servicing', 'supporting', 'enforcing', 'risking', 'restricting', 'spreading', 'informing', 'practicing', 'reassuring', 'strengthening']
+Sentence 328 rankings: 
+Arovell 's headquarter lies in Gosau in Upper Austria and has subsidiaries in Vienna and Salzburg .
+subsidiaries
+['branches', 'offices', 'holdings', 'executives', 'satellites', 'successors', 'resorts', 'units', 'operations', 'headquarters', 'strategies', 'chapters', 'affiliates', 'banners', 'products', 'companies', 'studios', 'components', 'businesses', 'divisions']
+Sentence 329 rankings: 
+Their strongest emissions are in the infrared ( IR ) spectrum , and ground-based IR detectors were too imprecise at that time to readily identify any brown dwarfs .
+imprecise
+['unreliable', 'limited', 'difficult', 'incomplete', 'approximate', 'inadequate', 'extensive', 'rough', 'expensive', 'effective', 'outdated', 'crude', 'informal', 'inaccurate', 'easy', 'uncertain', 'inexperienced', 'inexpensive', 'obscure', 'ambiguous']
+Sentence 330 rankings: 
+Activists said at least 30 people died on Sunday - mainly civilians - as violence surged at flashpoints across the country despite an increase of UN observers.
+surged
+['raged', 'rushed', 'flared', 'erupted', 'soared', 'bolted', 'stirred', 'spiked', 'snarled', 'swept', 'pulsed', 'crowded', 'lunged', 'sparked', 'flashed', 'burst', 'lurched', 'swirled', 'emerged', 'leapt']
+Sentence 331 rankings: 
+#13-6 Although the 51-48 vote was mostly along party lines, some Republicans have expressed uncertainty about repealing Obamacare before a replacement system is worked out.
+repealing
+['removing', 'ending', 'implementing', 'terminating', 'enforcing', 'reforming', 'closing', 'passing', 'completing', 'eliminating', 'striking', 'prohibiting', 'defeating', 'banning', 'shutting', 'sweeping', 'adopting', 'retiring', 'stopping', 'exiting']
+Sentence 332 rankings: 
+#26-4 According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.
+obvious
+['clear', 'apparent', 'evident', 'important', 'explicit', 'visible', 'direct', 'strong', 'visual', 'attractive', 'easy', 'concrete', 'obscure', 'interesting', 'known', 'main', 'logical', 'specific', 'noticeable', 'square']
+Sentence 333 rankings: 
+The assault raises fresh concern about the resilience of the insurgency on the anniversary of Osama bin Laden's death as NATO winds down its combat presence in the next two years and hands over responsibility for security to Afghan forces.
+resilience
+['vulnerability', 'strength', 'reliability', 'survival', 'readiness', 'res', 'stability', 'safety', 'security', 'weakness', 'sustainability', 'fitness', 'rise', 'endurance', 'loyalty', 'credibility', 'flexibility', 'longevity', 'failure', 'maturity']
+Sentence 334 rankings: 
+It does not commit Washington to specific troop or funding levels for Afghanistan, though is meant to signal U.S. foes that despite ending the longest war in U.S. history, Washington intends to ensure Afghanistan does not revert to a haven for terror groups like al-Qaeda.
+revert
+['return', 'convert', 'fall', 'turn', 'default', 'transition', 'resort', 'change', 'disappear', 'surrender', 'lose', 'rebound', 'transform', 'switch', 'go', 'slump', 'spiral', 'wander', 'shift', 'lock']
+Sentence 335 rankings: 
+#15-14 Szatkowski also mentioned Russian action in Ukraine, which he called "aggressive actions in our vicinity".
+vicinity
+['neighborhood', 'locality', 'neighbourhood', 'surroundings', 'region', 'proximity', 'area', 'courtyard', 'hometown', 'domain', 'backyard', 'territory', 'sphere', 'community', 'location', 'radius', 'periphery', 'outskirts', 'environment', 'midst']
+Sentence 336 rankings: 
+The Taliban said the assault was a riposte to Obama, who just hours earlier signed a new partnership pact in Kabul to govern Afghan-US relations after 2014 -- a deal the insurgents dismissed as "illegitimate".
+riposte
+['response', 'reaction', 'slap', 'protest', 'reference', 'retaliation', 'threat', 'challenge', 'distraction', 'betrayal', 'prank', 'counter', 'reply', 'tribute', 'slash', 'blow', 'backlash', 'diversion', 'retribution', 'statement']
+Sentence 337 rankings: 
+The gradual accumulation of decayed plant material in a bog functions as a carbon sink .
+accumulation
+['aggregation', 'occurrence', 'deposition', 'aggregate', 'assortment', 'absorption', 'growth', 'abundance', 'ascent', 'addition', 'onset', 'influx', 'emergence', 'succession', 'expansion', 'excess', 'inclusion', 'advancement', 'formation', 'deposit']
+Sentence 338 rankings: 
+The Observatory said Rastan, which lies 180km (120 miles) north of Damascus, was subjected to sustained shelling overnight, leaving dozens of people injured.
+sustained
+['heavy', 'repeated', 'severe', 'persistent', 'robust', 'continual', 'contracted', 'renewed', 'consistent', 'prolonged', 'strong', 'supported', 'continued', 'fatigue', 'intensified', 'steady', 'rigorous', 'intensive', 'sufficient', 'mortar']
+Sentence 339 rankings: 
+#26-12 According to the paper, the victims were not local residents, but did have a connection with Västerås, where they were vacationing at the time of the attack, which a police spokesperson has called "an act of madness"((sv)).
+vacationing
+['living', 'visiting', 'relaxing', 'holiday', 'residing', 'staying', 'traveling', 'camping', 'travelling', 'touring', 'sleeping', 'working', 'skiing', 'boarding', 'tourists', 'holidays', 'lying', 'resting', 'meeting', 'floating']
+Sentence 340 rankings: 
+Sunday's parliamentary vote suggested Russians are tiring of Mr Putin and his United Russia party and allegations of vote-rigging have fired up the opposition, which has long seen its protests crushed and its pleas ignored by the Kremlin-dominated media.
+allegations
+['accusations', 'claims', 'incidents', 'charges', 'suspicions', 'reports', 'revelations', 'verses', 'accusation', 'offences', 'investigations', 'fears', 'complaints', 'rumours', 'stories', 'events', 'tales', 'vows', 'articles', 'evidence']
+Sentence 341 rankings: 
+It said Panatag Shoal is an integral part of Philippine territory, 124 nautical miles from the nearest base-point in Zambales.
+integral
+['essential', 'inherent', 'exclusive', 'autonomous', 'important', 'embedded', 'actual', 'inner', 'acute', 'inevitable', 'organic', 'independent', 'amalgamated', 'vital', 'apical', 'ardent', 'elemental', 'entire', 'ultimate', 'instrumental']
+Sentence 342 rankings: 
+A monument to the Virgin Mary is located on top of El Panecillo and is visible from most of the city of Quito .
+monument
+['statue', 'tribute', 'memorial', 'column', 'shrine', 'sculpture', 'museum', 'landmark', 'martyr', 'symbol', 'bridge', 'capital', 'convent', 'homage', 'temple', 'path', 'sign', 'tower', 'gateway', 'relief']
+Sentence 343 rankings: 
+The shootings are the worst homicides to take place in Brevard County since 1987.
+homicides
+['murders', 'crimes', 'killings', 'deaths', 'disasters', 'cases', 'crime', 'executions', 'casualties', 'incidents', 'murder', 'fatalities', 'mysteries', 'murderers', 'offenses', 'killers', 'events', 'atrocities', 'victims', 'occurrences']
+Sentence 344 rankings: 
+#26-4 According to police, the two fatalities do not have any obvious connection to the suspects, but did know each other.
+fatalities
+['deaths', 'victims', 'casualties', 'corpses', 'deceased', 'killings', 'murders', 'patients', 'incidents', 'perpetrators', 'individuals', 'occupants', 'survivors', 'adults', 'murderers', 'persons', 'majors', 'turbines', 'burials', 'dies']
+Sentence 345 rankings: 
+The incident not only underscores the difficulties that remain as Afghan security forces take control of increasingly larger share of the country, but also the potential fallout from the Afghan insurgency during high-profile visits.
+underscores
+['highlights', 'shows', 'illustrates', 'emphasizes', 'reflects', 'explains', 'documents', 'covers', 'demonstrates', 'captures', 'expresses', 'addresses', 'stresses', 'outlines', 'showcases', 'reveals', 'examines', 'attributes', 'states', 'indicates']
+Sentence 346 rankings: 
+Russian authorities should annul the parliamentary vote results and hold a new election, ex-Soviet leader Mikhail Gorbachev urged Wednesday as popular indignation grew over widespread reports of alleged election fraud.
+annul
+['cancel', 'alter', 'void', 'end', 'undo', 'null', 'ignore', 'invalid', 'dissolve', 'abandon', 'stop', 'disregard', 'enforce', 'repeal', 'reject', 'halt', 'collapse', 'cancelled', 'excuse', 'reverse']
+Sentence 347 rankings: 
+Authorities said Tuesday at least 51,500 police officers and 2,000 Interior Ministry troops have been deployed in Moscow since the election.
+deployed
+['stationed', 'employed', 'posted', 'installed', 'positioned', 'enrolled', 'invested', 'mobilized', 'activated', 'placed', 'available', 'mustered', 'spent', 'drilled', 'located', 'operational', 'committed', 'convened', 'fielded', 'performed']
+Sentence 348 rankings: 
+Among the dead were a Shiite imam, Sheikh Abbas al-Laham, who leads the prayers in the Ruqayya mosque in Damascus, a revered place of pilgrimage for many religious Iranians.
+revered
+['respected', 'lauded', 'favored', 'sacred', 'renowned', 'recognized', 'popular', 'prized', 'valued', 'venerable', 'prominent', 'viewed', 'reputed', 'celebrated', 'beloved', 'honored', 'frequented', 'cited', 'coveted', 'famed']
+Sentence 349 rankings: 
+Wikipedia admins can never be absolutely sure about sockpuppetry , and the most abusive users can be very devious in attempting to evade detection .
+evade
+['avoid', 'escape', 'dodge', 'flee', 'elusive', 'avoidance', 'avoids', 'avoiding', 'pursue', 'escapes', 'bypass', 'avoided', 'resist', 'garner', 'approach', 'escaping', 'skirt', 'attain', 'achieve', 'escaped']
+Sentence 350 rankings: 
+Russian authorities should annul the parliamentary vote results and hold a new election, ex-Soviet leader Mikhail Gorbachev urged Wednesday as popular indignation grew over widespread reports of alleged election fraud.
+alleged
+['purported', 'suspected', 'accused', 'apparent', 'claimed', 'attempted', 'perceived', 'reputed', 'implied', 'supposed', 'intended', 'estimated', 'asserted', 'assumed', 'extensive', 'anticipated', 'imagined', 'actual', 'inherent', 'expected']
+Sentence 351 rankings: 
+Mr. Gorbachev spoke to the Interfax news agency as public indignation was rising over reported election fraud in Sunday's election.
+indignation
+['anger', 'outrage', 'irritation', 'interest', 'alarm', 'enthusiasm', 'resentment', 'tension', 'excitement', 'issue', 'unrest', 'opinion', 'objection', 'fury', 'attitude', 'embarrassment', 'identity', 'hostility', 'emotion', 'uprising']
+Sentence 352 rankings: 
+Obama's emphasis on a long-term U.S. commitment to Afghanistan reflects a lingering worry about the threat of a Taliban resurgence after 2014, when U.S. and NATO combat forces are scheduled to leave.
+lingering
+['clinging', 'remnant', 'retaining', 'residual', 'lasting', 'persistent', 'holding', 'mounting', 'continuing', 'remaining', 'enduring', 'standing', 'lurking', 'fading', 'vague', 'returning', 'residue', 'surviving', 'swirling', 'flickering']
+Sentence 353 rankings: 
+The barren islands, reefs and coral outcrops are believed to be in rich in oil and gas and the overlapping claims have long been feared as Asia's next flashpoint for armed conflict.
+barren
+['arid', 'fertile', 'desert', 'grassy', 'uninhabited', 'dry', 'distressed', 'fragile', 'bald', 'harsh', 'deserted', 'coral', 'blank', 'various', 'circular', 'plain', 'vast', 'hawaiian', 'two', 'rugged']
+Sentence 354 rankings: 
+Gorbachev added that authorities "must admit that there have been numerous falsifications and ballot stuffing."
+falsifications
+['lies', 'errors', 'irregularities', 'slips', 'murders', 'arrests', 'bombings', 'signatures', 'copies', 'miracles', 'crimes', 'transfers', 'reports', 'mistakes', 'delays', 'allegations', 'investigations', 'references', 'violations', 'alterations']
+Sentence 355 rankings: 
+Speaking from the country where the September 11 terrorist attacks were incubated, Mr Obama suggested  America had come full circle.''
+incubated
+['unleashed', 'initiated', 'released', 'activated', 'seeded', 'conceived', 'engineered', 'executed', 'launched', 'introduced', 'born', 'unveiled', 'exposed', 'enacted', 'occurred', 'established', 'developed', 'designed', 'invented', 'created']
+Sentence 356 rankings: 
+Activists said at least 30 people died on Sunday - mainly civilians - as violence surged at flashpoints across the country despite an increase of UN observers.
+flashpoints
+['points', 'locations', 'sites', 'places', 'spots', 'centers', 'venues', 'patches', 'intersections', 'stations', 'localities', 'incidents', 'vents', 'targets', 'centres', 'posts', 'markers', 'cities', 'crises', 'areas']
+Sentence 357 rankings: 
+#35-36 "In my judgment the common law," the judgement reads, "and in particular the principles of natural justice and fairness, would in a case such as this which involves the right to life, and the right to a fair trial, as well as powerful countervailing issues of public interest, compel the court to apply the most intense level of anxious scrutiny to the facts to ensure that the accused were not prejudiced."
+prejudiced
+['biased', 'reflected', 'harmed', 'affected', 'favored', 'excluded', 'disadvantaged', 'hurt', 'judged', 'justified', 'swayed', 'changed', 'divided', 'outnumbered', 'manipulated', 'punished', 'unfair', 'impaired', 'corrupted', 'amended']
+Sentence 358 rankings: 
+The modern version of this honor has been conferred on non-Japanese recipients beginning in 1981 ( although several foreigners were given the honor before World War II ) ; and women were awarded the Order starting in 2003 ( previously , women were awarded the Order of the Precious Crown ) .
+conferred
+['bestowed', 'awarded', 'pronounced', 'inflicted', 'placed', 'vested', 'imposed', 'given', 'mounted', 'issued', 'received', 'implemented', 'honoured', 'performed', 'granted', 'wrought', 'held', 'instituted', 'borne', 'revoked']
+Sentence 359 rankings: 
+By alighting in Afghanistan on the anniversary of the raid that killed Sept. 11 mastermind Osama bin Laden, Obama was also making an unsubtle show of the power of the presidency.
+alighting
+['landing', 'arriving', 'leaving', 'boarding', 'departing', 'abandoning', 'parking', 'camping', 'burning', 'escaping', 'flying', 'attacking', 'ascending', 'resting', 'launching', 'appearing', 'arresting', 'staying', 'crashing', 'approaching']
+Sentence 360 rankings: 
+The militants vowed to continue their armed struggle "against all the contents of this illegitimate document until the full withdrawal of all invading forces and their puppets" -- referring to the Karzai government.
+illegitimate
+['legitimate', 'irrelevant', 'rightful', 'invalid', 'unconstitutional', 'arrogant', 'official', 'absurd', 'unauthorized', 'arbitrary', 'unfinished', 'alleged', 'unlawful', 'artificial', 'authoritarian', 'imaginary', 'oppressive', 'evil', 'aforementioned', 'outrageous']
+Sentence 361 rankings: 
+I would wish to extend my thoughts and prayers to the family and friends of the victim at this terrible time.
+extend
+['expand', 'apply', 'express', 'offer', 'continue', 'spread', 'add', 'enhance', 'grant', 'stretch', 'allow', 'send', 'direct', 'increase', 'provide', 'bring', 'open', 'tend', 'lend', 'reach']
+Sentence 362 rankings: 
+#28-7 David Conley, 49, was arrested by the HSCO and subsequently charged with the crimes.
+subsequently
+['later', 'initially', 'then', 'furthermore', 'previously', 'consequently', 'separately', 'sustained', 'secondly', 'newly', 'afterwards', 'therefore', 'thereafter', 'fourth', 'immediately', 'nevertheless', 'successively', 'similarly', 'also', 'rapidly']
+Sentence 363 rankings: 
+Kirill Kudryavtsev / AFP - Getty Images Police officers surround Russian opposition leader Boris Nemtsov, who was detained while taking part in an unauthorized rally at the Triumfalnaya Square in central Moscow late on Tuesday.
+detained
+['seized', 'arrested', 'captured', 'jailed', 'incarcerated', 'imprisoned', 'restrained', 'suspended', 'confiscated', 'interned', 'held', 'abducted', 'displayed', 'convicted', 'transported', 'kidnapped', 'deposed', 'secured', 'charged', 'possessed']
+Sentence 364 rankings: 
+Chernov was born in Lithuania to Russian parents , and migrated with his family to Salzburg , Austria where he commenced his schooling .
+commenced
+['undertook', 'began', 'resumed', 'undertaken', 'initiated', 'ceased', 'underwent', 'begun', 'practised', 'started', 'outset', 'pursued', 'attained', 'concluded', 'embarked', 'secured', 'engaged', 'continued', 'learnt', 'proceeded']
+Sentence 365 rankings: 
+Google defended itself saying it has no intentions of giving Motorola special treatment over other Android-running OEMs such as HTC, Samsung, and LG.
+intentions
+['plans', 'thoughts', 'ideas', 'hopes', 'attempts', 'proceeds', 'objectives', 'orders', 'desires', 'aspirations', 'wishes', 'images', 'motives', 'arrangements', 'expectations', 'notions', 'ideals', 'sorts', 'convictions', 'efforts']
+Sentence 366 rankings: 
+An account with a username that uses hateful or obscene language or otherwise indicates disruptive or provocative intent will be hard blocked , meaning that an unblock request will be required .
+disruptive
+['provocative', 'rebellious', 'destructive', 'hostile', 'harmful', 'controversial', 'direct', 'damaging', 'inflammatory', 'abusive', 'traumatic', 'defiant', 'traditional', 'restrictive', 'contradictory', 'critical', 'prominent', 'violent', 'innovative', 'shocking']
+Sentence 367 rankings: 
+The Taliban claimed responsibility for the attack which involved a car bomb and insurgents disguised as women on the eastern outskirts of the capital, killing seven people, a Gurkha guard and six passers-by, and wounding 17.
+outskirts
+['suburbs', 'edges', 'fringe', 'periphery', 'borders', 'edge', 'verge', 'margins', 'remnants', 'limits', 'boundaries', 'perimeter', 'frontiers', 'surroundings', 'fragments', 'corners', 'wards', 'plains', 'suburb', 'confines']
+Sentence 368 rankings: 
+Pearl S. Buck died of lung cancer on March 6 , 1973 , in Danby , Vermont , and was interred in Green Hills Farm in Perkasie , Pennsylvania .
+interred
+['buried', 'cremated', 'incarcerated', 'cemetery', 'relocated', 'commemorated', 'deceased', 'cemeteries', 'reinstated', 'departed', 'installed', 'imprisoned', 'located', 'erected', 'confirmed', 'stored', 'crowned', 'bestowed', 'displayed', 'executed']
+Sentence 369 rankings: 
+His satirical street art and subversive epigrams combine dark humor with graffiti executed in a distinctive stencilling technique .
+epigrams
+['writings', 'ep', 'eps', 'inscriptions', 'images', 'illustrations', 'rhymes', 'experiments', 'drawings', 'prints', 'expressions', 'essays', 'graffiti', 'pieces', 'events', 'texts', 'paintings', 'entries', 'verses', 'art']
+Sentence 370 rankings: 
+Brevard County was the scene of six homicides in 2011, Goodyear said.
+homicides
+['murders', 'killings', 'deaths', 'crimes', 'executions', 'fatalities', 'cases', 'incidents', 'murderers', 'victims', 'casualties', 'lives', 'kills', 'acts', 'assaults', 'killers', 'burials', 'murder', 'hits', 'mysteries']
+Sentence 371 rankings: 
+#5-4 Northern Mali was seized by Islamic militants in 2012, with France leading a military intervention the following year.
+seized
+['captured', 'taken', 'occupied', 'stolen', 'claimed', 'recaptured', 'grabbed', 'overrun', 'regained', 'snatched', 'held', 'confiscated', 'liberated', 'secured', 'takeover', 'attacked', 'contested', 'struck', 'displaced', 'kidnapped']
+Sentence 372 rankings: 
+#30-19 "We would have preferred a different solution but they have the legal right to impose the fine,” Portillo said, but the public posting of the photo impugned the officers' sense of honor.
+impugned
+['offended', 'exposed', 'challenged', 'affected', 'embarrassed', 'insulted', 'tainted', 'smacked', 'denounced', 'abused', 'marred', 'injured', 'compromised', 'inflated', 'penetrated', 'attacked', 'mocked', 'elevated', 'affirmed', 'assaulted']
+The score of evaluation for BERT candidate generation
+0.9812332439678284 0.1648793565683646 0.3137755102040816 0.21616871704745166

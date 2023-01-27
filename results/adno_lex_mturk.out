@@ -1,0 +1,81 @@
+***** Running evaluation *****
+  Num examples = %d 372
+Sentence 0 rankings: 
+Putin was expected to formally register later in the day to run for president, a position he held from 2000-2008, a period in which he grew more authoritarian.
+authoritarian
+CONVERT Putin was expected to formally register later in the day to run for president, a position he held from 2000-2008, a period in which he grew more authoritarian.
+['oppressive', 'unpopular', 'influential', 'violent', 'imposing', 'abusive', 'regime', 'arrogant', 'ruthless', 'enduring', 'eccentric', 'severe', 'restrictive', 'dominant', 'conservative', 'expansive', 'sovereign', 'powerful', 'strict', 'unstable']
+Sentence 1 rankings: 
+#7-8 Despite the fog, other flights are reported to have landed safely leading up to the collision.
+collision
+CONVERT #7-8 Despite the fog, other flights are reported to have landed safely leading up to the collision.
+['crash', 'accident', 'impact', 'merger', 'disaster', 'clash', 'intersection', 'merging', 'wreck', 'encounter', 'confrontation', 'battle', 'incident', 'merge', 'debris', 'wreckage', 'crashing', 'junction', 'separation', 'traffic']
+Sentence 2 rankings: 
+The larva grows to about 120-130 mm , and pupates in an underground chamber .
+pupates
+CONVERT The larva grows to about 120-130 mm , and pupates in an underground chamber .
+['rests', 'resides', 'lives', 'dies', 'pools', 'drones', 'lies', 'occurs', 'chambers', 'raises', 'orbits', 'stays', 'waits', 'occupies', 'lays', 'spends', 'examines', 'spins', 'develops', 'sits']
+Sentence 3 rankings: 
+Gorbachev told the Interfax news agency that authorities must hold a fresh election or deal with a rising tide of discontent.
+discontent
+CONVERT Gorbachev told the Interfax news agency that authorities must hold a fresh election or deal with a rising tide of discontent.
+['resentment', 'unease', 'unrest', 'agitation', 'turmoil', 'revolt', 'strife', 'confusion', 'protest', 'resignation', 'frustration', 'irritation', 'despair', 'annoyance', 'outrage', 'corruption', 'tension', 'anger', 'complaint', 'sentiments']
+Sentence 4 rankings: 
+It decomposes to arsenic trioxide , elemental arsenic and iodine when heated in air at 200 ° C.
+decomposes
+CONVERT It decomposes to arsenic trioxide , elemental arsenic and iodine when heated in air at 200 ° C.
+['reacts', 'converts', 'reduces', 'collapses', 'yields', 'reactions', 'doubles', 'transforms', 'opens', 'dies', 'explodes', 'occurs', 'molecules', 'splits', 'proceeds', 'forms', 'compounds', 'contains', 'is', 'disappears']
+Sentence 5 rankings: 
+#4-6 In 1969 Cernan flew aboard Apollo 10, a flight to the Moon that rehearsed a descent but purposefully did not land in preparation for the Apollo 11 landing.
+descent
+CONVERT #4-6 In 1969 Cernan flew aboard Apollo 10, a flight to the Moon that rehearsed a descent but purposefully did not land in preparation for the Apollo 11 landing.
+['dive', 'flight', 'runway', 'fall', 'ascent', 'tumble', 'departure', 'decline', 'landing', 'transition', 'recovery', 'course', 'procedure', 'dip', 'glide', 'countdown', 'drop', 'parachute', 'plunge', 'crash']
+Sentence 6 rankings: 
+Lebanon is sharply split along sectarian lines, with 18 religious sects.
+sectarian
+CONVERT Lebanon is sharply split along sectarian lines, with 18 religious sects.
+['religious', 'ethnic', 'communal', 'political', 'racial', 'regional', 'demographic', 'partisan', 'cultural', 'linguistic', 'traditional', 'nationalist', 'pastoral', 'liturgical', 'tribal', 'ideological', 'symbolic', 'class', 'theological', 'minority']
+Sentence 7 rankings: 
+The fighting highlights how easily trouble in Syria can raise tensions in neighboring Lebanon, with which it shares a complex web of political and sectarian ties and rivalries.
+sectarian
+CONVERT The fighting highlights how easily trouble in Syria can raise tensions in neighboring Lebanon, with which it shares a complex web of political and sectarian ties and rivalries.
+['religious', 'ethnic', 'regional', 'political', 'partisan', 'cultural', 'tactical', 'communal', 'theological', 'spiritual', 'tribal', 'racial', 'ideological', 'economic', 'demographic', 'militant', 'territorial', 'social', 'symbolic', 'disciplinary']
+Sentence 8 rankings: 
+He said the victim died in the neighbourhood of Jabal Mohsen, populated mainly by members of Assad's Alawite sect, an offshoot of Shiite Islam.
+offshoot
+CONVERT He said the victim died in the neighbourhood of Jabal Mohsen, populated mainly by members of Assad's Alawite sect, an offshoot of Shiite Islam.
+['extension', 'auxiliary', 'exile', 'incarnation', 'affiliate', 'subgroup', 'antagonist', 'splinter', 'branch', 'aspect', 'adjunct', 'outpost', 'remnant', 'example', 'associate', 'independent', 'alternative', 'imprint', 'anomaly', 'entity']
+Sentence 9 rankings: 
+The Order was the first national decoration awarded by the Japanese Government , created on 10 April 1875 by decree of the Council of State .
+decree
+CONVERT The Order was the first national decoration awarded by the Japanese Government , created on 10 April 1875 by decree of the Council of State .
+['mandate', 'proclamation', 'call', 'order', 'petition', 'demand', 'grant', 'law', 'request', 'regulation', 'commission', 'recommendation', 'discharge', 'document', 'edict', 'rule', 'command', 'resolution', 'directive', 'report']
+Sentence 10 rankings: 
+Police said suicide attackers wearing burqas struck at 6:15 am (0145 GMT), detonating a car bomb before clashing with guards.
+detonating
+CONVERT Police said suicide attackers wearing burqas struck at 6:15 am (0145 GMT), detonating a car bomb before clashing with guards.
+['launching', 'triggering', 'planting', 'blowing', 'releasing', 'lighting', 'destroying', 'exploding', 'placing', 'bombing', 'causing', 'dropping', 'throwing', 'firing', 'striking', 'setting', 'creating', 'blasting', 'leaving', 'using']
+Sentence 11 rankings: 
+The EU believes the deficit will be 6.4 percent this year and will only be reduced by 0.1 percent in 2013.
+deficit
+CONVERT The EU believes the deficit will be 6.4 percent this year and will only be reduced by 0.1 percent in 2013.
+['surplus', 'debt', 'deposit', 'loss', 'budget', 'decline', 'balance', 'damage', 'gap', 'impairment', 'collection', 'amount', 'error', 'difference', 'accumulation', 'gdp', 'excess', 'circulation', 'turnover', 'consolidation']
+Sentence 12 rankings: 
+#36-14 A suggestion had been the addition of a canopy over the car's cockpit.
+canopy
+CONVERT #36-14 A suggestion had been the addition of a canopy over the car's cockpit.
+['shade', 'hood', 'lid', 'cover', 'roof', 'cabin', 'bonnet', 'cloud', 'veil', 'dome', 'shadow', 'shield', 'cockpit', 'shell', 'frame', 'shelter', 'crown', 'windshield', 'seat', 'wrap']
+Sentence 13 rankings: 
+#39-22 Hyza says they will "actively cooperate with Slovak police", and "express [their] sincere condolences to the bereaved families."
+condolences
+CONVERT #39-22 Hyza says they will "actively cooperate with Slovak police", and "express [their] sincere condolences to the bereaved families."
+['apologies', 'regrets', 'pleas', 'thanks', 'sentiments', 'prayers', 'gratitude', 'feelings', 'thoughts', 'sympathy', 'respects', 'regards', 'intentions', 'wishes', 'hopes', 'blessings', 'sighs', 'reservations', 'sincerity', 'views']
+Sentence 14 rankings: 
+Banking reform is seen as urgent by many analysts, with yields on benchmark Spanish bonds currently close to six percent, meaning the country faces very high borrowing costs.
+benchmark
+CONVERT Banking reform is seen as urgent by many analysts, with yields on benchmark Spanish bonds currently close to six percent, meaning the country faces very high borrowing costs.
+['baseline', 'average', 'standard', 'market', 'mainstream', 'target', 'the', 'reference', 'model', 'basic', 'conventional', 'showcase', 'measured', 'normal', 'flagship', 'current', 'simulated', 'sample', 'best', 'most']
+Sentence 15 rankings: 
+In Japan , rice with azuki beans ( 赤飯 ; sekihan ) is traditionally cooked for auspicious occasions .
+auspicious
+CONVERT In Japan , rice with azuki beans ( 赤飯 ; sekihan ) is traditionally cooked for auspicious occasions .

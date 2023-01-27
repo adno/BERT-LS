@@ -1,0 +1,44 @@
+***** Running evaluation *****
+  Num examples = %d 10
+Sentence 0 rankings: 
+esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra retendo radiação do sol que de outro modo se dissiparia no espaço
+retendo
+['mantendo', 'recebendo', 'contendo', 'ret', 'atraindo', 'deixando', 'com', 'obtendo', 'trazendo', 'perdendo', 'produzindo', 'jogando', 'fornecendo', 'lançando', 'levando', 'colocando', 'enviando', 'utilizando', 'revelando', 'pela']
+Sentence 1 rankings: 
+mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários sensores não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+sensores
+['dispositivos', 'receptores', 'senso', 'sistemas', 'equipamentos', 'aparelhos', 'instrumentos', 'componentes', 'sinais', 'mecanismos', 'sentidos', 'processadores', 'tipos', 'produtos', 'computadores', 'recursos', 'elementos', ',', 'módulos', 'agentes']
+Sentence 2 rankings: 
+bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para desarticular as grandes quadrilhas
+desarticular
+['combater', 'destruir', 'descobrir', 'identificar', 'prender', 'derrubar', 'eliminar', 'derrotar', 'investigar', 'localizar', 'enfrentar', 'fechar', 'deter', 'montar', 'quebrar', 'revelar', 'encontrar', 'parar', 'afastar', 'fortalecer']
+Sentence 3 rankings: 
+naquele país a ave é considerada uma praga
+praga
+['ameaça', 'doença', 'ave', 'deusa', 'lenda', 'pra', 'divindade', 'rainha', 'santa', 'espécie', 'epidemia', '[UNK]', 'coisa', 'monstro', 'tragédia', 'vítima', 'raça', 'exceção', 'realidade', 'presa']
+Sentence 4 rankings: 
+autores de furto estariam migrando para o roubo
+migrando
+['migra', 'partindo', 'mudando', 'contribuindo', 'indo', 'retornando', 'migração', 'voltando', 'seguindo', 'passando', 'ocorrendo', 'saindo', 'vindo', 'transferidos', 'jogando', 'trabalhando', 'sendo', 'voltados', 'surgindo', 'atraindo']
+Sentence 5 rankings: 
+perguntado se o protocolo de kyoto será ratificado no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+ratificado
+['assinado', 'confirmado', 'renovado', 'aceito', 'válido', 'mantido', 'seguido', 'adotado', 'modificado', 'aprovado', 'ratific', 'aplicado', 'suspenso', 'alterado', 'quebrado', 'cancelado', 'utilizado', 'observado', 'executado', 'reconhecido']
+Sentence 6 rankings: 
+os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de pluralidade racial e integração
+pluralidade
+['diversidade', 'igualdade', 'variedade', 'plural', 'unidade', 'identidade', 'democracia', 'liberdade', 'harmonia', 'tolerância', 'diferença', 'continuidade', 'superioridade', 'integração', 'união', 'mistura', 'discriminação', 'consciência', 'beleza', 'diferenciação']
+Sentence 7 rankings: 
+sir david não poupou críticas à política ambiental do presidente george w bush que se recusa a apoiar o protocolo de kyoto tratado para reduzir as emissões de dióxido de carbono que intensificam o efeito estufa
+intensificam
+['aumentam', 'causam', 'aumenta', 'acelera', 'produzem', 'intens', 'alimentam', 'criam', 'aumentaram', 'provoca', 'formam', 'mantêm', 'desenvolvem', 'contribuem', 'fazem', 'mantém', 'promove', 'incluem', 'gera', 'reduz']
+Sentence 8 rankings: 
+quem não conseguir esgotar o armazenamento de diesel puro não pode misturar com o b2 porque o produto ficaria fora de especificação
+esgotar
+['completar', 'terminar', 'fazer', 'acabar', 'encerrar', 'realizar', 'eliminar', 'atingir', 'recuperar', 'manter', 'iniciar', 'aumentar', 'utilizar', 'fechar', 'ultrapassar', 'ampliar', 'reduzir', 'parar', 'concluir', 'esgo']
+Sentence 9 rankings: 
+com capacidade para 283 presos abriga atualmente 541 condenados quase o dobro do previsto
+atualmente
+['agora', 'actualmente', 'ainda', 'hoje', 'atual', 'Atualmente', 'aproximadamente', 'recentemente', 'também', 'até', 'diariamente', 'inicialmente', 'oficialmente', 'atualidade', 'anualmente', 'simultaneamente', 'mais', 'anteriormente', 'novamente', 'legalmente']
+The score of evaluation for BERT candidate generation
+1.0 0.1 0.2777777777777778 0.14705882352941177
