@@ -1,17 +1,17 @@
 # About this fork
 
-This fork aims to repruduce baselines from (TSAR Shared Task 2022)[https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task] using a modified version of (BERT-LS)[https://github.com/qiang2100/BERT-LS/] (often also referred to as LSBERT) according to information provided by (Štajner+2022)[http://arxiv.org/abs/2209.05301].
+This fork aims to repruduce baselines from [TSAR Shared Task 2022](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task) using a modified version of [BERT-LS](https://github.com/qiang2100/BERT-LS/) (often also referred to as LSBERT) according to information provided by [Štajner+2022](http://arxiv.org/abs/2209.05301).
 
 To rule out differences in ranking/filtering, I do not filter the results and compare only **Potential**.
 
-So far, the results for Spanish and Portuguese diverge substantially from the published ones. For Portuguese, my reproduced Potential@20 is 0.6576**, while the published **Potential@10 is 0.7472**. That is, even though I am generating 20 candidates, the results are much lower than the published results for top 10 candidates after filtering/reranking.
+So far, the results for Spanish and Portuguese diverge substantially from the published ones. For Portuguese, my reproduced **Potential@20 is 0.6576**, while the published **Potential@10 is 0.7472**. That is, even though I am generating 20 candidates, the results are much lower than the published results for top 10 candidates after filtering/reranking.
 
-!(Comparison)[results/lsbert_potential_chart.png]
+![Comparison](results/lsbert_potential_chart.png)
 
 
-I have modified the original implementation of (LSBERT)[https://github.com/qiang2100/BERT-LS/] to support TSAR datasets and other BERT models.
+I have modified the original implementation of [LSBERT](https://github.com/qiang2100/BERT-LS/) to support TSAR datasets and other BERT models.
 
-Following (Štajner+2022)[http://arxiv.org/abs/2209.05301], I use the following parameters/resources:
+Following [Štajner+2022](http://arxiv.org/abs/2209.05301), I use the following parameters/resources:
 
 - BERT models:
   - English: original BERT-WWM, type: BERT-large-wwm, uncased, namely **bert-large-uncased-whole-word-masking**
@@ -25,16 +25,15 @@ I do not use a stemmer, frequency files, or a FastText model, since I am not fil
 The source code and results are available in this repository:
 Interesting files:
 
-  - LSBert2_adno.py (modification of the original LSBert2.py)
-  - run_LSBert2_adno.sh (shell script for the experiments)
-  - run_eval.sh (shell script for evaluation using a modified TSAR eval script)
+  - [LSBert2_adno.py](LSBert2_adno.py) (modification of the original LSBert2.py)
+  - [run_LSBert2_adno.sh](LSBert2_adno.py) (shell script for the experiments)
+  - [run_eval.sh](run_eval.sh) (shell script for evaluation using a modified TSAR eval script)
 
-  - tsar_eval_pot.py (modified TSAR eval script, that outputs full potential)
-  - [results/lsbert_potential.tsv](https://github.com/adno/BERT-LS/blob/master/results/lsbert_potential.tsv) – potential table
+  - [tsar_eval_pot.py](tsar_eval_pot.py) (modified TSAR eval script, that outputs full potential)
+  - [results/lsbert_potential.tsv](results/lsbert_potential.tsv) – potential table (table and chart in the figure above)
 
 In the table of potential values above, "Potential" is potential of all candidates = Potential@20 (I am generating 20 candidates).
 
-The original BERT-LS/LSBERT README follows.
 
 - - -
 
