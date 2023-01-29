@@ -1,6 +1,6 @@
-dataset	en_test	es_test	pt_test
-Potential@1	0.5522	0.2744	0.5133
-Potential@3	0.8203	0.4402	0.6978
-Potential@5	0.9061	0.519	0.7673
-Potential@10	0.949	0.5869	0.8208
-Potential	0.9812	0.6576	0.8689
+dataset	en (reproduced)	en (published)	es (reproduced)	es (published)	pt (reproduced)	pt (published)
+Potential@1	0.5522	0.5978	0.2744	0.2880	0.5133	0.3262
+Potential@3	0.8203	0.8230	0.4402	0.4945	0.6978	0.4946
+Potential@5	0.9061	0.8766	0.519	0.6114	0.7673	0.5802
+Potential@10	0.949	0.9463	0.5869	0.7472	0.8208	0.6737
+Potential	0.9812	N/A	0.6576	N/A	0.8689	N/A

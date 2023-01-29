@@ -6,9 +6,10 @@ printf "dataset\nPotential@1\nPotential@3\nPotential@5\nPotential@10\nPotential\
 
 for lang in en es pt
 do
-	for tt in '' # '_trial'
+	for tt in ''  # DO NOT INCLUDE: '_trial'
 	do
 		LANG_TT_OUT="results/adno_tsar${tt}_${lang}.potential"
+		LANG_TT_PUB="results/published_tsar${tt}_${lang}.potential"
 		PRED="results/adno_tsar${tt}_${lang}.tsar"
 		echo $PRED
 		if [ -z "$tt" ]
@@ -20,7 +21,7 @@ do
 			--predictions_file $PRED \
 			--output_file $PRED.eval > /dev/null
 		
-		echo "${lang}${tt}" > $LANG_TT_OUT
+		echo "${lang} (reproduced)" > $LANG_TT_OUT
 
 		echo $(sed -ne 's|^MAP@1/.* = \(.*\)|\1|p' $PRED.eval) >> $LANG_TT_OUT
 		echo $(sed -ne 's|^Potential@3 = \(.*\)|\1|p' $PRED.eval)  >> $LANG_TT_OUT
@@ -28,7 +29,7 @@ do
 		echo $(sed -ne 's|^Potential@10 = \(.*\)|\1|p' $PRED.eval)  >> $LANG_TT_OUT
 		echo $(sed -ne 's|^Potential = \(.*\)|\1|p' $PRED.eval)  >> $LANG_TT_OUT
 
-		paste $OUTF $LANG_TT_OUT > $TMPF
+		paste $OUTF $LANG_TT_OUT $LANG_TT_PUB > $TMPF
 		mv $TMPF $OUTF
 	done
 done
