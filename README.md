@@ -4,7 +4,13 @@ This fork aims to repruduce baselines from [TSAR Shared Task 2022](https://githu
 
 To rule out differences in ranking/filtering, I do not filter the results and compare only **Potential**.
 
-So far, the results for Spanish and Portuguese diverge substantially from the published ones. For Portuguese, my reproduced **Potential@20 is 0.6576**, while the published **Potential@10 is 0.7472**. That is, even though I am generating 20 candidates, the results are much lower than the published results for top 10 candidates after filtering/reranking.
+So far, the results for Spanish and Portuguese diverge substantially from the published ones.
+
+For Spanish, my reproduced **Potential@20 is 0.6576**, while the published **Potential@10 is 0.7472**. That is, even though I am generating 20 candidates, the results are much lower than the published results for top 10 candidates after filtering/reranking.
+
+For Portuguese, it's the other way around, the attempt to reproduce the baseline has much higher potential than the published baseline.
+
+Assuming that the published baseline also generated only 20 candidates (the default parameter value), the discrepancy for both languaes is surprising, and in case of Spanish cannot be explained by reranking/filtering of the results.
 
 ![Comparison](results/lsbert_potential_chart.png)
 
